@@ -152,3 +152,19 @@
   orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
+- id: arXiv:2305.02480
+  title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
+    Intel Xeon Scalable Processors
+  authors:
+  - Reese Kuper
+  - Ipoom Jeong
+  - Yifan Yuan
+  - Jiayu Hu
+  - Ren Wang
+  - Narayan Ranganathan
+  - Nam Sung Kim
+  publisher: arXiv
+  date: '2024-01-31'
+  link: https://arxiv.org/abs/2305.02480
+  plugin: sources.py
+  file: sources.yaml
