@@ -5,3 +5,12 @@
 - id: doi:10.1109/MICRO56248.2022.00023
 - id: doi:10.1109/PACT58117.2023.00033
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
+
+# manually provide all citation details
+- title: Exploiting Back-End Fusion in Multi-Core Processors
+  authors:
+    - Jonghyun Park
+    - Ipoom Jeong
+    - Won Woo Ro
+  publisher: Annual Fall Conference of KIPS
+  date: 2014-01-01
