@@ -37,7 +37,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/Yonsei_University_Campus.jpg"
-  caption="Yonsei University Seoul Campus"
+  caption="Yonsei University (Seoul Campus)"
 %}
 
 {% endcapture %}
@@ -47,7 +47,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/Engineering_Park.png"
-  caption="Engineering Research Park B171B-2"
+  caption="Engineering Research Park"
 %}
 
 {% endcapture %}
