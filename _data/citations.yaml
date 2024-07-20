@@ -255,12 +255,65 @@
   link: https://doi.org/gt4t5p
   plugin: sources.py
   file: sources.yaml
+- title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
+  authors:
+  - Ipoom Jeong
+  - Sungji Choi
+  - Minjae Kim
+  - Enhyeok Jang
+  - Seokjin Go
+  - Won Woo Ro
+  publisher: International Conference on Electronics, Information, and Communication
+    (ICEIC)
+  date: '2014-01-28'
+  plugin: sources.py
+  file: sources.yaml
+- title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic
+    Adjustment of Bias Thresholds
+  authors:
+  - Ipoom Jeong
+  - Won Woo Ro
+  publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
+  date: '2018-06-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
+  authors:
+  - Hyunjun Shin
+  - Kyungmin Lee
+  - Ipoom Jeong
+  - Jong Hyun Park
+  - Won Woo Ro
+  publisher: International Conference on Electronics, Information, and Communication
+    (ICEIC)
+  date: '2017-01-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Heterogeneous Core Microarchitecture with Functional Unit Gating for High
+    Energy Efficiency
+  authors:
+  - Yoonsoo Kim
+  - Ipoom Jeong
+  - Won Woo Ro
+  publisher: Annual Summer Conference of IEIE
+  date: '2016-06-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: Analyzing Development Trends and Performance/Power Characteristics of Multi-Core
+    Processors
+  authors:
+  - Ipoom Jeong
+  - Won Woo Ro
+  publisher: Annual Summer Conference of IEIE
+  date: '2016-06-01'
+  plugin: sources.py
+  file: sources.yaml
 - title: Exploiting Back-End Fusion in Multi-Core Processors
   authors:
   - Jonghyun Park
   - Ipoom Jeong
   - Won Woo Ro
   publisher: Annual Fall Conference of KIPS
-  date: '2014-01-01'
+  date: '2014-11-01'
   plugin: sources.py
   file: sources.yaml
