@@ -190,3 +190,68 @@
   link: https://arxiv.org/abs/2303.15375
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ISOCC.2017.8368829
+  title: Parallel in-order execution architecture for low-power processor
+  authors:
+  - Kyungmin Lee
+  - Ipoom Jeong
+  - Won Woo Ro
+  publisher: 2017 International SoC Design Conference (ISOCC)
+  date: '2017-11-01'
+  link: https://doi.org/gmfwdx
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/HPCA47549.2020.00039
+  title: 'CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
+    In-Order Scheduling Windows'
+  authors:
+  - Ipoom Jeong
+  - Seihoon Park
+  - Changmin Lee
+  - Won Woo Ro
+  publisher: 2020 IEEE International Symposium on High Performance Computer Architecture
+    (HPCA)
+  date: '2020-02-01'
+  link: https://doi.org/gnqczr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MICRO56248.2022.00023
+  title: Reconstructing Out-of-Order Issue Queue
+  authors:
+  - Ipoom Jeong
+  - Jiwon Lee
+  - Myung Kuk Yoon
+  - Won Woo Ro
+  publisher: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  date: '2022-10-01'
+  link: https://doi.org/gt4t5m
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/PACT58117.2023.00033
+  title: 'INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core'
+  authors:
+  - Jae Seok Kwak
+  - Myung Kuk Yoon
+  - Ipoom Jeong
+  - Seunghyun Jin
+  - Won Woo Ro
+  publisher: 2023 32nd International Conference on Parallel Architectures and Compilation
+    Techniques (PACT)
+  date: '2023-10-21'
+  link: https://doi.org/gt4t5n
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
+  title: A convertible neural processor supporting adaptive quantization for real-time
+    neural networks
+  authors:
+  - Hongju Kal
+  - Hyoseong Choi
+  - Ipoom Jeong
+  - Joon-Sung Yang
+  - Won Woo Ro
+  publisher: Journal of Systems Architecture
+  date: '2023-12-01'
+  link: https://doi.org/gt4t5p
+  plugin: sources.py
+  file: sources.yaml
