@@ -47,7 +47,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include figure.html
   image="images/Engineering_Park.png"
-  caption="Engineering Park"
+  caption="Engineering Research Park B171B-2"
 %}
 
 {% endcapture %}
