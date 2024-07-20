@@ -7,9 +7,19 @@
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
 
 # manually correct specific citation detail
+- id: doi:10.1109/PACT58117.2023.00033
+  publisher: International Conference On Parallel Architectures And Compilation Techniques (PACT)
+  
+- id: doi:10.1109/MICRO56248.2022.00023
+  publisher: IEEE/ACM International Symposium On Microarchitecture (MICRO)
+  
+- id: doi:10.1109/HPCA47549.2020.00039
+  publisher: IEEE International Symposium On High Performance Computer Architecture (HPCA)
+  
 - id: doi:10.1109/ISOCC.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
-  
+
+
 # manually provide all citation details
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
