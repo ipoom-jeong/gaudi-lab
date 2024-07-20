@@ -255,3 +255,12 @@
   link: https://doi.org/gt4t5p
   plugin: sources.py
   file: sources.yaml
+- title: Exploiting Back-End Fusion in Multi-Core Processors
+  authors:
+  - Jonghyun Park
+  - Ipoom Jeong
+  - Won Woo Ro
+  publisher: Annual Fall Conference of KIPS
+  date: '2014-01-01'
+  plugin: sources.py
+  file: sources.yaml
