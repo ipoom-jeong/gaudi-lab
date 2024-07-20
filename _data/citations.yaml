@@ -1,174 +1,155 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1145/3620665.3640401
+  title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
+    Intel Xeon Scalable Processors
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Reese Kuper
+  - Ipoom Jeong
+  - Yifan Yuan
+  - Ren Wang
+  - Narayan Ranganathan
+  - Nikhil Rao
+  - Jiayu Hu
+  - Sanjay Kumar
+  - Philip Lantz
+  - Nam Sung Kim
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 2
+  date: '2024-04-27'
+  link: https://doi.org/gt4tw7
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1145/3620666.3651325
+  title: 'TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer
+    Attacks'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Chihun Song
+  - Michael Jaemin Kim
+  - Tianchen Wang
+  - Houxiang Ji
+  - Jinghan Huang
+  - Ipoom Jeong
+  - Jaehyun Park
+  - Hwayong Nam
+  - Minbok Wi
+  - Jung Ho Ahn
+  - Nam Sung Kim
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 3
+  date: '2024-04-27'
+  link: https://doi.org/gt4tw8
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1145/3627703.3629588
+  title: 'ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives'
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Kiet Tuan Pham
+  - Seokjoo Cho
+  - Sangjin Lee
+  - Lan Anh Nguyen
+  - Hyeongi Yeo
+  - Ipoom Jeong
+  - Sungjin Lee
+  - Nam Sung Kim
+  - Yongseok Son
+  publisher: Proceedings of the Nineteenth European Conference on Computer Systems
+  date: '2024-04-22'
+  link: https://doi.org/gt4tw9
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1109/LES.2023.3307622
+  title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
+    Bank Utilization'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Ipoom Jeong
+  - Eunbi Jeong
+  - Nam Sung Kim
+  - Myung Kuk Yoon
+  publisher: IEEE Embedded Systems Letters
+  date: '2024-06-01'
+  link: https://doi.org/gt4txb
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1145/3613424.3614256
+  title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Yan Sun
+  - Yifan Yuan
+  - Zeduo Yu
+  - Reese Kuper
+  - Chihun Song
+  - Jinghan Huang
+  - Houxiang Ji
+  - Siddharth Agarwal
+  - Jiaqi Lou
+  - Ipoom Jeong
+  - Ren Wang
+  - Jung Ho Ahn
+  - Tianyin Xu
+  - Nam Sung Kim
+  publisher: 56th Annual IEEE/ACM International Symposium on Microarchitecture
+  date: '2023-10-28'
+  link: https://doi.org/gtm3mf
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1109/LCA.2023.3290427
+  title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Ipoom Jeong
+  - Jiaqi Lou
+  - Yongseok Son
+  - Yongjoo Park
+  - Yifan Yuan
+  - Nam Sung Kim
+  publisher: IEEE Computer Architecture Letters
+  date: '2023-07-01'
+  link: https://doi.org/gt4txc
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1109/LES.2022.3163749
+  title: 'CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs'
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Yunho Oh
+  - Ipoom Jeong
+  - Won Woo Ro
+  - Myung Kuk Yoon
+  publisher: IEEE Embedded Systems Letters
+  date: '2022-12-01'
+  link: https://doi.org/gt4txd
+  orcid: 0000-0001-7513-2858
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ACCESS.2022.3196149
+  title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
+  authors:
+  - Ipoom Jeong
+  - Yunho Oh
+  - Won Woo Ro
+  - Myung Kuk Yoon
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/gt4txf
+  orcid: 0000-0001-7513-2858
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TC.2019.2936557
+  title: 'OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming'
+  authors:
+  - Ipoom Jeong
+  - Changmin Lee
+  - Keunsoo Kim
+  - Won Woo Ro
+  publisher: IEEE Transactions on Computers
+  date: '2019-12-01'
+  link: https://doi.org/gt4txg
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +165,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +181,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
