@@ -1,274 +1,155 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.7554/eLife.87753
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
+- id: doi:10.1145/3620665.3640401
+  title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
+    Intel Xeon Scalable Processors
   authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - Pernille Yilmam
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife
-  date: '2024-06-28'
-  link: https://doi.org/gt4jqh
-  orcid: 0000-0002-2336-4531
+  - Reese Kuper
+  - Ipoom Jeong
+  - Yifan Yuan
+  - Ren Wang
+  - Narayan Ranganathan
+  - Nikhil Rao
+  - Jiayu Hu
+  - Sanjay Kumar
+  - Philip Lantz
+  - Nam Sung Kim
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 2
+  date: '2024-04-27'
+  link: https://doi.org/gt4tw7
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.87753.3
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
+- id: doi:10.1145/3620666.3651325
+  title: 'TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer
+    Attacks'
   authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - Pernille Yilmam
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife
-  date: '2024-06-28'
-  link: https://doi.org/gt4jqj
-  orcid: 0000-0002-2336-4531
+  - Chihun Song
+  - Michael Jaemin Kim
+  - Tianchen Wang
+  - Houxiang Ji
+  - Jinghan Huang
+  - Ipoom Jeong
+  - Jaehyun Park
+  - Hwayong Nam
+  - Minbok Wi
+  - Jung Ho Ahn
+  - Nam Sung Kim
+  publisher: Proceedings of the 29th ACM International Conference on Architectural
+    Support for Programming Languages and Operating Systems, Volume 3
+  date: '2024-04-27'
+  link: https://doi.org/gt4tw8
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.97399.1
-  title: 'Patch-walking: Coordinated multi-pipette patch clamp for efficiently finding
-    synaptic connections'
+- id: doi:10.1145/3627703.3629588
+  title: 'ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives'
   authors:
-  - Mighten C. Yip
-  - Mercedes M. Gonzalez
-  - Colby F. Lewallen
-  - Corey R. Landry
-  - Ilya Kolb
-  - Bo Yang
-  - William M. Stoy
-  - Ming-fai Fong
-  - Matthew J.M. Rowan
-  - Edward S. Boyden
-  - Craig R. Forest
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-06-13'
-  link: https://doi.org/gtzht7
-  orcid: 0000-0002-2336-4531
+  - Kiet Tuan Pham
+  - Seokjoo Cho
+  - Sangjin Lee
+  - Lan Anh Nguyen
+  - Hyeongi Yeo
+  - Ipoom Jeong
+  - Sungjin Lee
+  - Nam Sung Kim
+  - Yongseok Son
+  publisher: Proceedings of the Nineteenth European Conference on Computer Systems
+  date: '2024-04-22'
+  link: https://doi.org/gt4tw9
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/elife.87753.2
-  title: GABAergic synaptic scaling is triggered by changes in spiking activity rather
-    than AMPA receptor activation
+- id: doi:10.1109/LES.2023.3307622
+  title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
+    Bank Utilization'
   authors:
-  - Carlos Gonzalez-Islas
-  - Zahraa Sabra
-  - Ming-fai Fong
-  - "Pernille B\xFClow"
-  - Nicholas Au Yong
-  - Kathrin Engisch
-  - Peter Wenner
-  publisher: eLife Sciences Publications, Ltd
-  date: '2024-06-07'
-  link: https://doi.org/gtztk3
-  orcid: 0000-0002-2336-4531
+  - Ipoom Jeong
+  - Eunbi Jeong
+  - Nam Sung Kim
+  - Myung Kuk Yoon
+  publisher: IEEE Embedded Systems Letters
+  date: '2024-06-01'
+  link: https://doi.org/gt4txb
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.04.479188
-  title: Reward contingency gates selective cholinergic suppression of amygdala neurons
+- id: doi:10.1145/3613424.3614256
+  title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
   authors:
-  - Eyal Y. Kimchi
-  - Anthony Burgos-Robles
-  - Gillian A. Matthews
-  - Tatenda Chakoma
-  - Makenzie Patarino
-  - Javier Weddington
-  - Cody A. Siciliano
-  - Wannan Yang
-  - Shaun Foutch
-  - Renee Simons
-  - Ming-fai Fong
-  - Miao Jing
-  - Yulong Li
-  - Daniel B. Polley
-  - Kay M. Tye
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-05'
-  link: https://doi.org/gq6mfx
-  orcid: 0000-0002-2336-4531
+  - Yan Sun
+  - Yifan Yuan
+  - Zeduo Yu
+  - Reese Kuper
+  - Chihun Song
+  - Jinghan Huang
+  - Houxiang Ji
+  - Siddharth Agarwal
+  - Jiaqi Lou
+  - Ipoom Jeong
+  - Ren Wang
+  - Jung Ho Ahn
+  - Tianyin Xu
+  - Nam Sung Kim
+  publisher: 56th Annual IEEE/ACM International Symposium on Microarchitecture
+  date: '2023-10-28'
+  link: https://doi.org/gtm3mf
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fnins.2023.1167007
-  title: Investigation of the efficacy and safety of retinal inactivation as a treatment
-    for amblyopia in cats
+- id: doi:10.1109/LCA.2023.3290427
+  title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
-  - Mairin Hogan
-  - Nadia R. DiCostanzo
-  - Nathan A. Crowder
-  - Ming-fai Fong
-  - Kevin R. Duffy
-  publisher: Frontiers in Neuroscience
-  date: '2023-06-20'
-  link: https://doi.org/gsjtrm
-  orcid: 0000-0002-2336-4531
+  - Ipoom Jeong
+  - Jiaqi Lou
+  - Yongseok Son
+  - Yongjoo Park
+  - Yifan Yuan
+  - Nam Sung Kim
+  publisher: IEEE Computer Architecture Letters
+  date: '2023-07-01'
+  link: https://doi.org/gt4txc
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.70023
-  title: Correction of amblyopia in cats and mice after the critical period
+- id: doi:10.1109/LES.2022.3163749
+  title: 'CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs'
   authors:
-  - Ming-fai Fong
-  - Kevin R Duffy
-  - Madison P Leet
-  - Christian T Candler
-  - Mark F Bear
-  publisher: eLife
-  date: '2021-08-31'
-  link: https://doi.org/gmqmgr
-  orcid: 0000-0002-2336-4531
+  - Yunho Oh
+  - Ipoom Jeong
+  - Won Woo Ro
+  - Myung Kuk Yoon
+  publisher: IEEE Embedded Systems Letters
+  date: '2022-12-01'
+  link: https://doi.org/gt4txd
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/jneurosci.1393-19.2020
-  title: Divergent Synaptic Scaling of Miniature EPSCs following Activity Blockade
-    in Dissociated Neuronal Cultures
+- id: doi:10.1109/ACCESS.2022.3196149
+  title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
   authors:
-  - Amanda L. Hanes
-  - Andrew G. Koesters
-  - Ming-fai Fong
-  - Haider F. Altimimi
-  - David Stellwagen
-  - Peter Wenner
-  - Kathrin L. Engisch
-  publisher: The Journal of Neuroscience
-  date: '2020-04-20'
-  link: https://doi.org/gkcdsv
-  orcid: 0000-0002-2336-4531
+  - Ipoom Jeong
+  - Yunho Oh
+  - Won Woo Ro
+  - Myung Kuk Yoon
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/gt4txf
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/cercor/bhz260
-  title: Distinct Laminar Requirements for NMDA Receptors in Experience-Dependent
-    Visual Cortical Plasticity
+- id: doi:10.1109/TC.2019.2936557
+  title: 'OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming'
   authors:
-  - Ming-fai Fong
-  - Peter Sb Finnie
-  - Taekeun Kim
-  - Aurore Thomazeau
-  - Eitan S Kaplan
-  - Samuel F Cooke
-  - Mark F Bear
-  publisher: Cerebral Cortex
-  date: '2019-12-12'
-  link: https://doi.org/gkcdsx
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1002/cne.24336
-  title: "Recovery from the anatomical effects of long\u2010term monocular deprivation\
-    \ in cat lateral geniculate nucleus"
-  authors:
-  - Kevin R. Duffy
-  - "Ming\u2010fai Fong"
-  - Donald E. Mitchell
-  - Mark F. Bear
-  publisher: Journal of Comparative Neurology
-  date: '2017-10-27'
-  link: https://doi.org/gcgzxt
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.1613279113
-  title: Rapid recovery from the effects of early monocular deprivation is enabled
-    by temporary inactivation of the retinas
-  authors:
-  - Ming-fai Fong
-  - Donald E. Mitchell
-  - Kevin R. Duffy
-  - Mark F. Bear
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2016-11-17'
-  link: https://doi.org/f9f2gw
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/elife.07192
-  title: Optogenetic feedback control of neural activity
-  authors:
-  - Jonathan P Newman
-  - Ming-fai Fong
-  - Daniel C Millard
-  - Clarissa J Whitmire
-  - Garrett B Stanley
-  - Steve M Potter
-  publisher: eLife
-  date: '2015-07-03'
-  link: https://doi.org/ghbdss
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/ncomms7339
-  title: Upward synaptic scaling is dependent on neurotransmission rather than spiking
-  authors:
-  - Ming-fai Fong
-  - Jonathan P. Newman
-  - Steve M. Potter
-  - Peter Wenner
-  publisher: Nature Communications
-  date: '2015-03-09'
-  link: https://doi.org/f67qht
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fncir.2012.00098
-  title: Closed-Loop, Multichannel Experimentation Using the Open-Source NeuroRighter
-    Electrophysiology Platform
-  authors:
-  - Jonathan P. Newman
-  - Riley Zeller-Townson
-  - Ming-Fai Fong
-  - Sharanya Arcot Desai
-  - Robert E. Gross
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/gkcds5
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.3389/fncir.2013.00184
-  title: Delivery of continuously-varying stimuli using channelrhodopsin-2
-  authors:
-  - Tatjana Tchumatchenko
-  - Jonathan P. Newman
-  - Ming-fai Fong
-  - Steve M. Potter
-  publisher: Frontiers in Neural Circuits
-  date: '2013-01-01'
-  link: https://doi.org/ghbhp2
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/1471-2202-13-s1-p71
-  title: Amplitude modulated photostimulation for probing neuronal network dynamics
-  authors:
-  - Jonathan P Newman
-  - Tatjana Tchumatchenko
-  - Ming-fai Fong
-  - Steve M Potter
-  publisher: BMC Neuroscience
-  date: '2012-07-01'
-  link: https://doi.org/gb5hjf
-  orcid: 0000-0002-2336-4531
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1109/robot.2004.1302452
-  title: Actuating a simple 3D passive dynamic walker
-  authors:
-  - R. Tedrake
-  - T.W. Zhang
-  - ' Ming-fai Fong'
-  - H.S. Seung
-  publisher: IEEE International Conference on Robotics and Automation, 2004. Proceedings.
-    ICRA '04. 2004
-  date: '2004-01-01'
-  link: https://doi.org/dv3zh3
-  orcid: 0000-0002-2336-4531
+  - Ipoom Jeong
+  - Changmin Lee
+  - Keunsoo Kim
+  - Won Woo Ro
+  publisher: IEEE Transactions on Computers
+  date: '2019-12-01'
+  link: https://doi.org/gt4txg
+  orcid: 0000-0001-7513-2858
   plugin: orcid.py
   file: orcid.yaml
 - id: arXiv:2305.02480
