@@ -6,6 +6,10 @@
 - id: doi:10.1109/PACT58117.2023.00033
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
 
+# manually correct specific citation detail
+- id: doi:10.1109/ISOCC.2017.8368829
+  title: Parallel In-Order Execution Architecture for Low-Power Processor
+  
 # manually provide all citation details
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
@@ -16,7 +20,7 @@
     - Seokjin Go
     - Won Woo Ro
   publisher: International Conference on Electronics, Information, and Communication (ICEIC)
-  date: 2014-01-28
+  date: 2024-01-28
 
 - title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds
   authors:
