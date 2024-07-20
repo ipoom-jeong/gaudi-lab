@@ -7,14 +7,29 @@
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
 
 # manually correct specific citation detail
+- id: doi:10.1145/3620666.3651325
+  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+
+- id: doi:10.1145/3620665.3640401
+  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+
+- id: doi:10.1145/3627703.3629588
+  publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
+
+- id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
+  publisher: Journal of Systems Architecture (JSA)
+
+- id: doi:10.1145/3613424.3614256
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+
 - id: doi:10.1109/PACT58117.2023.00033
-  publisher: International Conference On Parallel Architectures And Compilation Techniques (PACT)
+  publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
   
 - id: doi:10.1109/MICRO56248.2022.00023
-  publisher: IEEE/ACM International Symposium On Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   
 - id: doi:10.1109/HPCA47549.2020.00039
-  publisher: IEEE International Symposium On High Performance Computer Architecture (HPCA)
+  publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA)
   
 - id: doi:10.1109/ISOCC.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
