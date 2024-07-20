@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/Yonsei+University,+Sinchon+Campus/data=!3m1!4b1!4m6!3m5!1s0x357c988ea13e280f:0xb7b75243ec5a638e!8m2!3d37.5663937!4d126.9387066!16zL20vMDNrd2xz?entry=ttu"
 %}
 
 {% include section.html %}
@@ -36,8 +36,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Yonsei_University_Campus.jpg"
+  caption="Yonsei University (Seoul Campus)"
 %}
 
 {% endcapture %}
@@ -46,8 +46,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Engineering_Park.png"
+  caption="Engineering Park"
 %}
 
 {% endcapture %}
