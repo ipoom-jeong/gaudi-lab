@@ -14,13 +14,13 @@
   - Sanjay Kumar
   - Philip Lantz
   - Nam Sung Kim
-  publisher: Proceedings of the 29th ACM International Conference on Architectural
-    Support for Programming Languages and Operating Systems, Volume 2
+  publisher: ACM Conference on Architectural Support for Programming Languages and
+    Operating Systems (ASPLOS)
   date: '2024-04-27'
   link: https://doi.org/gt4tw7
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3620666.3651325
   title: 'TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer
     Attacks'
@@ -36,13 +36,13 @@
   - Minbok Wi
   - Jung Ho Ahn
   - Nam Sung Kim
-  publisher: Proceedings of the 29th ACM International Conference on Architectural
-    Support for Programming Languages and Operating Systems, Volume 3
+  publisher: ACM Conference on Architectural Support for Programming Languages and
+    Operating Systems (ASPLOS)
   date: '2024-04-27'
   link: https://doi.org/gt4tw8
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3627703.3629588
   title: 'ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives'
   authors:
@@ -55,12 +55,12 @@
   - Sungjin Lee
   - Nam Sung Kim
   - Yongseok Son
-  publisher: Proceedings of the Nineteenth European Conference on Computer Systems
+  publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
   date: '2024-04-22'
   link: https://doi.org/gt4tw9
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/LES.2023.3307622
   title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
     Bank Utilization'
@@ -92,12 +92,12 @@
   - Jung Ho Ahn
   - Tianyin Xu
   - Nam Sung Kim
-  publisher: 56th Annual IEEE/ACM International Symposium on Microarchitecture
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   date: '2023-10-28'
   link: https://doi.org/gtm3mf
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/LCA.2023.3290427
   title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
@@ -209,7 +209,7 @@
   - Seihoon Park
   - Changmin Lee
   - Won Woo Ro
-  publisher: IEEE International Symposium On High Performance Computer Architecture
+  publisher: IEEE International Symposium on High Performance Computer Architecture
     (HPCA)
   date: '2020-02-01'
   link: https://doi.org/gnqczr
@@ -222,7 +222,7 @@
   - Jiwon Lee
   - Myung Kuk Yoon
   - Won Woo Ro
-  publisher: IEEE/ACM International Symposium On Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   date: '2022-10-01'
   link: https://doi.org/gt4t5m
   plugin: sources.py
@@ -235,8 +235,8 @@
   - Ipoom Jeong
   - Seunghyun Jin
   - Won Woo Ro
-  publisher: International Conference On Parallel Architectures And Compilation Techniques
-    (PACT)
+  publisher: ACM International Conference on Parallel Architectures And Compilation
+    Techniques (PACT)
   date: '2023-10-21'
   link: https://doi.org/gt4t5n
   plugin: sources.py
@@ -250,7 +250,7 @@
   - Ipoom Jeong
   - Joon-Sung Yang
   - Won Woo Ro
-  publisher: Journal of Systems Architecture
+  publisher: Journal of Systems Architecture (JSA)
   date: '2023-12-01'
   link: https://doi.org/gt4t5p
   plugin: sources.py
