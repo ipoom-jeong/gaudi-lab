@@ -17,7 +17,7 @@
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
 
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
-  publisher: Journal of Systems Architecture (JSA)
+  publisher: Journal of Systems Architecture
 
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
