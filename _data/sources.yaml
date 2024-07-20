@@ -18,14 +18,14 @@
   publisher: International Conference on Electronics, Information, and Communication (ICEIC)
   date: 2014-01-28
 
-  - title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds
+- title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds
   authors:
     - Ipoom Jeong
     - Won Woo Ro
   publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
   date: 2018-06-01
 
-  - title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
+- title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
   authors:
     - Hyunjun Shin
     - Kyungmin Lee
@@ -35,7 +35,7 @@
   publisher: International Conference on Electronics, Information, and Communication (ICEIC)
   date: 2017-01-01
 
-  - title: Heterogeneous Core Microarchitecture with Functional Unit Gating for High Energy Efficiency
+- title: Heterogeneous Core Microarchitecture with Functional Unit Gating for High Energy Efficiency
   authors:
     - Yoonsoo Kim
     - Ipoom Jeong
@@ -43,7 +43,7 @@
   publisher: Annual Summer Conference of IEIE
   date: 2016-06-01
 
-  - title: Analyzing Development Trends and Performance/Power Characteristics of Multi-Core Processors
+- title: Analyzing Development Trends and Performance/Power Characteristics of Multi-Core Processors
   authors:
     - Ipoom Jeong
     - Won Woo Ro
