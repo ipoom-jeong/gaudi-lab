@@ -168,3 +168,25 @@
   link: https://arxiv.org/abs/2305.02480
   plugin: sources.py
   file: sources.yaml
+- id: arXiv:2303.15375
+  title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
+  authors:
+  - Yan Sun
+  - Yifan Yuan
+  - Zeduo Yu
+  - Reese Kuper
+  - Chihun Song
+  - Jinghan Huang
+  - Houxiang Ji
+  - Siddharth Agarwal
+  - Jiaqi Lou
+  - Ipoom Jeong
+  - Ren Wang
+  - Jung Ho Ahn
+  - Tianyin Xu
+  - Nam Sung Kim
+  publisher: arXiv
+  date: '2023-10-06'
+  link: https://arxiv.org/abs/2303.15375
+  plugin: sources.py
+  file: sources.yaml
