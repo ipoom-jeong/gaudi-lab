@@ -325,6 +325,46 @@
   link: https://doi.org/gt4t5p
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/ISCA59077.2024.00051
+  title: 'HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative
+    Computing'
+  authors:
+  - Jinghan Huang
+  - Jiaqi Lou
+  - Srikar Vanavasam
+  - Xinhao Kong
+  - Houxiang Ji
+  - Ipoom Jeong
+  - Danyang Zhuo
+  - Eun Kyung Lee
+  - Nam Sung Kim
+  publisher: 2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture
+    (ISCA)
+  date: '2024-06-29'
+  link: https://doi.org/gt6m8t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISCA59077.2024.00066
+  title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
+  authors:
+  - Yifan Yuan
+  - Ren Wang
+  - Narayan Ranganathan
+  - Nikhil Rao
+  - Sanjay Kumar
+  - Philip Lantz
+  - Vivekananthan Sanjeepan
+  - Jorge Cabrera
+  - Atul Kwatra
+  - Rajesh Sankaran
+  - Ipoom Jeong
+  - Nam Sung Kim
+  publisher: 2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture
+    (ISCA)
+  date: '2024-06-29'
+  link: https://doi.org/gt6m8v
+  plugin: sources.py
+  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
