@@ -7,6 +7,7 @@ aliases:
   - I. Jeong
 links:
   home-page: https://ipoom-jeong.com/
+  linkedin: ipoom-jeong
   orcid: 0000-0001-7513-2858
   email: ipoom@yonsei.ac.kr
 ---
