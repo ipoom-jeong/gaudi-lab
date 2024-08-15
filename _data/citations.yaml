@@ -361,6 +361,7 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: '2024-06-29'
   link: https://doi.org/gt6m8v
+  type: paper
   tags:
   - On-chip acceleration
   - Server SoC
