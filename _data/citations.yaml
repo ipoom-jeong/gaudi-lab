@@ -363,7 +363,6 @@
   link: https://doi.org/gt6m8v
   plugin: sources.py
   file: sources.yaml
-  type: paper
   tags:
   - On-chip acceleration
   - Server SoC
