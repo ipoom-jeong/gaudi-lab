@@ -361,13 +361,13 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: '2024-06-29'
   link: https://doi.org/gt6m8v
+  plugin: sources.py
+  file: sources.yaml
   type: paper
   tags:
   - On-chip acceleration
   - Server SoC
   - Intel CPU
-  plugin: sources.py
-  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
