@@ -11,7 +11,6 @@
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  type: paper
   tags:
     - On-chip acceleration
     - Server SoC
