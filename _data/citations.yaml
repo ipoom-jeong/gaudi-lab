@@ -365,6 +365,7 @@
   - On-chip acceleration
   - Server SoC
   - Intel CPU
+  image: ../images/spr_die_xcc.png
   plugin: sources.py
   file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
