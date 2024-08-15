@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is affiliated with the Department of System Semiconductor Engineering at Yonsei University. We are situated on Yonsei University's Seoul campus, specifically in Room B171B-2 within the Engineering Research Park.
+Our lab is affiliated with the Department of [System Semiconductor Engineering at Yonsei University](https://system.yonsei.ac.kr/index.php). We are situated on Yonsei University's Seoul campus, specifically in Room B171B-2 within the Engineering Research Park.
 
 Address: Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
 
