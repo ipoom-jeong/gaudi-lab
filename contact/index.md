@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University.
+Our lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University. If you're interested in our lab, please contact us in advance at ipoom@yonsei.ac.kr.
 
 Address: Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
 
