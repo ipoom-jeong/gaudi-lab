@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: ipoom@yonsei.ac.kr
-  orcid: https://orcid.org/0000-0001-7513-2858
+  orcid: 0000-0001-7513-2858
   google-scholar: https://scholar.google.com/citations?user=iGTEZKcAAAAJ&hl=en
 
 ### jekyll settings
