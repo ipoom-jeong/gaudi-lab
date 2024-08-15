@@ -9,12 +9,10 @@
 
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
-  {%
-    include tags.html
-    tags="On-chip acceleration, SoC, Intel, Server"
-    repo="your-lab/some-repo"
-    link="blog"
-  %}
+  tags:
+    - On-chip acceleration
+    - Server SoC
+    - Intel CPU
 
 # manually correct specific citation detail
 - id: doi:10.1109/ISCA59077.2024.00051
