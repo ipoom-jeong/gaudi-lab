@@ -14,6 +14,7 @@
     - On-chip acceleration
     - Server SoC
     - Intel CPU
+  image: ../images/spr_die_xcc.png
 
 # manually correct specific citation detail
 - id: doi:10.1109/ISCA59077.2024.00051
