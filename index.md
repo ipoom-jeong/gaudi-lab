@@ -11,7 +11,7 @@
 
 **[24.07.01]** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-**[24.03.01]** **Dr. Ipoom Jeong** is joining the Department of System Semiconductor Engineering as an Assistant Professor, and **the GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
+**[24.03.01]**  **Dr. Ipoom Jeong** is joining the Department of System Semiconductor Engineering as an Assistant Professor, and **the GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
 
 
 {% include section.html %}
