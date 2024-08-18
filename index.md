@@ -7,6 +7,8 @@
 
 ## News
 
+Hello
+
 {% include section.html %}
 
 ## Highlights
