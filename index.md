@@ -9,6 +9,13 @@
 
 Hello
 
+{% capture text %}
+
+Hello
+
+{% endcapture %}
+
+
 {% include section.html %}
 
 ## Highlights
