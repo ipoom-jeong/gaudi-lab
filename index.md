@@ -7,7 +7,6 @@
 
 ## News
 
-Hello
 
 {% capture text %}
 
