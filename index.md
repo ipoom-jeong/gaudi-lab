@@ -12,7 +12,6 @@
 
 Hello
 
-
 {% endcapture %}
 
 
