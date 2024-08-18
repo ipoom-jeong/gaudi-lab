@@ -11,6 +11,9 @@
 {% capture text %}
 
 Hello
+Hello2
+
+Hello3
 
 {% endcapture %}
 
