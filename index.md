@@ -3,7 +3,9 @@
 
 # Welcome to GAUDI Lab!
 
+{% include section.html %}
 
+## News
 
 {% include section.html %}
 
