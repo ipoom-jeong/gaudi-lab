@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research topics"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
