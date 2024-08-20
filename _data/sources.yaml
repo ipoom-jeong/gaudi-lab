@@ -5,7 +5,6 @@
 - id: doi:10.1109/MICRO56248.2022.00023
 - id: doi:10.1109/PACT58117.2023.00033
 - id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
-- id: doi:10.1109/ISCA59077.2024.00051
 
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
@@ -19,6 +18,7 @@
 # manually correct specific citation detail
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+    image: /images/spr_die_xcc.png
   
 - id: doi:10.1145/3620666.3651325
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
