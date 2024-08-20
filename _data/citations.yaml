@@ -88,8 +88,8 @@
   date: '2023-12-01'
   link: https://doi.org/gt4t5p
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3613424.3614256
   title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
   authors:
@@ -121,13 +121,13 @@
   - Ipoom Jeong
   - Seunghyun Jin
   - Won Woo Ro
-  publisher: 2023 32nd International Conference on Parallel Architectures and Compilation
+  publisher: ACM International Conference on Parallel Architectures And Compilation
     Techniques (PACT)
   date: '2023-10-21'
   link: https://doi.org/gt4t5n
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/LCA.2023.3290427
   title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
@@ -163,12 +163,12 @@
   - Jiwon Lee
   - Myung Kuk Yoon
   - Won Woo Ro
-  publisher: 2022 55th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   date: '2022-10-01'
   link: https://doi.org/gt4t5m
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ACCESS.2022.3196149
   title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
   authors:
@@ -269,46 +269,6 @@
   publisher: 2017 International SoC Design Conference (ISOCC)
   date: '2017-11-01'
   link: https://doi.org/gmfwdx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/MICRO56248.2022.00023
-  title: Reconstructing Out-of-Order Issue Queue
-  authors:
-  - Ipoom Jeong
-  - Jiwon Lee
-  - Myung Kuk Yoon
-  - Won Woo Ro
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  date: '2022-10-01'
-  link: https://doi.org/gt4t5m
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/PACT58117.2023.00033
-  title: 'INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core'
-  authors:
-  - Jae Seok Kwak
-  - Myung Kuk Yoon
-  - Ipoom Jeong
-  - Seunghyun Jin
-  - Won Woo Ro
-  publisher: ACM International Conference on Parallel Architectures And Compilation
-    Techniques (PACT)
-  date: '2023-10-21'
-  link: https://doi.org/gt4t5n
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
-  title: A convertible neural processor supporting adaptive quantization for real-time
-    neural networks
-  authors:
-  - Hongju Kal
-  - Hyoseong Choi
-  - Ipoom Jeong
-  - Joon-Sung Yang
-  - Won Woo Ro
-  publisher: Journal of Systems Architecture
-  date: '2023-12-01'
-  link: https://doi.org/gt4t5p
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISCA59077.2024.00066
