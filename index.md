@@ -3,7 +3,7 @@
 
 # Welcome to GAUDI Lab!
 
-We are actively seeking **enthusiastic** and **highly motivated** Post-Docs, Ph.D. and M.S. students to join our exciting journey. If you're interested in our lab, please reach out to us at _ipoom@yonsei.ac.kr_.
+We are actively seeking **enthusiastic** and **highly motivated** Post-Docs, Ph.D. and M.S. students to join our exciting journey. If you're interested in our lab, please reach out to us at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
 
 {% include section.html %}
 
