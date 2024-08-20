@@ -3,6 +3,8 @@
 
 # Welcome to GAUDI Lab!
 
+We are
+
 {% include section.html %}
 
 ## News
