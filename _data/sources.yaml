@@ -1,9 +1,7 @@
 - id: arXiv:2305.02480
 - id: arXiv:2303.15375
 - id: doi:10.1109/ISOCC.2017.8368829
-- id: doi:10.1109/MICRO56248.2022.00023
-- id: doi:10.1109/PACT58117.2023.00033
-- id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
+- id: doi:10.1016/j.sysarc.2023.103025
 - id: doi:10.1109/ISCA59077.2024.00066
 - id: doi:10.1109/ISCA59077.2024.00051
 
@@ -35,16 +33,16 @@
 - id: doi:10.1145/3627703.3629588
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
 
-- id: doi:https://doi.org/10.1016/j.sysarc.2023.103025
+- id: doi:10.1016/j.sysarc.2023.103025
   publisher: Journal of Systems Architecture
 
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 
-- id: doi:10.1109/PACT58117.2023.00033
+- id: doi:10.1109/pact58117.2023.00033
   publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
   
-- id: doi:10.1109/MICRO56248.2022.00023
+- id: doi:10.1109/micro56248.2022.00023
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   
 - id: doi:10.1109/hpca47549.2020.00039
