@@ -343,13 +343,13 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: '2024-06-29'
   link: https://doi.org/gt6m8v
+  plugin: sources.py
+  file: sources.yaml
   tags:
   - On-chip acceleration
   - Server SoC
   - Intel CPU
   image: /images/spr_die_xcc.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/ISCA59077.2024.00051
   title: 'HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative
     Computing'
@@ -366,14 +366,14 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: '2024-06-29'
   link: https://doi.org/gt6m8t
+  plugin: sources.py
+  file: sources.yaml
   tags:
   - Network
   - Near-data processing
   - SmartNIC
   - Load balancing
   image: /images/spr_die_xcc.png
-  plugin: sources.py
-  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
