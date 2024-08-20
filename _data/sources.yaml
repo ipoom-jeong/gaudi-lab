@@ -18,6 +18,11 @@
 # manually correct specific citation detail
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tags:
+    - Network
+    - Near-data processing
+    - SmartNIC
+    - Load balancing
   image: /images/spr_die_xcc.png
   
 - id: doi:10.1145/3620666.3651325
