@@ -271,20 +271,6 @@
   link: https://doi.org/gmfwdx
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1109/HPCA47549.2020.00039
-  title: 'CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
-    In-Order Scheduling Windows'
-  authors:
-  - Ipoom Jeong
-  - Seihoon Park
-  - Changmin Lee
-  - Won Woo Ro
-  publisher: IEEE International Symposium on High Performance Computer Architecture
-    (HPCA)
-  date: '2020-02-01'
-  link: https://doi.org/gnqczr
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/MICRO56248.2022.00023
   title: Reconstructing Out-of-Order Issue Queue
   authors:
@@ -374,6 +360,20 @@
   - SmartNIC
   - Load balancing
   image: /images/spr_die_xcc.png
+- id: doi:10.1109/HPCA47549.2020.00039
+  title: 'CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
+    In-Order Scheduling Windows'
+  authors:
+  - Ipoom Jeong
+  - Seihoon Park
+  - Changmin Lee
+  - Won Woo Ro
+  publisher: IEEE International Symposium on High Performance Computer Architecture
+    (HPCA)
+  date: '2020-02-01'
+  link: https://doi.org/gnqczr
+  plugin: sources.py
+  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
