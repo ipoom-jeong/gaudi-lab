@@ -366,6 +366,11 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: '2024-06-29'
   link: https://doi.org/gt6m8t
+  tags:
+  - Network
+  - Near-data processing
+  - SmartNIC
+  - Load balancing
   image: /images/spr_die_xcc.png
   plugin: sources.py
   file: sources.yaml
