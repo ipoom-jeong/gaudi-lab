@@ -10,6 +10,7 @@ We are actively seeking **enthusiastic** and **highly motivated** Post-Docs, Ph.
 ## News
 
 **[24.07.01]** **JunHwan Lee** is joining our lab as an undergraduate research intern. Welcome aboard!
+
 **[24.03.01]** **Dr. Ipoom Jeong** is joining the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
 
 
