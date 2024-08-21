@@ -23,7 +23,7 @@ We are actively seeking **enthusiastic** and **highly motivated** Post-Docs, Ph.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Interested in meeting the faces behind our research? Click through and say hello to our team! We’re excited to welcome versatile researchers like you to join us.
 
 {%
   include button.html
