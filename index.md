@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Discover what our lab is all about! Our research focuses on high-performance and energy-efficient CPU/GPU microarchitectures, computing system orchestration, near-data processing, and emerging interconnect technologies.
+Discover what our lab is all about! Our research focuses on high-performance and energy-efficient CPU/GPU microarchitectures, computing system orchestration, near-data processing, emerging interconnect technologies, _etc_.
 
 {%
   include button.html
