@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Discover what our lab is all about! Our research focuses on high-performance and energy-efficient CPU/GPU microarchitectures, computing system orchestration, near-data processing, and emerging interconnect technologies.
 
 {%
   include button.html
