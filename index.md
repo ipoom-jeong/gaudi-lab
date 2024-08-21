@@ -38,7 +38,7 @@ Interested in meeting the faces behind our research? Click through and say hello
 
 {%
   include feature.html
-  image="images/our_team.jpg"
+  image="images/main/our_team.jpg"
   link="team"
   title="Our Team"
   text=text
@@ -71,7 +71,7 @@ Discover what our lab is all about! Our research focuses on high-performance and
 
 {%
   include feature.html
-  image="images/our_research.jpg"
+  image="images/main/our_research.jpg"
   link="research"
   title="Our Research"
   flip=true
@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/our_projects.jpg"
+  image="images/main/our_projects.jpg"
   link="projects"
   title="Our Projects"
   style="bare"
