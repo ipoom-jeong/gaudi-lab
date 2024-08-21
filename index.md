@@ -69,7 +69,7 @@ Discover what our lab is all about! Our research focuses on high-performance and
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_research.jpg"
   link="research"
   title="Our Research"
   flip=true
