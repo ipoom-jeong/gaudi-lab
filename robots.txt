@@ -1,1 +1,1 @@
-Sitemap: http://gaudi.yonsei.ac.kr/sitemap.xml
+Sitemap: https://ipoom-jeong.github.io/gaudi-lab/sitemap.xml
