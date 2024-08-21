@@ -27,8 +27,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% capture text %}
 
 # **Developing Low-Power Mobile Computing Platform**
-## **Developing Low-Power Mobile Computing Platform**
-### **Developing Low-Power Mobile Computing Platform**
 
 - Research project at Yonsei University joint with LG Electronics (2014.07 - 2017.11)
 - Inter- and Intra-core optimization techniques for higher energy efficiency of mobile APs (Application Processors)
