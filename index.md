@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_projects.jpg"
   link="projects"
   title="Our Projects"
   style="bare"
