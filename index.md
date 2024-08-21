@@ -38,7 +38,7 @@ Interested in meeting the faces behind our research? Click through and say hello
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/our_team.jpg"
   link="team"
   title="Our Team"
   text=text
