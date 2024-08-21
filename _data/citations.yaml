@@ -294,6 +294,7 @@
   - Near-data processing
   - SmartNIC
   - Load balancing
+  - CXL
   image: /images/spr_die_xcc.png
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
