@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b427b54e-61bc-4c5e-aac0-0359ac710b3e)---
+---
 ---
 
 # Welcome to GAUDI Lab!
