@@ -49,7 +49,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=true text=text %}
+{% include feature.html image="images/projects/cxl.jpg" flip=true text=text %}
 
 
 {% capture text %}
@@ -99,13 +99,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## **Constructing a Verification Environment for Data Plane Acceleration and Performance Analysis <br> (2015.07 - 2015.12)**
 
 - Research project at Yonsei University joint with ETRI 
-- Developing and verifying optimization techniques for improving data plane acceleration in virtualized network environment
+- Developing and verifying optimization techniques for improving data plane acceleration in a virtualized network environment
 
 {% include button.html flip=true style="bare" %}
 
 {% endcapture %}
 
-{% include feature.html image="images/network.png" flip=true text=text %}
+{% include feature.html image="images/projects/network.png" flip=true text=text %}
 
 
 {% capture text %}
