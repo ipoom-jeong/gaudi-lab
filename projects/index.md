@@ -29,9 +29,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive**
+## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive (2020.09 - 2021.08) **
 
-- Research and development project at Samsung Electronics (2020.09 - 2021.08)
+- Research and development project at Samsung Electronics 
 - Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
 - A prototype was announced at Flash Memory Summit (FMS) 2022
 
@@ -44,9 +44,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-# **Developing CPU-GPU Heterogeneous Computing Simulation Framework**
+## **Developing CPU-GPU Heterogeneous Computing Simulation Framework (2020.03 - 2020.08)**
 
-- Research and development project at Samsung Electronics (2020.03 - 2020.08)
+- Research and development project at Samsung Electronics 
 - D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
 
 {% include button.html flip=true style="bare" %}
@@ -58,9 +58,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-# **Developing Energy-Efficient Approximate Memory for Neural Network Applications**
+## **Developing Energy-Efficient Approximate Memory for Neural Network Applications (2018.07 - 2019.06)**
 
-- Research project at Yonsei University joint with SK Hynix (2018.07 - 2019.06)
+- Research project at Yonsei University joint with SK Hynix 
 - E﻿xploring an energy-efficient approximate memory architecture for deep learning applications
 
 {% include button.html flip=true style="bare" %}
@@ -72,9 +72,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-# **Developing Processor and Memory System for Next-Generation Security Platform**
+## **Developing Processor and Memory System for Next-Generation Security Platform (2017.09 - 2018.08)**
 
-- Research project at Yonsei University joint with Samsung Electronics (2017.09 - 2018.08)
+- Research project at Yonsei University joint with Samsung Electronics 
 - Developing ASIPs (Application-Specific Instruction-Set Processors) for cryptographic algorithms (e.g., AES, SHA-256, and RSA-2048)
 
 {% include button.html flip=true style="bare" %}
@@ -86,9 +86,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-# **Constructing a Verification Environment for Data Plane Acceleration and Performance Analysis**
+## **Constructing a Verification Environment for Data Plane Acceleration and Performance Analysis (2015.07 - 2015.12)**
 
-- Research project at Yonsei University joint with ETRI (2015.07 - 2015.12)
+- Research project at Yonsei University joint with ETRI 
 - Developing and verifying optimization techniques for improving data plane acceleration in virtualized network environment
 
 {% include button.html flip=true style="bare" %}
@@ -100,9 +100,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% capture text %}
 
-# **Developing Low-Power Mobile Computing Platform**
+## **Developing Low-Power Mobile Computing Platform (2014.07 - 2017.11)**
 
-- Research project at Yonsei University joint with LG Electronics (2014.07 - 2017.11)
+- Research project at Yonsei University joint with LG Electronics 
 - Inter- and Intra-core optimization techniques for higher energy efficiency of mobile APs (Application Processors)
 
 {% include button.html flip=true style="bare" %}
