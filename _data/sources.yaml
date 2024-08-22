@@ -28,7 +28,7 @@
   image: /images/spr_die_xcc.png
 
 # Triple-A: Early Operand Collector Allocation for Maximizing GPU Register Bank Utilization
-- id: 10.1109/LES.2023.3307622
+- id: doi:10.1109/LES.2023.3307622
   publisher: IEEE Embedded Systems Letters
   tags:
     - GPU
