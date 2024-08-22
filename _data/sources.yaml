@@ -59,7 +59,7 @@
   publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA)
   
 # Parallel In-Order Execution Architecture for Low-Power Processor
-- id: doi:10.1109/ISOCC.2017.8368829
+- id: doi:10.1109/isocc.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
   publisher: International SoC Design Conference (ISOCC)
   tags:
