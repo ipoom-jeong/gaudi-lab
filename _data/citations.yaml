@@ -336,7 +336,7 @@
   tags:
   - GPU
   - Microarchitecture
-  image: /images/spr_die_xcc.png
+  image: /images/publications/processor.png
   plugin: sources.py
   file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
