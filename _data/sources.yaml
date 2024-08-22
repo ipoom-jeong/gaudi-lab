@@ -21,16 +21,21 @@
     - Ipoom Jeong
     - Nam Sung Kim
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
+  tags:
+    - System
+    - Architecture
+    - Accelerator
+    - CXL
   date: 2024-11-02
   
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   tags:
+    - System
     - Network
-    - Near-data processing
-    - SmartNIC
-    - Load balancing
+    - Architecture
+    - Accelerator
     - CXL
   image: /images/spr_die_xcc.png
   
@@ -38,9 +43,10 @@
 - id: doi:10.1109/ISCA59077.2024.00066
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   tags:
+    - System
     - CPU
-    - On-chip accelerator
-    - Server SoC
+    - Architecture
+    - Accelerator
   image: /images/spr_die_xcc.png
 
 # Triple-A: Early Operand Collector Allocation for Maximizing GPU Register Bank Utilization
@@ -48,8 +54,7 @@
   publisher: IEEE Embedded Systems Letters
   tags:
     - GPU
-    - Register file
-    - Operand collection
+    - Microarchitecture
   image: /images/spr_die_xcc.png
   
 - id: doi:10.1145/3620666.3651325
