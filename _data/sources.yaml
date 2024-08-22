@@ -33,7 +33,7 @@
   tags:
     - GPU
     - Microarchitecture
-  image: /images/spr_die_xcc.png
+  image: /images/publications/processor.png
   
 - id: doi:10.1145/3620666.3651325
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
