@@ -132,6 +132,10 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - GPU
+  - Microarchitecture
+  image: /images/publications/processor.png
 - id: doi:10.1109/LCA.2023.3290427
   title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
@@ -173,6 +177,10 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - CPU
+  - Microarchitecture
+  image: /images/publications/processor.png
 - id: doi:10.1109/ACCESS.2022.3196149
   title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
   authors:
@@ -201,6 +209,10 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - CPU
+  - Microarchitecture
+  image: /images/publications/processor.png
 - id: doi:10.1109/TC.2019.2936557
   title: 'OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming'
   authors:
