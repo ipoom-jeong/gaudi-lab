@@ -37,7 +37,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=true text=text %}
+{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=false text=text %}
 
 
 ## **Developing CXL-Based Accelerator and Memory Expansion Device <br> (2020.03 - 2020.08)**
@@ -91,7 +91,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/memory.png" flip=false text=text %}
+{% include feature.html image="images/projects/security.jpg" flip=false text=text %}
 
 
 {% capture text %}
