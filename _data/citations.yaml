@@ -73,8 +73,12 @@
   date: '2024-06-01'
   link: https://doi.org/gt4txb
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - GPU
+  - Microarchitecture
+  image: /images/publications/processor.png
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A convertible neural processor supporting adaptive quantization for real-time
     neural networks
@@ -322,23 +326,6 @@
   - Architecture
   - Accelerator
   image: /images/spr_die_xcc.png
-- id: 10.1109/LES.2023.3307622
-  title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
-    Bank Utilization'
-  authors:
-  - Ipoom Jeong
-  - Eunbi Jeong
-  - Nam Sung Kim
-  - Myung Kuk Yoon
-  publisher: IEEE Embedded Systems Letters
-  date: '2024-06-01'
-  link: https://doi.org/gt4txb
-  tags:
-  - GPU
-  - Microarchitecture
-  image: /images/publications/processor.png
-  plugin: sources.py
-  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
