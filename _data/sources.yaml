@@ -6,6 +6,22 @@
 - id: doi:10.1109/ISCA59077.2024.00066
 
 
+- title: Demystifying a CXL Type-2 device: A heterogeneous cooperative computing perspective
+  authors:
+    - Houxiang Ji
+    - Srikar Vanavasam
+    - Yang Zhou
+    - Qirong Xia
+    - Jinghan Huang
+    - Yifan Yuan
+    - Ren Wang
+    - Pekon Gupta
+    - Bhushan Chitlur
+    - Ipoom Jeong
+    - Nam Sung Kim
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
+  date: 2024-11-02
+  
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
