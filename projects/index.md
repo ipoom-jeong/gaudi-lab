@@ -24,6 +24,80 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Past Projects
 
+
+
+
+{% capture text %}
+
+# **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive**
+
+- Research and development project at Samsung Electronics (2020.09 - 2021.08)
+- Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
+- A prototype was announced at Flash Memory Summit (FMS) 2022
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/dopamine.png" flip=true text=text %}
+
+
+{% capture text %}
+
+# **Developing CPU-GPU Heterogeneous Computing Simulation Framework**
+
+- Research and development project at Samsung Electronics (2020.03 - 2020.08)
+- D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/dopamine.png" flip=false text=text %}
+
+
+{% capture text %}
+
+# **Developing Energy-Efficient Approximate Memory for Neural Network Applications**
+
+- Research project at Yonsei University joint with SK Hynix (2018.07 - 2019.06)
+- E﻿xploring an energy-efficient approximate memory architecture for deep learning applications
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/dopamine.png" flip=true text=text %}
+
+
+{% capture text %}
+
+# **Developing Processor and Memory System for Next-Generation Security Platform**
+
+- Research project at Yonsei University joint with Samsung Electronics (2017.09 - 2018.08)
+- Developing ASIPs (Application-Specific Instruction-Set Processors) for cryptographic algorithms (e.g., AES, SHA-256, and RSA-2048)
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/dopamine.png" flip=false text=text %}
+
+
+{% capture text %}
+
+# **Constructing a Verification Environment for Data Plane Acceleration and Performance Analysis**
+
+- Research project at Yonsei University joint with ETRI (2015.07 - 2015.12)
+- Developing and verifying optimization techniques for improving data plane acceleration in virtualized network environment
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/dopamine.png" flip=true text=text %}
+
+
 {% capture text %}
 
 # **Developing Low-Power Mobile Computing Platform**
