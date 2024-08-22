@@ -299,7 +299,7 @@
   - Architecture
   - Accelerator
   - CXL
-  image: /images/system.png
+  image: /images/publications/system.png
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
   authors:
@@ -325,7 +325,7 @@
   - CPU
   - Architecture
   - Accelerator
-  image: /images/system.png
+  image: /images/publications/system.png
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
