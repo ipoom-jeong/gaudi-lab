@@ -37,7 +37,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% endcapture %}
 
-{% include feature.html image="images/dopamine.png" flip=true text=text %}
+{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=true text=text %}
 
 
 {% capture text %}
