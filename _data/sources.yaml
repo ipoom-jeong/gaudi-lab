@@ -16,7 +16,7 @@
     - Architecture
     - Accelerator
     - CXL
-  image: /images/system.png
+  image: /images/publications/system.png
   
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
@@ -26,7 +26,7 @@
     - CPU
     - Architecture
     - Accelerator
-  image: /images/system.png
+  image: /images/publications/system.png
 
 # Triple-A: Early Operand Collector Allocation for Maximizing GPU Register Bank Utilization
 - id: doi:10.1109/LES.2023.3307622
