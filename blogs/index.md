@@ -2,7 +2,7 @@
 title: Publications
 nav:
   order: 3
-  tooltip: Musings and miscellany
+  tooltip: Published work
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
