@@ -49,14 +49,29 @@
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
 
+# INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
 - id: doi:10.1109/pact58117.2023.00033
   publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
+  tags:
+    - GPU
+    - Microarchitecture
+  image: /images/publications/processor.png
   
+# Reconstructing Out-of-Order Issue Queue
 - id: doi:10.1109/micro56248.2022.00023
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
+
+# CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
 - id: doi:10.1109/hpca47549.2020.00039
   publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA)
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
   
 # Parallel In-Order Execution Architecture for Low-Power Processor
 - id: doi:10.1109/isocc.2017.8368829
