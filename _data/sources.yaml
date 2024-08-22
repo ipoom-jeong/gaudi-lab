@@ -21,11 +21,6 @@
     - Ipoom Jeong
     - Nam Sung Kim
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, accepted)
-  tags:
-    - System
-    - Architecture
-    - Accelerator
-    - CXL
   date: 2024-11-02
   
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
