@@ -1,10 +1,9 @@
 - id: arXiv:2305.02480
 - id: arXiv:2303.15375
-- id: doi:10.1109/ISOCC.2017.8368829
+- id: doi:10.1109/isocc.2017.8368829
 - id: doi:10.1016/j.sysarc.2023.103025
 - id: doi:10.1109/ISCA59077.2024.00051
 - id: doi:10.1109/ISCA59077.2024.00066
-
 
 
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
@@ -83,6 +82,14 @@
   publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
   date: 2018-06-01
 
+# Parallel In-Order Execution Architecture for Low-Power Processor
+- id: doi:10.1109/isocc.2017.8368829
+  publisher: International SoC Design Conference (ISOCC)
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
+
 - title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
   authors:
     - Hyunjun Shin
@@ -115,6 +122,3 @@
     - Won Woo Ro
   publisher: Annual Fall Conference of KIPS
   date: 2014-11-01
-  tags:
-    - CPU
-    - Microarchitecture
