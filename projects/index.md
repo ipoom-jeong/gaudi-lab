@@ -2,7 +2,7 @@
 title: Projects
 nav:
   order: 4
-  tooltip: Software, datasets, and more
+  tooltip: Past and ongoin projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
