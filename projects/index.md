@@ -77,7 +77,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/memory.png" flip=true text=text %}
+{% include feature.html image="images/projects/memory.jpg" flip=true text=text %}
 
 
 {% capture text %}
