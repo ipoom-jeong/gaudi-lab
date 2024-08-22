@@ -24,12 +24,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Past Projects
 
-
-
-
 {% capture text %}
 
-## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive (2020.09 - 2021.08) **
+## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive**
+## **(2020.09 - 2021.08)**
 
 - Research and development project at Samsung Electronics 
 - Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
