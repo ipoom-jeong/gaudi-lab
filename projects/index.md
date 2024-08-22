@@ -9,9 +9,34 @@ nav:
 
 ## Ongoing Projects
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% capture text %}
 
-{% include section.html %}
+## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive <br> (2020.09 - 2021.08)**
+
+- Research and development project at Samsung Electronics 
+- Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
+- A prototype was announced at Flash Memory Summit (FMS) 2022
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=false text=text %}
+
+
+{% capture text %}
+
+## **Developing CXL-Based Accelerator and Memory Expansion Device <br> (2020.03 - 2020.08)**
+
+- Research and development project at Samsung Electronics
+- D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/cxl.jpg" flip=true text=text %}
+
 
 ## Past Projects
 
@@ -28,6 +53,7 @@ nav:
 {% endcapture %}
 
 {% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=false text=text %}
+
 
 {% capture text %}
 
