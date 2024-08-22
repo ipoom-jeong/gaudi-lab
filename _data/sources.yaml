@@ -62,6 +62,14 @@
 - id: doi:10.1109/ISOCC.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
 
+# Parallel In-Order Execution Architecture for Low-Power Processor
+- id: doi:10.1109/isocc.2017.8368829
+  publisher: International SoC Design Conference (ISOCC)
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
+  
 
 # manually provide all citation details
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
@@ -81,14 +89,6 @@
     - Won Woo Ro
   publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
   date: 2018-06-01
-
-# Parallel In-Order Execution Architecture for Low-Power Processor
-- id: doi:10.1109/isocc.2017.8368829
-  publisher: International SoC Design Conference (ISOCC)
-  tags:
-    - CPU
-    - Microarchitecture
-  image: /images/publications/processor.png
 
 - title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
   authors:
