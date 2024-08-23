@@ -189,7 +189,7 @@
   tags:
   - CPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/cpu.png
 - id: doi:10.1109/ACCESS.2022.3196149
   title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
   authors:
@@ -225,7 +225,7 @@
   tags:
   - CPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/cpu.png
 - id: doi:10.1109/TC.2019.2936557
   title: 'OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming'
   authors:
@@ -242,7 +242,7 @@
   tags:
   - CPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/cpu.png
 - id: doi:10.1109/isocc.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
   authors:
@@ -258,7 +258,7 @@
   tags:
   - CPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/cpu.png
 - id: arXiv:2305.02480
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
     Intel Xeon Scalable Processors
