@@ -15,7 +15,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% capture text %}
 
-## **Computer System Architecture and Resource Orchestration**
+## **Computer System Architectures and Resource Orchestration**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
