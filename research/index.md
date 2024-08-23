@@ -30,8 +30,7 @@ Modern computer systems have become larger and more complex, highlighting the cr
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
 
-- Institute for Information & communication Technology Planning & evaluation (IITP)
-- D﻿eveloping software architecture for data-flow-based PIM devices
+The Central Processing Unit (CPU) plays an essential role in a system, managing system resources and performing critical tasks. 
 
 {% include button.html flip=true style="bare" %}
 
