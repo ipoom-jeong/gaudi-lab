@@ -26,16 +26,16 @@ nav:
 
 {% capture text %}
 
-## **Developing CXL-Based Accelerator and Memory Expansion Device <br> (2020.03 - 2020.08)**
+## **Development of PIM Software Architecture based on Data-Flow Computing <br> (2024.04 - 2025.12)**
 
-- Research and development project at Samsung Electronics
-- D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
+- Institute for Information & communication Technology Planning & evaluation (IITP)
+- D﻿eveloping software architecture for data-flow-based PIM devices
 
 {% include button.html flip=true style="bare" %}
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/cxl.jpg" flip=true text=text %}
+{% include feature.html image="images/projects/pim.png" flip=true text=text %}
 
 
 ## Past Projects
