@@ -13,7 +13,6 @@ nav:
 
 Our research topics include, but are not limited to, the following areas:
 
-
 {% capture text %}
 
 ### **Computer System Architectures and Resource Orchestration**
