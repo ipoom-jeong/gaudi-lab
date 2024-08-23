@@ -21,6 +21,11 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - CPU
+  - Architecture
+  - Accelerator
+  image: /images/publications/system.jpg
 - id: doi:10.1145/3620666.3651325
   title: 'TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer
     Attacks'
@@ -43,6 +48,12 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - System
+  - Memory
+  - Architecture
+  - Security
+  image: /images/publications/system.jpg
 - id: doi:10.1145/3627703.3629588
   title: 'ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives'
   authors:
