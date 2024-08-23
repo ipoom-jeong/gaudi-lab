@@ -63,7 +63,7 @@
   file: sources.yaml
   tags:
   - System
-  - SSD
+  - Storage
   - OS
   image: /images/publications/ssd.jpg
 - id: doi:10.1109/LES.2023.3307622
@@ -154,8 +154,14 @@
   date: '2023-07-01'
   link: https://doi.org/gt4txc
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - System
+  - Storage
+  - Network
+  - CPU
+  image: /images/publications/system.jpg
 - id: doi:10.1109/LES.2022.3163749
   title: 'CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs'
   authors:
