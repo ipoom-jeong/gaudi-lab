@@ -11,17 +11,16 @@ nav:
 
 {% capture text %}
 
-## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive <br> (2020.09 - 2021.08)**
+## **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
 
-- Research and development project at Samsung Electronics 
-- Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
-- A prototype was announced at Flash Memory Summit (FMS) 2022
+- Korea Evaluation Institute of Industrial Technology
+- Developing CXL-based PNM architecture and simulation platform
 
 {% include button.html flip=true style="bare" %}
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/SmartSSD2.0.jpg" flip=false text=text %}
+{% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
 
 {% capture text %}
