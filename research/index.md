@@ -56,8 +56,6 @@ Our research topics include, but are not limited to, the following areas:
 {% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
 
-{% include section.html %}
-
 {% capture text %}
 
 ## **Near-Data Processing**
@@ -85,6 +83,8 @@ Our research topics include, but are not limited to, the following areas:
 
 {% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
+
+{% include section.html %}
 
 
 ## Collaboration
