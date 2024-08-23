@@ -15,7 +15,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% capture text %}
 
-## **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
+## **Computer System Architecture and Resource Orchestration**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
