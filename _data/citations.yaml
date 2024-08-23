@@ -140,7 +140,7 @@
   tags:
   - GPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 - id: doi:10.1109/LCA.2023.3290427
   title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
   authors:
@@ -172,7 +172,7 @@
   tags:
   - GPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 - id: doi:10.1109/micro56248.2022.00023
   title: Reconstructing Out-of-Order Issue Queue
   authors:
@@ -206,7 +206,7 @@
   tags:
   - GPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 - id: doi:10.1109/hpca47549.2020.00039
   title: 'CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
     In-Order Scheduling Windows'
