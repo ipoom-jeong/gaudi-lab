@@ -1,6 +1,6 @@
 ---
 name: Junhwan Lee
-image: images/members/junwhan_lee.jpg
+image: images/members/junhwan_lee.jpg
 role: undergrad
 alumni: true
 links:
