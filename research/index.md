@@ -13,6 +13,7 @@ nav:
 
 Our research topics include, but are not limited to, the following areas:
 
+
 {% capture text %}
 
 ## **Computer System Architectures and Resource Orchestration**
@@ -39,6 +40,20 @@ Our research topics include, but are not limited to, the following areas:
 {% endcapture %}
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
+
+
+{% capture text %}
+
+## **Near-Data Processing**
+
+- Korea Evaluation Institute of Industrial Technology (KEIT)
+- Developing CXL-based PNM architecture and simulation platform
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
 
 {% include section.html %}
