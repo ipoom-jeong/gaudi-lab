@@ -36,7 +36,7 @@ Address: Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-
 
 {%
   include figure.html
-  image="images/Yonsei_University_Campus.jpg"
+  image="images/contact/campus.jpg"
   caption="Yonsei University (Seoul Campus)"
 %}
 
@@ -46,7 +46,7 @@ Address: Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-
 
 {%
   include figure.html
-  image="images/Engineering_Park.png"
+  image="images/contact/eng_research_park.png"
   caption="Engineering Research Park"
 %}
 
