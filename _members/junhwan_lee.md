@@ -1,6 +1,6 @@
 ---
 name: Junhwan Lee
-image: images/junwhan_lee.jpg
+image: images/members/junwhan_lee.jpg
 role: phd
 group: alum
 links:
