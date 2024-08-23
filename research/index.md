@@ -32,7 +32,7 @@ Modern computer systems have grown larger and more complex, highlighting the cru
 
 {% capture text %}
 
-## **CPU Core Microarchitectures and Multi-core Architectures**
+### **CPU Core Microarchitectures and Multi-core Architectures**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
 - D﻿eveloping software architecture for data-flow-based PIM devices
@@ -46,7 +46,7 @@ Modern computer systems have grown larger and more complex, highlighting the cru
 
 {% capture text %}
 
-## **Accelerator Architectures**
+### **Accelerator Architectures**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
@@ -60,7 +60,7 @@ Modern computer systems have grown larger and more complex, highlighting the cru
 
 {% capture text %}
 
-## **Near-Data Processing**
+### **Near-Data Processing**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
 - D﻿eveloping software architecture for data-flow-based PIM devices
@@ -74,7 +74,7 @@ Modern computer systems have grown larger and more complex, highlighting the cru
 
 {% capture text %}
 
-## **Emerging Interconnect Technologies**
+### **Emerging Interconnect Technologies**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
