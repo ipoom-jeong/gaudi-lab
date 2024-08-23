@@ -56,12 +56,26 @@
     - GPU
     - Microarchitecture
   image: /images/publications/processor.png
+
+# CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
+- id: doi:10.1109/LES.2022.3163749
+  tags:
+    - GPU
+    - Microarchitecture
+  image: /images/publications/processor.png
   
 # Reconstructing Out-of-Order Issue Queue
 - id: doi:10.1109/micro56248.2022.00023
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   tags:
     - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
+
+# TEA-RC: Thread Context-Aware Register Cache for GPUs
+- id: doi:10.1109/ACCESS.2022.3196149
+  tags:
+    - GPU
     - Microarchitecture
   image: /images/publications/processor.png
 
