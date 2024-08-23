@@ -13,7 +13,7 @@ nav:
 
 ## **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
 
-- Korea Evaluation Institute of Industrial Technology
+- Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
 
 {% include button.html flip=true style="bare" %}
