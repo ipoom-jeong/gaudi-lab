@@ -7,9 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+{% include section.html %}
+
 ## Research Topics
 
 Our research topics include, but are not limited to, the following areas:
+
+{% capture text %}
 
 ## **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
 
@@ -35,3 +39,8 @@ Our research topics include, but are not limited to, the following areas:
 {% endcapture %}
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
+
+
+{% include section.html %}
+
+## Collaboration
