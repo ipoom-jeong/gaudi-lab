@@ -13,7 +13,7 @@ We are actively seeking **enthusiastic** and **highly self-motivated** Post-Docs
 
 **[24.07.18]** Our paper titled "Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective" has been accepted to the IEEE/ACM International Symposium on Microarchitecture (MICRO). Big congratulations!
 
-**[24.07.01]** **JunHwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
+**[24.07.01]** **Junhwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
 
 **[24.03.01]** **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
 
