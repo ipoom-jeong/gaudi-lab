@@ -17,7 +17,7 @@ Our research topics include, but are not limited to, the following areas:
 
 ### **Computer System Architectures and Resource Orchestration**
 
-Modern computer systems have become larger and more complex, highlighting the critical need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and last-level cache (LLC). We are investigating state-of-the-art systems and exploring diverse solutions to improve system-wide processing efficiency.
+Modern computer systems have become larger and more complex, underscoring the need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and last-level cache (LLC). We are investigating state-of-the-art systems and exploring diverse solutions to improve system-wide processing efficiency.
 
 {% include button.html flip=true style="bare" %}
 
@@ -30,7 +30,7 @@ Modern computer systems have become larger and more complex, highlighting the cr
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
 
-The Central Processing Unit (CPU) plays a crucial role in a system by running applications and system software, managing system resources, and interacting with I/O devices, among other functions. 
+The Central Processing Unit (CPU) plays a crucial role in a system by running applications and system software, managing system resources, and interacting with I/O devices, among other functions. We are 
 
 {% include button.html flip=true style="bare" %}
 
