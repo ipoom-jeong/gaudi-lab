@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+{% include section.html %}
+
 ## Ongoing Projects
 
 {% capture text %}
@@ -36,6 +38,7 @@ nav:
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
 
+{% include section.html %}
 
 ## Past Projects
 
