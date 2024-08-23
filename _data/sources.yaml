@@ -40,8 +40,14 @@
 - id: doi:10.1145/3620665.3640401
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
 
+# ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
 - id: doi:10.1145/3627703.3629588
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
+  tags:
+    - System
+    - SSD
+    - OS    
+  image: /images/publications/ssd.jpg
 
 - id: doi:10.1016/j.sysarc.2023.103025
   publisher: Journal of Systems Architecture
