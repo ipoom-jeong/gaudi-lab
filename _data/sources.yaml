@@ -86,6 +86,13 @@
     - CPU
     - Microarchitecture
   image: /images/publications/processor.png
+
+# OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming
+- id: doi:10.1109/TC.2019.2936557
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/processor.png
   
 # Parallel In-Order Execution Architecture for Low-Power Processor
 - id: doi:10.1109/isocc.2017.8368829
