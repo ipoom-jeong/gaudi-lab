@@ -41,7 +41,7 @@ The Central Processing Unit (CPU) plays an essential role in a system, managing 
 
 {% capture text %}
 
-### **Accelerator Architectures**
+### **GPU and Accelerator Architectures**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
