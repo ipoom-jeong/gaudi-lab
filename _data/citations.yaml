@@ -356,9 +356,9 @@
   tags:
   - System
   - Network
+  - Interconnect
   - Architecture
   - Accelerator
-  - CXL
   image: /images/publications/system.jpg
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
