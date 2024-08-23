@@ -30,7 +30,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% capture text %}
 
-## **Core Microarchitectures and Multi-core CPU Architectures**
+## **CPU Core Microarchitectures and Multi-core Architectures**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
 - D﻿eveloping software architecture for data-flow-based PIM devices
