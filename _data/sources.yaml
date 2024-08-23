@@ -61,14 +61,14 @@
   tags:
     - GPU
     - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
   tags:
     - GPU
     - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
   
 # Reconstructing Out-of-Order Issue Queue
 - id: doi:10.1109/micro56248.2022.00023
@@ -83,7 +83,7 @@
   tags:
     - GPU
     - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 
 # CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
 - id: doi:10.1109/hpca47549.2020.00039
