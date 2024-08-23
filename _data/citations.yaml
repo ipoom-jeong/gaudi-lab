@@ -51,6 +51,7 @@
   tags:
   - System
   - Memory
+  - Interconnect
   - Architecture
   - Security
   image: /images/publications/system.jpg
@@ -138,6 +139,11 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - System
+  - Memory
+  - Interconnect
+  image: /images/publications/memory.jpg
 - id: doi:10.1109/pact58117.2023.00033
   title: 'INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core'
   authors:
@@ -324,6 +330,11 @@
   link: https://arxiv.org/abs/2303.15375
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - System
+  - Memory
+  - Interconnect
+  image: /images/publications/memory.jpg
 - id: doi:10.1109/ISCA59077.2024.00051
   title: 'HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative
     Computing'
