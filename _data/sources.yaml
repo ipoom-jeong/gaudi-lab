@@ -73,6 +73,7 @@
 
 # A convertible neural processor supporting adaptive quantization for real-time neural networks
 - id: doi:10.1016/j.sysarc.2023.103025
+  title: A Convertible Neural Processor Supporting Adaptive Quantization for Real-Time Neural Networks
   publisher: Journal of Systems Architecture
   tags:
     - NPU
