@@ -30,7 +30,7 @@ Modern computer systems have become larger and more complex, highlighting the cr
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
 
-The Central Processing Unit (CPU) plays an essential role in a system, managing system resources and performing critical tasks. 
+The Central Processing Unit (CPU) plays a crucial role in a system by running applications and system software, managing system resources, and interacting with I/O devices, among other functions. 
 
 {% include button.html flip=true style="bare" %}
 
