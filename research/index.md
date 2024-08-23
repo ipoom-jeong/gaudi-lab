@@ -29,7 +29,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% capture text %}
 
-## **Development of PIM Software Architecture based on Data-Flow Computing <br> (2024.04 - 2025.12)**
+## **High-Performance and Energy-Efficient CPU/GPU/NPU Microarchitectures**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
 - D﻿eveloping software architecture for data-flow-based PIM devices
