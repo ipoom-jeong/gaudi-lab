@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+{% include section.html %}
+
 ## Research Topics
 
 Our research topics include, but are not limited to, the following areas:
@@ -22,6 +24,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
+{% include section.html %}
 
 {% capture text %}
 
@@ -35,11 +38,3 @@ Our research topics include, but are not limited to, the following areas:
 {% endcapture %}
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
