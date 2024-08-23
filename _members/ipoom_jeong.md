@@ -1,6 +1,6 @@
 ---
 name: Ipoom Jeong
-image: images/ipoom.jpg
+image: images/members/ipoom_jeong.jpg
 role: pi
 affiliation: Yonsei University
 aliases:
