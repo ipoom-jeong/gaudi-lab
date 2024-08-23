@@ -33,13 +33,26 @@
     - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
-  
+
+# TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer Attacks
 - id: doi:10.1145/3620666.3651325
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  tags:
+    - System
+    - Memory
+    - Architecture
+    - Security
+  image: /images/publications/system.jpg
 
+# A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
 - id: doi:10.1145/3620665.3640401
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
-
+  tags:
+    - CPU
+    - Architecture
+    - Accelerator
+  image: /images/publications/system.jpg
+  
 # ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
 - id: doi:10.1145/3627703.3629588
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
