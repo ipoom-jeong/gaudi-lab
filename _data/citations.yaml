@@ -83,7 +83,7 @@
   tags:
   - GPU
   - Microarchitecture
-  image: /images/publications/processor.png
+  image: /images/publications/gpu.png
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A convertible neural processor supporting adaptive quantization for real-time
     neural networks
@@ -321,7 +321,7 @@
   - Architecture
   - Accelerator
   - CXL
-  image: /images/publications/system.png
+  image: /images/publications/system.jpg
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
   authors:
@@ -347,7 +347,7 @@
   - CPU
   - Architecture
   - Accelerator
-  image: /images/publications/system.png
+  image: /images/publications/system.jpg
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
