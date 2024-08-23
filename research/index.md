@@ -18,6 +18,8 @@ Our research topics include, but are not limited to, the following areas:
 
 ## **Computer System Architectures and Resource Orchestration**
 
+As modern computer systems have grown larger and more complex, the need for highly efficient system architectures and effective orchestration of shared resources, such as memory and last-level cache (LLC), has become increasingly significant.
+
 - Korea Evaluation Institute of Industrial Technology (KEIT)
 - Developing CXL-based PNM architecture and simulation platform
 
