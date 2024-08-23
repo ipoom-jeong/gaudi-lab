@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-{% include section.html %}
-
 ## Research Topics
 
 Our research topics include, but are not limited to, the following areas:
