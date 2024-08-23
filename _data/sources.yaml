@@ -45,7 +45,7 @@
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
   tags:
     - System
-    - SSD
+    - Storage
     - OS    
   image: /images/publications/ssd.jpg
 
@@ -62,7 +62,16 @@
     - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
-
+  
+# LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads
+- id: doi:10.1109/LCA.2023.3290427
+  tags:
+    - System
+    - Storage
+    - Network
+    - CPU
+  image: /images/publications/system.jpg
+  
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
   tags:
