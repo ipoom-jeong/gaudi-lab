@@ -16,7 +16,7 @@ phd:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Undergraduate Intern
 
 programmer:
   icon: fa-solid fa-code
