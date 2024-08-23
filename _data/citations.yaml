@@ -25,7 +25,7 @@
   - CPU
   - Architecture
   - Accelerator
-  image: /images/publications/system.jpg
+  image: /images/publications/acc.png
 - id: doi:10.1145/3620666.3651325
   title: 'TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer
     Attacks'
@@ -110,6 +110,11 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - NPU
+  - Architecture
+  - Accelerator
+  image: /images/publications/acc.png
 - id: doi:10.1145/3613424.3614256
   title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
   authors:
@@ -292,6 +297,11 @@
   link: https://arxiv.org/abs/2305.02480
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - CPU
+  - Architecture
+  - Accelerator
+  image: /images/publications/acc.png
 - id: arXiv:2303.15375
   title: Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
   authors:
