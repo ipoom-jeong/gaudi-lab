@@ -51,7 +51,7 @@
     - CPU
     - Architecture
     - Accelerator
-  image: /images/publications/system.jpg
+  image: /images/publications/acc.png
   
 # ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
 - id: doi:10.1145/3627703.3629588
@@ -62,8 +62,21 @@
     - OS    
   image: /images/publications/ssd.jpg
 
+# A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
+- id: arXiv:2305.02480
+  tags:
+    - CPU
+    - Architecture
+    - Accelerator
+  image: /images/publications/acc.png
+  
 - id: doi:10.1016/j.sysarc.2023.103025
   publisher: Journal of Systems Architecture
+  tags:
+    - NPU
+    - Architecture
+    - Accelerator
+  image: /images/publications/acc.png
 
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
