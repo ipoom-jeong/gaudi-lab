@@ -36,7 +36,7 @@ The Central Processing Unit (CPU) plays an essential role in a system, managing 
 
 {% endcapture %}
 
-{% include feature.html image="images/reasearch/cpu_research.png" flip=true text=text %}
+{% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
 
 {% capture text %}
