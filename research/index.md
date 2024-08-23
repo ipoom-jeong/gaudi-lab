@@ -30,7 +30,7 @@ Our research topics include, but are not limited to, the following areas:
 
 {% capture text %}
 
-## **High-Performance and Energy-Efficient CPU/GPU/NPU Microarchitectures**
+## **Core Microarchitectures and Multi-core CPU Architectures**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
 - D﻿eveloping software architecture for data-flow-based PIM devices
