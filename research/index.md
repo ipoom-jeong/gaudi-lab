@@ -43,8 +43,7 @@ Central Processing Unit (CPU) plays a crucial role in a system by running applic
 
 ### **GPU and Accelerator Architectures**
 
-- Korea Evaluation Institute of Industrial Technology (KEIT)
-- Developing CXL-based PNM architecture and simulation platform
+Emerging data-centric applications have led to the development of specialized hardware designed to deliver optimal performance per watt for these specific tasks.
 
 {% include button.html flip=true style="bare" %}
 
