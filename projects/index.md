@@ -46,9 +46,9 @@ nav:
 
 ## **SmartSSD 2.0: Developing Next-Generation Computational Storage Drive <br> (2020.09 - 2021.08)**
 
-- Research and development project at Samsung Electronics 
+- [Research and development project at Samsung Electronics](https://news.samsung.com/global/samsung-electronics-develops-second-generation-smartssd-computational-storage-drive-with-upgraded-processing-functionality)
 - Designing an SoC (System-on-Chip) for next-generation CSDs (Computational Storage Drives)
-- A prototype was announced at Flash Memory Summit (FMS) 2022
+- [A prototype was announced at Flash Memory Summit (FMS) 2022](https://blocksandfiles.com/2022/08/08/samsung-lays-tasty-flash-eggs-at-fms-2022/)
 
 {% include button.html flip=true style="bare" %}
 
