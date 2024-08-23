@@ -40,6 +40,7 @@
   tags:
     - System
     - Memory
+    - Interconnect
     - Architecture
     - Security
   image: /images/publications/system.jpg
@@ -69,7 +70,8 @@
     - Architecture
     - Accelerator
   image: /images/publications/acc.png
-  
+
+# A convertible neural processor supporting adaptive quantization for real-time neural networks
 - id: doi:10.1016/j.sysarc.2023.103025
   publisher: Journal of Systems Architecture
   tags:
@@ -78,8 +80,14 @@
     - Accelerator
   image: /images/publications/acc.png
 
+# Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tags:
+    - System
+    - Memory
+    - Interconnect
+  image: /images/publications/memory.jpg
 
 # INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
 - id: doi:10.1109/pact58117.2023.00033
@@ -88,6 +96,14 @@
     - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
+
+# Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
+- id: arXiv:2303.15375
+  tags:
+    - System
+    - Memory
+    - Interconnect
+  image: /images/publications/memory.jpg
   
 # LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads
 - id: doi:10.1109/LCA.2023.3290427
