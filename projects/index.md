@@ -66,7 +66,7 @@ nav:
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/cxl.jpg" flip=true text=text %}
+{% include feature.html image="images/projects/cxl.png" flip=true text=text %}
 
 
 {% capture text %}
