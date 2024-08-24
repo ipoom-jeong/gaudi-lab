@@ -36,7 +36,7 @@ The Central Processing Unit (CPU) plays a crucial role in a system by running ap
 
 {% endcapture %}
 
-{% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
+{% include feature.html image="images/research/gpu_research.png" flip=true text=text %}
 
 
 {% capture text %}
