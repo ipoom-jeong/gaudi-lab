@@ -70,8 +70,7 @@ Emerging applications with diverse computation patterns have led to the developm
 
 ### **Emerging Interconnect Technologies**
 
-- Korea Evaluation Institute of Industrial Technology (KEIT)
-- Developing CXL-based PNM architecture and simulation platform
+Compute eXpress Link (CXL) is an open standard memory interface technology built on the PCIe physical layer, designed to meet the increasing demands for larger memory capacity and higher bandwidth in emerging data-centric workloads.
 
 {% include button.html flip=true style="bare" %}
 
