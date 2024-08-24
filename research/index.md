@@ -70,7 +70,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 ### **Emerging Interconnect Technologies**
 
-Compute eXpress Link (CXL) is an open standard memory interface technology built on the PCIe physical layer, designed to meet the increasing demands for larger memory capacity and higher bandwidth in emerging data-centric workloads.
+Compute Express Link (CXL) is an open standard interconnect for high-speed, high-capacity CPU-to-device and CPU-to-memory connections, designed for high-performance datacenter servers.
 
 {% include button.html flip=true style="bare" %}
 
