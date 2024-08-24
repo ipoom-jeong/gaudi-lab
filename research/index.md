@@ -41,7 +41,7 @@ The Central Processing Unit (CPU) plays a crucial role in a system by running ap
 
 {% capture text %}
 
-### **GPU and Accelerator Architectures**
+### **GPGPU and Accelerator Architectures**
 
 Emerging applications with diverse computation patterns have led to the development of specialized hardware designed to deliver optimal performance per watt for these specific tasks.
 
