@@ -11,7 +11,7 @@ nav:
 
 ## Research Topics
 
-Our research topics include, but are not limited to, the following areas:
+Our research topics include, _but are not limited to_, the following areas:
 
 {% capture text %}
 
