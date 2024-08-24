@@ -49,7 +49,7 @@ Emerging applications with diverse computation patterns have led to the developm
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/gpu_research.png" flip=false text=text %}
+{% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
 
 {% capture text %}
