@@ -17,7 +17,7 @@ Our research topics include, but are not limited to, the following areas:
 
 ### **Computer System Architectures and Resource Orchestration**
 
-Modern computer systems have become larger and more complex, underscoring the need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and last-level cache (LLC). We are investigating cutting-edge systems and exploring diverse solutions to improve system-wide processing efficiency.
+Modern computer systems have become larger and more complex, underscoring the need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and last-level cache (LLC). We are investigating cutting-edge systems and exploring various solutions to improve system-wide processing efficiency.
 
 {% include button.html flip=true style="bare" %}
 
