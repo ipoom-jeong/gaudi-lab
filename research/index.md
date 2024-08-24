@@ -43,7 +43,7 @@ The Central Processing Unit (CPU) plays a crucial role in a system by running ap
 
 ### **GPGPU and Accelerator Architectures**
 
-Emerging applications with diverse computation patterns have led to the development of specialized hardware designed to deliver optimal performance per watt for these specific tasks.
+Emerging applications with diverse computation patterns have led to the development of specialized hardware designed to deliver optimal performance per watt for these specific tasks. We are delving into energy-efficient General-Purpose Graphics Processing Unit (GPGPU) and Neural Processing Unit (NPU) architectures.
 
 {% include button.html flip=true style="bare" %}
 
