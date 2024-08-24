@@ -30,7 +30,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
 
-Central Processing Unit (CPU) plays a crucial role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques (_e.g._, dynamic scheduling and speculation) and novel multi-core architectures (_e.g._, heterogeneous multi-core and simultaneous multi-threading architectures) to improve the performance and energy efficiency of the CPU.
+The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
 
 {% include button.html flip=true style="bare" %}
 
@@ -43,7 +43,7 @@ Central Processing Unit (CPU) plays a crucial role in a system by running applic
 
 ### **GPGPU and Accelerator Architectures**
 
-Emerging applications with diverse computation patterns have led to the development of specialized hardware designed to deliver optimal performance per watt for these specific tasks. We are delving into energy-efficient General-Purpose Graphics Processing Unit (GPGPU) and Neural Processing Unit (NPU) architectures.
+Emerging applications with diverse computation patterns have driven the development of specialized hardware aimed at delivering optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs).
 
 {% include button.html flip=true style="bare" %}
 
