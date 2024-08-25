@@ -63,7 +63,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/pim.png" flip=true text=text %}
+{% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
 
 
 {% capture text %}
