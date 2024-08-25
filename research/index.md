@@ -43,7 +43,7 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 
 ### **GPGPU and Accelerator Architectures**
 
-Emerging applications with diverse computation patterns have driven the development of specialized hardware aimed at delivering optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs).
+Emerging applications with diverse computation patterns have driven the development of specialized hardware designed to deliver optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs) while also investigating use cases for on-chip accelerators.
 
 {% include button.html flip=true style="bare" %}
 
@@ -56,8 +56,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 ### **Near-Data Processing**
 
-- Institute for Information & communication Technology Planning & evaluation (IITP)
-- D﻿eveloping software architecture for data-flow-based PIM devices
+Recent data-centric applications face significant bottlenecks in transferring large volumes of data to processors.
 
 {% include button.html flip=true style="bare" %}
 
