@@ -23,7 +23,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% endcapture %}
 
-{% include feature.html image="images/research/computer_system.jpg" flip=false text=text %}
+{% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
 
 {% capture text %}
