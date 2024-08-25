@@ -5,7 +5,7 @@
 
 GAUDI Lab is dedicated to exploring multi-directional innovations in computer architectures and systems through cutting-edge research and worldwide collaboration.
 
-**Join us:** We are actively seeking **enthusiastic** and **highly self-motivated** Post-Docs, Ph.D. and M.S. students to join our exciting journey. If you're interested in our lab, please reach out to us at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
+**Join us:** We are actively seeking **enthusiastic** and **highly self-motivated** Post-Docs, Ph.D. and M.S. students to join our exciting journey. Several sholarships are available for qualified applicants. If you're interested in our lab, please reach out to us at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
 
 {% include section.html %}
 
