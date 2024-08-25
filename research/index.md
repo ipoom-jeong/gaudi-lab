@@ -69,7 +69,7 @@ Recent data-centric applications face significant bottlenecks in transferring la
 
 ### **Emerging Interconnect Technologies**
 
-Compute eXpress Link (CXL) is an open standard for high-speed, efficient interconnect between CPUs and other devices like memory, accelerators (_e.g._, GPUs, FPGAs), and SmartNICs (Network Interface Cards). It's designed to improve performance and resource sharing in data centers, particularly in large-scale computing, AI, and machine learning environments. 
+Compute eXpress Link (CXL) is an open standard for high-speed, efficient interconnect between CPUs and other devices like memory, accelerators (_e.g._, GPUs, FPGAs), and SmartNICs (Network Interface Cards). It is designed to improve performance and resource sharing in data centers, particularly in large-scale computing, AI, and machine learning environments. 
 
 {% include button.html flip=true style="bare" %}
 
