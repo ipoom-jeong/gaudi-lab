@@ -85,7 +85,7 @@ Discover what our lab is all about! Our research focuses on high-performance and
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Explore detailed descriptions of the cutting-edge research and innovative initiatives we are currently working on. Each project reflects our commitment to advancing technology and addressing complex challenges in computer systems and architectures.
 
 {%
   include button.html
