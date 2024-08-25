@@ -82,3 +82,11 @@ Compute eXpress Link (CXL) is an open standard for high-speed, efficient interco
 
 
 ## Collaboration
+
+{%
+  include figure.html
+  image="images/group-photo.jpg"
+  caption="The team at our annual Christmas party, 2025"
+  link="team"
+  width="400px"
+%}
