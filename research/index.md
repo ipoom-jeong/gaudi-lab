@@ -85,7 +85,7 @@ Compute eXpress Link (CXL) is an open standard for high-speed, efficient interco
 
 {%
   include figure.html
-  image="images/group-photo.jpg"
+  image="images/research/fast_banner.png"
   caption="**Future Architecture and System Technology for Scalable Computing (FAST)** <br> University of Illinois Urbana-Champaign (UIUC), IL, United States"
   link="https://fast.ece.illinois.edu/index.html"
   width="200px"
