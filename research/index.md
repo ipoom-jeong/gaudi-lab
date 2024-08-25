@@ -86,7 +86,7 @@ Compute eXpress Link (CXL) is an open standard for high-speed, efficient interco
 {%
   include figure.html
   image="images/group-photo.jpg"
-  caption="**Future Architecture and System Technology for Scalable Computing (FAST)** <br> University of Illinois Urbana-Champaign (UIUC)"
+  caption="**Future Architecture and System Technology for Scalable Computing (FAST)** <br> University of Illinois Urbana-Champaign (UIUC), IL, United States"
   link="https://fast.ece.illinois.edu/index.html"
   width="200px"
 %}
@@ -94,7 +94,7 @@ Compute eXpress Link (CXL) is an open standard for high-speed, efficient interco
 {%
   include figure.html
   image="images/research/escal_banner.png"
-  caption="**Embedded Systems and Computer Architecture Lab** (eSCaL) <br> Yonsei University"
+  caption="**Embedded Systems and Computer Architecture Lab** (eSCaL) <br> Yonsei University, Seoul, Republic of Korea"
   link="http://escal.yonsei.ac.kr/"
   width="200px"
 %}
