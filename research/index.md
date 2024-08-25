@@ -56,7 +56,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 ### **Near-Data Processing**
 
-Emerging data-centric applications encounter significant bottlenecks in transferring large volumes of data between processors and memory, storage, or networks. To address these challenges, we are investigating efficient near-data processing techniques at various system layers. This includes Processing-In-Memory (PIM), integrating processing capabilities directly into memory; In-Storage Processing (ISP), enabling data processing within storage devices; and In-Network Computing (INC), performing computations within the network infrastructure.
+Data-centric applications encounter significant bottlenecks in transferring large volumes of data between processors and memory, storage, or networks. To address these challenges, we are investigating efficient near-data processing techniques at various system layers. This includes Processing-In-Memory (PIM), integrating processing capabilities directly into memory; In-Storage Processing (ISP), enabling data processing within storage devices; and In-Network Computing (INC), performing computations within the network infrastructure.
 
 {% include button.html flip=true style="bare" %}
 
