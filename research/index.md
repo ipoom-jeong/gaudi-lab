@@ -56,7 +56,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 ### **Near-Data Processing**
 
-Recent data-centric applications face significant bottlenecks in transferring large volumes of data to processors.
+Recent data-centric applications face significant bottlenecks in transferring large volumes of data between processors and memory, storage, or networks. 
 
 {% include button.html flip=true style="bare" %}
 
