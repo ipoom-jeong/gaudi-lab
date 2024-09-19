@@ -16,9 +16,9 @@ Ipoom Jeong is an Assistant Professor in the Department of System Semiconductor 
 
 **Experience**
 
-&nbsp; - [2024.03 -- Present] Assistant Professor, Yonsei University, Republic of Korea
-&ensp; - [2022.09 -- 2024.02] Postdoctoral Research Associate, University of Illinois Urbana-Champaign, USA
-&emsp; - [2022.09 -- 2024.02] Postdoctoral Research Associate, University of Illinois Urbana-Champaign, USA
+&nbsp; - [2024.03 -- Present] Assistant Professor, Yonsei University, Republic of Korea <br>
+&ensp; - [2022.09 -- 2024.02] Postdoctoral Research Associate, University of Illinois Urbana-Champaign, USA <br>
+&emsp; - [2022.09 -- 2024.02] Postdoctoral Research Associate, University of Illinois Urbana-Champaign, USA <br>
 
 **Education**
 
