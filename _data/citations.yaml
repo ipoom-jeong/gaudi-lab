@@ -401,11 +401,18 @@
   - Bhushan Chitlur
   - Ipoom Jeong
   - Nam Sung Kim
-  publisher: 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   date: '2024-11-02'
   link: https://doi.org/g8t3wn
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - System
+  - Network
+  - Interconnect
+  - Architecture
+  - Accelerator
+  image: /images/publications/system.jpg
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
