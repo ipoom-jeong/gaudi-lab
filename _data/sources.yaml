@@ -7,7 +7,7 @@
 
 # Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective
 - id: doi:10.1109/MICRO61859.2024.00110
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, IF: 4, NRF BK21+)
   tags:
     - System
     - Memory
@@ -17,7 +17,7 @@
   
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA, IF: 4, NRF BK21+)
   tags:
     - System
     - Network
@@ -28,7 +28,7 @@
   
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA, IF: 4, NRF BK21+)
   tags:
     - System
     - CPU
@@ -46,7 +46,7 @@
 
 # TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer Attacks
 - id: doi:10.1145/3620666.3651325
-  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS, IF: 4, NRF BK21+)
   tags:
     - System
     - Memory
@@ -57,7 +57,7 @@
 
 # A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
 - id: doi:10.1145/3620665.3640401
-  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS, IF: 4, NRF BK21+)
   tags:
     - CPU
     - Architecture
@@ -66,7 +66,7 @@
   
 # ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
 - id: doi:10.1145/3627703.3629588
-  publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
+  publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys, IF: 3, NRF BK21+)
   tags:
     - System
     - Storage
@@ -93,7 +93,7 @@
 
 # Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
 - id: doi:10.1145/3613424.3614256
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, IF: 4, NRF BK21+)
   tags:
     - System
     - Memory
@@ -102,7 +102,7 @@
 
 # INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
 - id: doi:10.1109/pact58117.2023.00033
-  publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
+  publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT, IF: 3, NRF BK21+)
   tags:
     - GPU
     - Microarchitecture
@@ -134,7 +134,7 @@
   
 # Reconstructing Out-of-Order Issue Queue
 - id: doi:10.1109/micro56248.2022.00023
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO, IF: 4, NRF BK21+)
   tags:
     - CPU
     - Microarchitecture
@@ -149,7 +149,7 @@
 
 # CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
 - id: doi:10.1109/hpca47549.2020.00039
-  publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA)
+  publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA, IF: 4, NRF BK21+)
   tags:
     - CPU
     - Microarchitecture
