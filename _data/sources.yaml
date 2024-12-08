@@ -5,6 +5,17 @@
 - id: doi:10.1109/ISCA59077.2024.00066
 - id: doi:10.1109/MICRO61859.2024.00110
 
+# Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective
+- id: doi:10.1109/MICRO61859.2024.00110
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tags:
+    - System
+    - Network
+    - Interconnect
+    - Architecture
+    - Accelerator
+  image: /images/publications/system.jpg
+  
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
