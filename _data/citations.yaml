@@ -386,6 +386,26 @@
   - Architecture
   - Accelerator
   image: /images/publications/system.jpg
+- id: doi:10.1109/MICRO61859.2024.00110
+  title: 'Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing
+    Perspective'
+  authors:
+  - Houxiang Ji
+  - Srikar Vanavasam
+  - Yang Zhou
+  - Qirong Xia
+  - Jinghan Huang
+  - Yifan Yuan
+  - Ren Wang
+  - Pekon Gupta
+  - Bhushan Chitlur
+  - Ipoom Jeong
+  - Nam Sung Kim
+  publisher: 2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  date: '2024-11-02'
+  link: https://doi.org/g8t3wn
+  plugin: sources.py
+  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
