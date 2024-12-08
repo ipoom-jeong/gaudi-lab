@@ -401,7 +401,7 @@
   - Bhushan Chitlur
   - Ipoom Jeong
   - Nam Sung Kim
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO), BK21+
   date: '2024-11-02'
   link: https://doi.org/g8t3wn
   plugin: sources.py
