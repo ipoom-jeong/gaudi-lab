@@ -10,10 +10,9 @@
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
   tags:
     - System
-    - Network
-    - Interconnect
-    - Architecture
+    - Memory
     - Accelerator
+    - Interconnect
   image: /images/publications/system.jpg
   
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
