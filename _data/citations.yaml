@@ -408,10 +408,9 @@
   file: sources.yaml
   tags:
   - System
-  - Network
-  - Interconnect
-  - Architecture
+  - Memory
   - Accelerator
+  - Interconnect
   image: /images/publications/system.jpg
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
