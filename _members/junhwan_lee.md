@@ -1,7 +1,7 @@
 ---
 name: Junhwan Lee
 image: images/members/junhwan_lee.jpg
-role: undergrad
+role: phd
 links:
   email: samlee1999@naver.com
 ---
