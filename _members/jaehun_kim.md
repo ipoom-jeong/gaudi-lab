@@ -1,6 +1,6 @@
 ---
 name: Jaehun Kim
-image: images/members/jaehum_kim.jpg
+image: images/members/jaehun_kim.jpg
 role: undergrad
 links:
   email: peterkim1130@naver.com
