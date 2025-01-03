@@ -38,21 +38,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Junhwan Lee | GAUDI Lab</title>
+<title>Jaehun Kim | GAUDI Lab</title>
 
 <link rel="icon" href="/images/icon.png">
 
-<meta name="title" content="Junhwan Lee">
+<meta name="title" content="Jaehun Kim">
 <meta name="description" content="General-Purpose Architectures with Unleashed Design Innovations. description">
 
-<meta property="og:title" content="Junhwan Lee">
+<meta property="og:title" content="Jaehun Kim">
 <meta property="og:site_title" content="GAUDI Lab">
 <meta property="og:description" content="General-Purpose Architectures with Unleashed Design Innovations. description">
 <meta property="og:url" content="http://gaudi.yonsei.ac.kr">
 <meta property="og:image" content="/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Junhwan Lee">
+<meta property="twitter:title" content="Jaehun Kim">
 <meta property="twitter:description" content="General-Purpose Architectures with Unleashed Design Innovations. description">
 <meta property="twitter:url" content="http://gaudi.yonsei.ac.kr">
 <meta property="twitter:card" content="summary_large_image">
@@ -68,9 +68,9 @@
     
       "@type": "WebSite",
     
-    "name": "Junhwan Lee",
+    "name": "Jaehun Kim",
     "description": "General-Purpose Architectures with Unleashed Design Innovations. description",
-    "headline": "Junhwan Lee",
+    "headline": "Jaehun Kim",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/images/icon.png" }
@@ -571,22 +571,22 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Junhwan Lee">
+  <a class="portrait" data-style="" aria-label="Jaehun Kim">
     
-      <i class="icon fa-solid fa-graduation-cap"></i>
+      <i class="icon fa-solid fa-user-graduate"></i>
     
 
-    <img src="/images/members/junhwan_lee.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+    <img src="/images/members/jaehum_kim.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-name">
-        Junhwan Lee
+        Jaehun Kim
       </span>
     
 
     
       <span class="portrait-description">
-        PhD Student
+        Undergraduate Research Intern
       </span>
     
 
@@ -603,7 +603,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="mailto:samlee1999@naver.com" data-tooltip="Email" data-style="bare" aria-label="Email">
+    <a class="button" href="mailto:peterkim1130@naver.com" data-tooltip="Email" data-style="bare" aria-label="Email">
       <i class="icon fa-solid fa-envelope"></i>
       
         <span>Email</span>
@@ -619,7 +619,7 @@
 </div>
 
 
-Junhwan Lee is an integrated MS-PhD student in the Department of System Semiconductor Engineering at Yonsei University, beginning his studies in March 2025. His research interests lie in general-purpose CPU/GPU microarchitectures and heterogeneous systems. Passionate about computer architecture, Junhwan is committed to advancing innovation in the field while enhancing his expertise. He is excited to contribute to groundbreaking research projects and grow through active engagement in the academic community.
+Jaehun Kim is an undergraduate student in the Department of Electronic and Electrical Engineering at Hongik University, with an anticipated graduation in August 2025. His primary interests include microprocessors, particularly in branch predictor design and mechanisms for addressing prediction failures. He has joined GAUDI Lab as an undergraduate research intern since January 2025. Jaehun is dedicated to advancing his knowledge of computer architecture and honing his design skills through active involvement in cutting-edge research projects.
 
 
 
@@ -628,8 +628,8 @@ Junhwan Lee is an integrated MS-PhD student in the Department of System Semicond
 
 <!--
 <p class="center">
-  <a href="/research/?search=%22Junhwan%20Lee%22%20">
-    Search for Junhwan Lee's papers on the Research page
+  <a href="/research/?search=%22Jaehun%20Kim%22%20">
+    Search for Jaehun Kim's papers on the Research page
   </a>
 </p>
 -->
@@ -638,8 +638,8 @@ Junhwan Lee is an integrated MS-PhD student in the Department of System Semicond
 
 <!--
 <p class="center">
-  <a href="/blog/?search=Junhwan%20Lee">
-    See Junhwan Lee's posts on the Blog page
+  <a href="/blog/?search=Jaehun%20Kim">
+    See Jaehun Kim's posts on the Blog page
   </a>
 </p>
 -->
