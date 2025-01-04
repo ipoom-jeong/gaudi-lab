@@ -20,22 +20,22 @@ He earned his Ph.D. degree from the Department of Electrical and Electronic Engi
 
 #### **Experience**
 
-[2024.03 - Present] $~$ **Assistant Professor**
-- Department of System Semiconductor Engineering, Yonsei University, Korea
+[2024.03 - Present] &nbsp; **Assistant Professor**<br>
+Department of System Semiconductor Engineering, Yonsei University, Korea
 
 [2022.09 - 2024.02] $~$ **Postdoctoral Research Associate**<br>
-- Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA
+Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA
 
 [2021.09 - 2022.08] $~$ **Research Professor**<br>
-- BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea
+BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea
 
 [2020.03 - 2021.08] $~$ **Engineer/Staff Engineer**<br>
-- Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea
+Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea
 
 #### **Education**
 
 [2014.03 - 2020.02] $~$ **Doctor of Philosophy**<br>
-- Department of Electrical and Electronic Engineering, Yonsei University, Korea
+Department of Electrical and Electronic Engineering, Yonsei University, Korea
 
 [2010.03 - 2014.02] $~$ **Bachelor’s Degree**<br>
-- Department of Electrical and Electronic Engineering, Yonsei University, Korea
+Department of Electrical and Electronic Engineering, Yonsei University, Korea
