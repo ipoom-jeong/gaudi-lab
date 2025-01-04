@@ -31,3 +31,11 @@ BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, 
 
 [2020.03 - 2021.08] $~$**Engineer/Staff Engineer**<br>
 Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea
+
+#### **Education**
+
+[2014.03 - 2020.02] $~$**Doctor of Philosophy**<br>
+Department of Electrical and Electronic Engineering, Yonsei University, Korea
+
+[2010.03 - 2014.02] $~$**Bachelor’s Degree**<br>
+Department of Electrical and Electronic Engineering, Yonsei University, Korea
