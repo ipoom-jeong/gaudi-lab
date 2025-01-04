@@ -30,6 +30,24 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+# alumni roles
+
+alum-postdoc:
+  icon: fa-solid fa-hand-spock
+  description: Former Postdoctoral Researcher
+
+alum-phd:
+  icon: fa-solid fa-hand-spock
+  description: Former PhD Student
+
+alum-ms:
+  icon: fa-solid fa-hand-spock
+  description: Former MS Student
+
+alum-undergrad:
+  icon: fa-solid fa-hand-spock
+  description: Former Undergraduate Student
+
 # general
 
 link:
