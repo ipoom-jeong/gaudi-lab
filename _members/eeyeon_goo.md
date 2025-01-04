@@ -1,7 +1,7 @@
 ---
 name: Eeyeon Goo
 image: images/members/eeyeon_goo.jpg
-role: undergrad
+role: current-undergrad
 links:
   email: 92y29@yonsei.ac.kr
 ---
