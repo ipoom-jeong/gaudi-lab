@@ -20,6 +20,8 @@ Ipoom Jeong is an Assistant Professor in the Department of System Semiconductor 
 
 ### **Experience**
 
+#### **Experience**
+
 **Experience**
 
 [2024.03 - Present] Assistant Professor, DepartmentofSystemSemiconductor Engineering, Yonsei University
