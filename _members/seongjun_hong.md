@@ -1,7 +1,7 @@
 ---
 name: Seongjun Hong
 image: images/members/seongjun_hong.jpg
-role: undergrad
+role: current-undergrad
 links:
   email: hsjlove007@gmail.com
 ---
