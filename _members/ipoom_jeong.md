@@ -21,7 +21,7 @@ He earned his Ph.D. degree from the Department of Electrical and Electronic Engi
 #### **Experience**
 
 [2024.03 - Present] &nbsp; **Assistant Professor**<br>
-Department of System Semiconductor Engineering, Yonsei University, Korea
+_Department of System Semiconductor Engineering, Yonsei University, Korea_
 
 [2022.09 - 2024.02] &nbsp; **Postdoctoral Research Associate**<br>
 Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA &nbsp; (PI: Professor Nam Sung Kim)
