@@ -38,4 +38,4 @@ Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea
 Department of Electrical and Electronic Engineering, Yonsei University, Korea
 
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
-Department of Electrical and Electronic Engineering, Yonsei University, Korea
+School of Electrical and Electronic Engineering, Yonsei University, Korea
