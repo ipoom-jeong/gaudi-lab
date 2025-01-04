@@ -19,14 +19,11 @@ Ipoom Jeong is an Assistant Professor in the Department of System Semiconductor 
 [2024.03 - Present] **Assistant Professor**<br> 
 Department of System Semiconductor Engineering, Yonsei University, Korea
 
-[2022.09 - 2024.02] **Postdoctoral Research Associate**
-
+[2022.09 - 2024.02] **Postdoctoral Research Associate**<br>
 Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA
 
-[2021.09 - 2022.08] **Research Professor**
-
+[2021.09 - 2022.08] **Research Professor**<br>
 BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea
 
-[2020.03 - 2021.08] **Engineer/Staff Engineer**
-
+[2020.03 - 2021.08] **Engineer/Staff Engineer**<br>
 Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea
