@@ -20,7 +20,7 @@ He earned his Ph.D. degree from the Department of Electrical and Electronic Engi
 
 #### **Experience**
 
-[2024.03 - Present]$~~$**Assistant Professor**<br> 
+[2024.03 - Present] $~~$ **Assistant Professor**<br> 
 Department of System Semiconductor Engineering, Yonsei University, Korea
 
 [2022.09 - 2024.02]  **Postdoctoral Research Associate**<br>
