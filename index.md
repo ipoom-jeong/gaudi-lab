@@ -11,19 +11,19 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 ## News
 
-**[25.01]** **Jaehun Kim**, **Seongjun Hong**, **Eeyeon Goo** have joined our lab as undergraduate research interns. Welcome aboard!
+**[25.01]** &nbsp; **Jaehun Kim**, **Seongjun Hong**, **Eeyeon Goo** have joined our lab as undergraduate research interns. Welcome aboard!
 
-**[24.11]** Our paper, **"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture (HPCA, NRF BK21+ IF: 4). Big congrats!
+**[24.11]** &nbsp; Our paper, **"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture (HPCA, NRF BK21+ IF: 4). Big congrats!
 
-**[24.11]** Our paper, **"Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture (HPCA, NRF BK21+ IF: 4). Big congrats!
+**[24.11]** &nbsp; Our paper, **"Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture (HPCA, NRF BK21+ IF: 4). Big congrats!
 
-**[24.07]** Our paper, **"Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective,"** has been accepted to the IEEE/ACM International Symposium on Microarchitecture (MICRO, NRF BK21+ IF: 4). Big congrats!
+**[24.07]** &nbsp; Our paper, **"Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective,"** has been accepted to the IEEE/ACM International Symposium on Microarchitecture (MICRO, NRF BK21+ IF: 4). Big congrats!
 
-**[24.07]** **Junhwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
+**[24.07]** &nbsp; **Junhwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
 
-**[24.04]** Our research proposal, "Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration," has been accepted.
+**[24.04]** &nbsp; Our research proposal, "Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration," has been accepted.
 
-**[24.03]** **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
+**[24.03]** &nbsp; **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
 
 
 {% include section.html %}
