@@ -13,7 +13,7 @@
     - Memory
     - Accelerator
     - Interconnect
-  image: /images/publications/system.png
+  image: /images/publications/cxl.png
   
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
