@@ -411,7 +411,7 @@
   - Memory
   - Accelerator
   - Interconnect
-  image: /images/publications/cxl.png
+  image: /images/publications/system.png
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
