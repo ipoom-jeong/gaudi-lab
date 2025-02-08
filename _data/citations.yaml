@@ -54,7 +54,7 @@
   - Interconnect
   - Architecture
   - Security
-  image: /images/publications/system.jpg
+  image: /images/publications/cxl.png
 - id: doi:10.1145/3627703.3629588
   title: 'ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives'
   authors:
@@ -143,7 +143,7 @@
   - System
   - Memory
   - Interconnect
-  image: /images/publications/memory.jpg
+  image: /images/publications/cxl.png
 - id: doi:10.1109/pact58117.2023.00033
   title: 'INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core'
   authors:
@@ -334,7 +334,7 @@
   - System
   - Memory
   - Interconnect
-  image: /images/publications/memory.jpg
+  image: /images/publications/cxl.png
 - id: doi:10.1109/ISCA59077.2024.00051
   title: 'HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative
     Computing'
