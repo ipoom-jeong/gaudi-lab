@@ -23,6 +23,10 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 **[24.04]** Our research proposal, "Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration," has been accepted.
 
+**[24.03]** Our paper, **"Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product,"** has been accepted to the ACM/IEEE International Symposium on Computer Architecture (ISCA, NRF BK21+ IF: 4). Big congrats!
+
+**[24.03]** Our paper, **"HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing,"** has been accepted to the ACM/IEEE International Symposium on Computer Architecture (ISCA, NRF BK21+ IF: 4). Big congrats!
+
 **[24.03]** **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
 
 
