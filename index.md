@@ -11,6 +11,10 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 ## News
 
+**[25.03]** Our paper, **"Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines,"** has been accepted to the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS, NRF BK21+ IF: 1). Big congrats!
+
+**[25.03]** **Junhwan Lee** has joined our lab as a PhD student. Welcome aboard!
+
 **[25.01]** **Jaehun Kim**, **Seongjun Hong**, **Eeyeon Goo** have joined our lab as undergraduate research interns. Welcome aboard!
 
 **[24.11]** Our paper, **"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture (HPCA, NRF BK21+ IF: 4). Big congrats!
