@@ -173,26 +173,6 @@
 
 
 # manually provide all citation details
-  - title: Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
-  authors:
-    - Eunbi Jeong
-    - Ipoom Jeong
-    - Myung Kuk Yoon
-    - Nam Sung Kim
-  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
-  date: 2024-03-01
-
-  - title: Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
-  authors:
-    - Jiwon Lee
-    - Gun Ko
-    - Myung Kuk Yoon
-    - Ipoom Jeong
-    - Yunho Oh
-    - Won Woo Ro
-  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
-  date: 2024-03-01
-  
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
     - Ipoom Jeong
