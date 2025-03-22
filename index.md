@@ -11,6 +11,10 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 ## News
 
+**[25.03]** Our paper, **"UPP: Universal Predicate Pushdown to Smart Storage,"** has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. Big congrats!
+
+**[25.03]** Our paper, **"A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices,"** has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. Big congrats!
+
 **[25.03]** **Yeonwoo Choi** has joined our lab as an undergraduate research intern. Welcome aboard!
 
 **[25.03]** Our paper, **"Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines,"** has been accepted to the IEEE International Symposium on Performance Analysis of Systems and Software **(ISPASS, NRF BK21+ IF: 1)**. Big congrats!
