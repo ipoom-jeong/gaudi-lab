@@ -173,41 +173,6 @@
 
 
 # manually provide all citation details
-- title: UPP: Universal Predicate Pushdown to Smart Storage
-  authors:
-    - Ipoom Jeong
-    - Jinghan Huang
-    - Chuxuan Hu
-    - Dohyun Park
-    - Jaeyoung Kang
-    - Nam Sung Kim
-    - Yongjoo Park
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: 2025-06-21
-
-  - title: A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
-  authors:
-    - Haneul Park
-    - Jiaqi Lou
-    - Sangjin Lee
-    - Yifan Yuan
-    - KyoungSoo Park
-    - Yongseok Son
-    - Ipoom Jeong
-    - Nam Sung Kim
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: 2025-06-21
-
-  - title: Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines
-  authors:
-    - Jaeyoung Kang
-    - Qirong Xia
-    - Ipoom Jeong
-    - Yongjoo Park
-    - Nam Sung Kim
-  publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
-  date: 2025-05-11
-
   - title: Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
   authors:
     - Eunbi Jeong
