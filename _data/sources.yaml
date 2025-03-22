@@ -185,7 +185,7 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: 2025-06-21
 
-  - title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices"
+- title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices"
   authors:
     - Haneul Park
     - Jiaqi Lou
@@ -198,7 +198,7 @@
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   date: 2025-06-21
 
-  - title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines"
+- title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines"
   authors:
     - Jaeyoung Kang
     - Qirong Xia
@@ -208,7 +208,7 @@
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   date: 2025-05-11
 
-  - title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction"
+- title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction"
   authors:
     - Eunbi Jeong
     - Ipoom Jeong
