@@ -149,7 +149,7 @@
 
 # CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
 - id: doi:10.1109/hpca47549.2020.00039
-  publisher: IEEE International Symposium on High Performance Computer Architecture (HPCA)
+  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   tags:
     - CPU
     - Microarchitecture
@@ -170,9 +170,64 @@
     - CPU
     - Microarchitecture
   image: /images/publications/cpu.png
-  
+
 
 # manually provide all citation details
+- title: UPP: Universal Predicate Pushdown to Smart Storage
+  authors:
+    - Ipoom Jeong
+    - Jinghan Huang
+    - Chuxuan Hu
+    - Dohyun Park
+    - Jaeyoung Kang
+    - Nam Sung Kim
+    - Yongjoo Park
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  date: 2025-06-21
+
+  - title: A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
+  authors:
+    - Haneul Park
+    - Jiaqi Lou
+    - Sangjin Lee
+    - Yifan Yuan
+    - KyoungSoo Park
+    - Yongseok Son
+    - Ipoom Jeong
+    - Nam Sung Kim
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  date: 2025-06-21
+
+  - title: Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines
+  authors:
+    - Jaeyoung Kang
+    - Qirong Xia
+    - Ipoom Jeong
+    - Yongjoo Park
+    - Nam Sung Kim
+  publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  date: 2025-05-11
+
+  - title: Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
+  authors:
+    - Eunbi Jeong
+    - Ipoom Jeong
+    - Myung Kuk Yoon
+    - Nam Sung Kim
+  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  date: 2024-03-01
+
+  - title: Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
+  authors:
+    - Jiwon Lee
+    - Gun Ko
+    - Myung Kuk Yoon
+    - Ipoom Jeong
+    - Yunho Oh
+    - Won Woo Ro
+  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  date: 2024-03-01
+  
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
     - Ipoom Jeong
