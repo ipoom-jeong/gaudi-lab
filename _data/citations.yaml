@@ -412,8 +412,8 @@
   - Accelerator
   - Interconnect
   image: /images/publications/cxl.png
-- title: 'Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing
-    GPU Throughput'
+- title: Marching Page Walks Batching and Concurrent Page Table Walks for Enhancing
+    GPU Throughput
   authors:
   - Jiwon Lee
   - Gun Ko
