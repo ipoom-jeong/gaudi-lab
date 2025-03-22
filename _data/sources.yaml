@@ -173,7 +173,7 @@
 
 
 # manually provide all citation details
-- title: "Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput"
+- title: Marching Page Walks Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
   authors:
     - Jiwon Lee
     - Gun Ko
