@@ -13,6 +13,6 @@ nav:
 
 {% include search-info.html %}
 
-<p style='text-align: right;'> #### *: corresponding author(s) </p>
+<p style='text-align: right;'> *: corresponding author(s) </p>
 
 {% include list.html data="citations" component="citation" style="rich" %}
