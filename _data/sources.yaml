@@ -211,7 +211,7 @@
 - title: "Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction"
   authors:
     - Eunbi Jeong
-    - "Ipoom Jeong*"<br>
+    - "Ipoom Jeong*"
     - "Myung Kuk Yoon*"
     - Nam Sung Kim
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
