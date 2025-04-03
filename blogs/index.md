@@ -13,4 +13,6 @@ nav:
 
 {% include search-info.html %}
 
+"*: corresponding author(s)"
+
 {% include list.html data="citations" component="citation" style="rich" %}
