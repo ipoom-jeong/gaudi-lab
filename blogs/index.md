@@ -14,6 +14,6 @@ nav:
 {% include search-info.html %}
 
 {: style="text-align: right" }
-#### *: corresponding author(s)
+#### *: Corresponding author(s)
 
 {% include list.html data="citations" component="citation" style="rich" %}
