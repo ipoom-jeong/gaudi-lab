@@ -7,6 +7,7 @@
 - id: doi:10.1109/HPCA61900.2025.00106
 - id: doi:10.1109/HPCA61900.2025.00123
 
+
 # Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
 - id: doi:10.1109/HPCA61900.2025.00123
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
