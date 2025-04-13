@@ -19,6 +19,11 @@
 # Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
 - id: doi:10.1109/HPCA61900.2025.00106
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  authors:
+    - Eunbi Jeong
+    - Ipoom Jeong\*
+    - Myung Kuk Yoon\*
+    - Nam Sung Kim
   tags:
     - GPGPU
     - Microarchitecture
