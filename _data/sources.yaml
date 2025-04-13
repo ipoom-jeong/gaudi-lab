@@ -5,12 +5,21 @@
 - id: doi:10.1109/ISCA59077.2024.00066
 - id: doi:10.1109/MICRO61859.2024.00110
 - id: doi:10.1109/HPCA61900.2025.00106
+- id: doi:10.1109/HPCA61900.2025.00123
 
+# Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
+- id: doi:10.1109/HPCA61900.2025.00123
+  publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  tags:
+    - GPGPU
+    - Microarchitecture
+  image: /images/publications/gpu.png
+  
 # Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
 - id: doi:10.1109/HPCA61900.2025.00106
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   tags:
-    - GPU
+    - GPGPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -49,7 +58,7 @@
 - id: doi:10.1109/LES.2023.3307622
   publisher: IEEE Embedded Systems Letters
   tags:
-    - GPU
+    - GPGPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -113,7 +122,7 @@
 - id: doi:10.1109/pact58117.2023.00033
   publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
   tags:
-    - GPU
+    - GPGPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -137,7 +146,7 @@
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
   tags:
-    - GPU
+    - GPGPU
     - Microarchitecture
   image: /images/publications/gpu.png
   
@@ -152,7 +161,7 @@
 # TEA-RC: Thread Context-Aware Register Cache for GPUs
 - id: doi:10.1109/ACCESS.2022.3196149
   tags:
-    - GPU
+    - GPGPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
