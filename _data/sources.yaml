@@ -4,10 +4,10 @@
 - id: doi:10.1109/ISCA59077.2024.00051
 - id: doi:10.1109/ISCA59077.2024.00066
 - id: doi:10.1109/MICRO61859.2024.00110
-- id: 10.1109/HPCA61900.2025.00106
+- id: doi:10.1109/HPCA61900.2025.00106
 
 # Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
-- id: 10.1109/HPCA61900.2025.00106
+- id: doi:10.1109/HPCA61900.2025.00106
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   tags:
     - GPU
