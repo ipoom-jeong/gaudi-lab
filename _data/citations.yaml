@@ -412,7 +412,7 @@
   - Accelerator
   - Interconnect
   image: /images/publications/cxl.png
-- id: 10.1109/HPCA61900.2025.00106
+- id: doi:10.1109/HPCA61900.2025.00106
   title: 'Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via
     Operand Compaction'
   authors:
