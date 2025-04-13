@@ -412,6 +412,24 @@
   - Accelerator
   - Interconnect
   image: /images/publications/cxl.png
+- id: 10.1109/HPCA61900.2025.00106
+  title: 'Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via
+    Operand Compaction'
+  authors:
+  - Eunbi Jeong
+  - Ipoom Jeong
+  - Myung Kuk Yoon
+  - Nam Sung Kim
+  publisher: IEEE International Symposium on High-Performance Computer Architecture
+    (HPCA)
+  date: '2025-03-01'
+  link: https://doi.org/g9fbzf
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - GPU
+  - Microarchitecture
+  image: /images/publications/gpu.png
 - title: 'UPP: Universal Predicate Pushdown to Smart Storage'
   authors:
   - Ipoom Jeong
@@ -451,18 +469,6 @@
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software
     (ISPASS)
   date: '2025-05-11'
-  plugin: sources.py
-  file: sources.yaml
-- title: 'Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via
-    Operand Compaction'
-  authors:
-  - Eunbi Jeong
-  - Ipoom Jeong\*
-  - Myung Kuk Yoon\*
-  - Nam Sung Kim
-  publisher: IEEE International Symposium on High-Performance Computer Architecture
-    (HPCA)
-  date: '2025-03-01'
   plugin: sources.py
   file: sources.yaml
 - title: 'Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing
