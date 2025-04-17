@@ -23,9 +23,9 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 **[25.01]** **Jaehun Kim**, **Seongjun Hong**, **Eeyeon Goo** have joined our lab as undergraduate research interns. Welcome aboard!
 
-**[24.11]** Our paper, **"Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
+**[24.11]** Our paper, **"Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput,"** has been accepted to the IEEE International Symposium on High-Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
 
-**[24.11]** Our paper, **"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"** has been accepted to the IEEE International Symposium on High Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
+**[24.11]** Our paper, **"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"** has been accepted to the IEEE International Symposium on High-Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
 
 **[24.07]** Our paper, **"Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective,"** has been accepted to the IEEE/ACM International Symposium on Microarchitecture **(MICRO, NRF BK21+ IF: 4)**. 
 
