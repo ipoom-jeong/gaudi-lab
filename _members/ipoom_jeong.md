@@ -39,3 +39,5 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
+
+For additional details, please visit the personal homepage.
