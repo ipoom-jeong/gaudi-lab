@@ -12,7 +12,7 @@
 - id: doi:10.1109/HPCA61900.2025.00123
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
   
@@ -25,7 +25,7 @@
     - Myung Kuk Yoon\*
     - Nam Sung Kim
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -64,7 +64,7 @@
 - id: doi:10.1109/LES.2023.3307622
   publisher: IEEE Embedded Systems Letters
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -128,7 +128,7 @@
 - id: doi:10.1109/pact58117.2023.00033
   publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
@@ -152,7 +152,7 @@
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
   
@@ -167,7 +167,7 @@
 # TEA-RC: Thread Context-Aware Register Cache for GPUs
 - id: doi:10.1109/ACCESS.2022.3196149
   tags:
-    - GPGPU
+    - GPU
     - Microarchitecture
   image: /images/publications/gpu.png
 
