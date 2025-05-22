@@ -93,7 +93,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - id: doi:10.1016/j.sysarc.2023.103025
@@ -160,7 +160,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - id: doi:10.1109/LCA.2023.3290427
@@ -198,7 +198,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - id: doi:10.1109/micro56248.2022.00023
@@ -232,7 +232,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - id: doi:10.1109/hpca47549.2020.00039
@@ -427,7 +427,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - id: doi:10.1109/HPCA61900.2025.00123
@@ -447,7 +447,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - GPGPU
+  - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
 - title: 'UPP: Universal Predicate Pushdown to Smart Storage'
