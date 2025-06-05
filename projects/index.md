@@ -13,6 +13,20 @@ nav:
 
 {% capture text %}
 
+### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (2025.06 - 2028.05)**
+
+- National Research Foundation of Korea (NRF)
+- D﻿eveloping a heterogeneous acceleration platform for general-purpose multi-modal AI
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/pim.png" flip=true text=text %}
+
+
+{% capture text %}
+
 ### **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
 
 - Korea Evaluation Institute of Industrial Technology (KEIT)
