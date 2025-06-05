@@ -14,9 +14,9 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## News
 
-**[24.05]** Our research proposal, *"Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators,"* has been accepted by the National Research Foundation of Korea **(NRF)**.
-
 **[24.05]** Our research proposal, *"AI Semiconductor Innovation Lab (Yonsei University),"* has been accepted by the Institute for Information & communication Technology Planning & evaluation **(IITP)**.
+
+**[24.05]** Our research proposal, *"Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators,"* has been accepted by the National Research Foundation of Korea **(NRF)**.
 
 **[25.03]** Our paper, *"A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
 
