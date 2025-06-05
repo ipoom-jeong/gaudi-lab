@@ -11,9 +11,9 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 ## News
 
-**[24.05]** Our research proposal, *"Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators,"* has been accepted **(NRF)**.
+**[24.05]** Our research proposal, *"Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators,"* has been accepted by the National Research Foundation of Korea **(NRF)**.
 
-**[24.05]** Our research proposal, *"AI Semiconductor Innovation Lab (Yonsei University),"* has been accepted **(IITP)**.
+**[24.05]** Our research proposal, *"AI Semiconductor Innovation Lab (Yonsei University),"* has been accepted by the Institute for Information & communication Technology Planning & evaluation **(IITP)**.
 
 **[25.03]** Our paper, *"A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
 
@@ -35,7 +35,7 @@ GAUDI Lab is dedicated to exploring multi-directional innovations in computer ar
 
 **[24.07]** **Junhwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
 
-**[24.04]** Our research proposal, *"Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration,"* has been accepted **(KEIT)**.
+**[24.04]** Our research proposal, *"Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration,"* has been accepted by the Korea Evaluation Institute of Industrial Technology **(KEIT)**.
 
 **[24.03]** Our paper, *"Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
 
