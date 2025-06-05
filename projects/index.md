@@ -22,7 +22,7 @@ nav:
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/pim.png" flip=true text=text %}
+{% include feature.html image="images/projects/brl.jpg" flip=true text=text %}
 
 
 {% capture text %}
