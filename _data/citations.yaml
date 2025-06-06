@@ -479,7 +479,7 @@
   plugin: sources.py
   file: sources.yaml
 - title: "Intel\xAE In-Memory Analytics Accelerator: Performance Characterization\
-    \ and Guidelines <br> Best Paper Honorable Mention | Distinguished Artifact Award"
+    \ and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
   authors:
   - Jaeyoung Kang
   - Qirong Xia
