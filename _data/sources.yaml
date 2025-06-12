@@ -197,6 +197,15 @@
 
 
 # manually provide all citation details
+- title: "Time Series Machine Learning Models for Precise SSD Access Latency Prediction"
+  authors:
+    - Bikrant Das Sharma
+    - Houxiang Ji
+    - Ipoom Jeong\*
+    - Nam Sung Kim
+  publisher: IEEE Computer Architecture Letters (CAL)
+  date: 2025-07-01
+  
 - title: "UPP: Universal Predicate Pushdown to Smart Storage"
   authors:
     - Ipoom Jeong
