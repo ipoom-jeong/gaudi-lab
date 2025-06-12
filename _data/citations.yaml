@@ -450,6 +450,16 @@
   - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
+- title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
+  authors:
+  - Bikrant Das Sharma
+  - Houxiang Ji
+  - Ipoom Jeong\*
+  - Nam Sung Kim
+  publisher: IEEE Computer Architecture Letters (CAL)
+  date: '2025-07-01'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'UPP: Universal Predicate Pushdown to Smart Storage'
   authors:
   - Ipoom Jeong
