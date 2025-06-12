@@ -250,6 +250,16 @@
     - Nam Sung Kim
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   date: 2025-05-11
+
+- title: 최신 범용 프로세서 연구 동향
+  authors:
+    - 이준환
+    - 홍성준
+    - 김재훈
+    - 구이연
+    - 정이
+  publisher: 정보과학회지
+  date: 2025-04-01
   
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
