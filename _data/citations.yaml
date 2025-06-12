@@ -519,7 +519,7 @@
   - "\uD64D\uC131\uC900"
   - "\uAE40\uC7AC\uD6C8"
   - "\uAD6C\uC774\uC5F0"
-  - "\uC815\uC774"
+  - "\uC815\uC774\uD488\\*"
   publisher: "\uC815\uBCF4\uACFC\uD559\uD68C\uC9C0"
   date: '2025-04-01'
   plugin: sources.py
