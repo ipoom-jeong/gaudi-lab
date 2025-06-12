@@ -457,7 +457,19 @@
   - Ipoom Jeong\*
   - Nam Sung Kim
   publisher: IEEE Computer Architecture Letters (CAL)
-  date: '2025-07-01'
+  date: '2025-08-01'
+  plugin: sources.py
+  file: sources.yaml
+- title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
+  authors:
+  - Taeyoun Kim
+  - Sungbin Kim
+  - Seunghyun Lee
+  - Ipoom Jeong-
+  - Won Woo Ro
+  publisher: IEIE International Technical Conference on Circuits/Systems, Computers
+    and Communications (ITC-CSCC)
+  date: '2025-07-07'
   plugin: sources.py
   file: sources.yaml
 - title: 'UPP: Universal Predicate Pushdown to Smart Storage'
