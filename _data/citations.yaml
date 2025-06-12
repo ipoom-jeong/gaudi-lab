@@ -513,6 +513,17 @@
   date: '2025-05-11'
   plugin: sources.py
   file: sources.yaml
+- title: "\uCD5C\uC2E0 \uBC94\uC6A9 \uD504\uB85C\uC138\uC11C \uC5F0\uAD6C \uB3D9\uD5A5"
+  authors:
+  - "\uC774\uC900\uD658"
+  - "\uD64D\uC131\uC900"
+  - "\uAE40\uC7AC\uD6C8"
+  - "\uAD6C\uC774\uC5F0"
+  - "\uC815\uC774"
+  publisher: "\uC815\uBCF4\uACFC\uD559\uD68C\uC9C0"
+  date: '2025-04-01'
+  plugin: sources.py
+  file: sources.yaml
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
   - Ipoom Jeong
