@@ -8,7 +8,22 @@
 - id: doi:10.1109/HPCA61900.2025.00123
 - id: doi:10.1145/3695053.3731114
 - id: doi:10.1145/3695053.3731005
+- id: 10.1109/LCA.2025.3581580
 
+
+#Time Series Machine Learning Models for Precise SSD Access Latency Prediction
+- id: 10.1109/LCA.2025.3581580
+  publisher: IEEE Computer Architecture Letters (CAL)
+  authors:
+    - Bikrant Das Sharma
+    - Houxiang Ji
+    - Ipoom Jeong\*
+    - Nam Sung Kim
+  tags:
+    - SSD
+    - Modeling
+  image: /images/publications/ssd.jpg
+ 
 #A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
 - id: doi:10.1145/3695053.3731114
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
@@ -225,16 +240,7 @@
   image: /images/publications/cpu.png
 
 
-# manually provide all citation details
-- title: "Time Series Machine Learning Models for Precise SSD Access Latency Prediction"
-  authors:
-    - Bikrant Das Sharma
-    - Houxiang Ji
-    - Ipoom Jeong\*
-    - Nam Sung Kim
-  publisher: IEEE Computer Architecture Letters (CAL)
-  date: 2025-08-01
-  
+# manually provide all citation details  
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
     - Taeyoun Kim
