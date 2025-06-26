@@ -8,6 +8,34 @@
 - id: doi:10.1109/HPCA61900.2025.00123
 
 
+#A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
+- id: doi:10.1145/3695053.3731114
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  authors:
+    - Haneul Park
+    - Jiaqi Lou
+    - Sangjin Lee
+    - Yifan Yuan
+    - KyoungSoo Park
+    - Yongseok Son
+    - Ipoom Jeong\*
+    - Nam Sung Kim
+  tags:
+    - CPU
+    - Microarchitecture
+    - Last-Level Cache
+    - Datacenter
+  image: /images/publications/cpu.png
+  
+#UPP: Universal Predicate Pushdown to Smart Storage
+- id: doi:10.1109/10.1145/3695053.3731005
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tags:
+    - SSD
+    - In-Storage Processing
+    - Database
+  image: /images/publications/ssd.jpg
+  
 # Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
 - id: doi:10.1109/HPCA61900.2025.00123
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
@@ -92,9 +120,9 @@
 - id: doi:10.1145/3627703.3629588
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
   tags:
-    - System
-    - Storage
-    - OS    
+    - SSD
+    - OS
+    - Page Cache
   image: /images/publications/ssd.jpg
 
 # A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
@@ -215,31 +243,6 @@
     - Won Woo Ro
   publisher: "IEIE International Technical Conference on Circuits/Systems, Computers and Communications (ITC-CSCC)"
   date: 2025-07-07
-  
-- title: "UPP: Universal Predicate Pushdown to Smart Storage"
-  authors:
-    - Ipoom Jeong
-    - Jinghan Huang
-    - Chuxuan Hu
-    - Dohyun Park
-    - Jaeyoung Kang
-    - Nam Sung Kim
-    - Yongjoo Park
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: 2025-06-21
-
-- title: "A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices"
-  authors:
-    - Haneul Park
-    - Jiaqi Lou
-    - Sangjin Lee
-    - Yifan Yuan
-    - KyoungSoo Park
-    - Yongseok Son
-    - Ipoom Jeong\*
-    - Nam Sung Kim
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: 2025-06-21
 
 - title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
   authors:
