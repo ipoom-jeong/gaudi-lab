@@ -1,5 +1,63 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3695053.3731114
+  title: 'A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging
+    I/O Devices'
+  authors:
+  - Haneul Park
+  - Jiaqi Lou
+  - Sangjin Lee
+  - Yifan Yuan
+  - KyoungSoo Park
+  - Yongseok Son
+  - Ipoom Jeong\*
+  - Nam Sung Kim
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  date: '2025-06-20'
+  link: https://doi.org/g9q3g9
+  orcid: 0000-0001-7513-2858
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - CPU
+  - Microarchitecture
+  - Last-Level Cache
+  - Datacenter
+  image: /images/publications/cpu.png
+- id: doi:10.1145/3695053.3731005
+  title: 'UPP: Universal Predicate Pushdown to Smart Storage'
+  authors:
+  - Ipoom Jeong
+  - Jinghan Huang
+  - Chuxuan Hu
+  - Dohyun Park
+  - Jaeyoung Kang
+  - Nam Sung Kim
+  - Yongjoo Park
+  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  date: '2025-06-20'
+  link: https://doi.org/g9q3hb
+  orcid: 0000-0001-7513-2858
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - SSD
+  - In-Storage Processing
+  - Database
+  image: /images/publications/ssd.jpg
+- id: doi:10.1109/LCA.2025.3581580
+  title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
+  authors:
+  - Bikrant Das Sharma
+  - Houxiang Ji
+  - Ipoom Jeong
+  - Nam Sung Kim
+  publisher: IEEE Computer Architecture Letters
+  date: '2025-01-01'
+  link: https://doi.org/g9q3hc
+  orcid: 0000-0001-7513-2858
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3620665.3640401
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
     Intel Xeon Scalable Processors
@@ -74,9 +132,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - System
-  - Storage
+  - SSD
   - OS
+  - Page Cache
   image: /images/publications/ssd.jpg
 - id: doi:10.1109/LES.2023.3307622
   title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
@@ -470,34 +528,6 @@
   publisher: IEIE International Technical Conference on Circuits/Systems, Computers
     and Communications (ITC-CSCC)
   date: '2025-07-07'
-  plugin: sources.py
-  file: sources.yaml
-- title: 'UPP: Universal Predicate Pushdown to Smart Storage'
-  authors:
-  - Ipoom Jeong
-  - Jinghan Huang
-  - Chuxuan Hu
-  - Dohyun Park
-  - Jaeyoung Kang
-  - Nam Sung Kim
-  - Yongjoo Park
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: '2025-06-21'
-  plugin: sources.py
-  file: sources.yaml
-- title: 'A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging
-    I/O Devices'
-  authors:
-  - Haneul Park
-  - Jiaqi Lou
-  - Sangjin Lee
-  - Yifan Yuan
-  - KyoungSoo Park
-  - Yongseok Son
-  - Ipoom Jeong\*
-  - Nam Sung Kim
-  publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
-  date: '2025-06-21'
   plugin: sources.py
   file: sources.yaml
 - title: "Intel\xAE In-Memory Analytics Accelerator: Performance Characterization\
