@@ -6,7 +6,8 @@
 - id: doi:10.1109/MICRO61859.2024.00110
 - id: doi:10.1109/HPCA61900.2025.00106
 - id: doi:10.1109/HPCA61900.2025.00123
-
+- id: doi:10.1145/3695053.3731114
+- id: doi:10.1145/3695053.3731005
 
 #A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
 - id: doi:10.1145/3695053.3731114
