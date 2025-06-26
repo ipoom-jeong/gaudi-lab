@@ -508,16 +508,22 @@
   - GPU
   - Microarchitecture
   image: /images/publications/gpu.png
-- title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
+- id: 10.1109/LCA.2025.3581580
+  title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
   authors:
   - Bikrant Das Sharma
   - Houxiang Ji
   - Ipoom Jeong\*
-  - Nam Sung Kim
+  - Nam Sung Kim\*
   publisher: IEEE Computer Architecture Letters (CAL)
-  date: '2025-08-01'
+  date: '2025-01-01'
+  link: https://doi.org/g9q3hc
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - SSD
+  - Modeling
+  image: /images/publications/ssd.jpg
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
