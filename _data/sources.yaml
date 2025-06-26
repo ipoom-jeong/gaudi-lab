@@ -28,7 +28,7 @@
   image: /images/publications/cpu.png
   
 #UPP: Universal Predicate Pushdown to Smart Storage
-- id: doi:10.1109/10.1145/3695053.3731005
+- id: doi:10.1145/3695053.3731005
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
   tags:
     - SSD
