@@ -39,6 +39,7 @@
     - CPU
     - Microarchitecture
     - Last-Level Cache
+    - Data direct I/O
     - Datacenter
   image: /images/publications/cpu.png
   
