@@ -57,6 +57,7 @@
   tags:
     - GPU
     - Microarchitecture
+    - Virtual memory
   image: /images/publications/gpu.png
   
 # Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
@@ -70,6 +71,7 @@
   tags:
     - GPU
     - Microarchitecture
+    - Register file
   image: /images/publications/gpu.png
 
 # Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective
