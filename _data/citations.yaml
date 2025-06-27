@@ -50,14 +50,18 @@
   authors:
   - Bikrant Das Sharma
   - Houxiang Ji
-  - Ipoom Jeong
-  - Nam Sung Kim
-  publisher: IEEE Computer Architecture Letters
+  - Ipoom Jeong\*
+  - Nam Sung Kim\*
+  publisher: IEEE Computer Architecture Letters (CAL)
   date: '2025-01-01'
   link: https://doi.org/g9q3hc
   orcid: 0000-0001-7513-2858
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - SSD
+  - Modeling
+  image: /images/publications/ssd.jpg
 - id: doi:10.1145/3620665.3640401
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
     Intel Xeon Scalable Processors
@@ -510,22 +514,6 @@
   - Microarchitecture
   - Virtual memory
   image: /images/publications/gpu.png
-- id: 10.1109/LCA.2025.3581580
-  title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
-  authors:
-  - Bikrant Das Sharma
-  - Houxiang Ji
-  - Ipoom Jeong\*
-  - Nam Sung Kim\*
-  publisher: IEEE Computer Architecture Letters (CAL)
-  date: '2025-01-01'
-  link: https://doi.org/g9q3hc
-  tags:
-  - SSD
-  - Modeling
-  image: /images/publications/ssd.jpg
-  plugin: sources.py
-  file: sources.yaml
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
