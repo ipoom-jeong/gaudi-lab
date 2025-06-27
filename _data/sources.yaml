@@ -40,7 +40,6 @@
     - Microarchitecture
     - Last-Level Cache
     - Data direct I/O
-    - Datacenter
   image: /images/publications/cpu.png
   
 #UPP: Universal Predicate Pushdown to Smart Storage
