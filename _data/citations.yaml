@@ -518,12 +518,12 @@
   publisher: IEEE Computer Architecture Letters (CAL)
   date: '2025-01-01'
   link: https://doi.org/g9q3hc
-  plugin: sources.py
-  file: sources.yaml
   tags:
   - SSD
   - Modeling
   image: /images/publications/ssd.jpg
+  plugin: sources.py
+  file: sources.yaml
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
@@ -579,7 +579,7 @@
   authors:
   - Ipoom Jeong
   - Won Woo Ro
-  publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
+  publisher: IEEE International Conference on Consumer Electronics Asia (ICCE-ASIA)
   date: '2018-06-01'
   plugin: sources.py
   file: sources.yaml
