@@ -8,7 +8,6 @@
 - id: doi:10.1109/HPCA61900.2025.00123
 - id: doi:10.1145/3695053.3731114
 - id: doi:10.1145/3695053.3731005
-- id: 10.1109/LCA.2025.3581580
 
 
 #Time Series Machine Learning Models for Precise SSD Access Latency Prediction
@@ -286,7 +285,7 @@
   authors:
     - Ipoom Jeong
     - Won Woo Ro
-  publisher: IEEE International Conference On Consumer Electronics Asia (ICCE-ASIA)
+  publisher: IEEE International Conference on Consumer Electronics Asia (ICCE-ASIA)
   date: 2018-06-01
 
 - title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
