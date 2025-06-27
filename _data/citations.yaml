@@ -487,6 +487,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Register file
   image: /images/publications/gpu.png
 - id: doi:10.1109/HPCA61900.2025.00123
   title: 'Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing
@@ -507,6 +508,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Virtual memory
   image: /images/publications/gpu.png
 - id: 10.1109/LCA.2025.3581580
   title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
