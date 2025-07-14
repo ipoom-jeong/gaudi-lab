@@ -1,6 +1,6 @@
 ---
 name: Yeonwoo Choi
-image: images/members/Yeonwoo_choi.jpg
+image: images/members/yeonwoo_choi.jpg
 role: current-undergrad
 links:
   email: myelody24@naver.com
