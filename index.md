@@ -14,6 +14,8 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## News
 
+**[25.07]** **Seonghun Jeong** has joined our lab as an undergraduate research intern. Welcome aboard!
+
 **[24.06]** Our paper, *"Time Series Machine Learning Models for Precise SSD Access Latency Prediction,"* has been accepted to the IEEE Computer Architecture Letters **(CAL, SCI(E) Q4)**. 
 
 **[24.05]** Our research proposal, *"AI Semiconductor Innovation Lab (Yonsei University),"* has been accepted by the Institute for Information & communication Technology Planning & evaluation **(IITP)**.
