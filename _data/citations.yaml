@@ -514,6 +514,19 @@
   - Microarchitecture
   - Virtual memory
   image: /images/publications/gpu.png
+- title: 'Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading'
+  authors:
+  - Houxiang Ji
+  - Yifan Yuan
+  - Yang Zhou
+  - Ipoom Jeong
+  - Ren Wang
+  - Saksham Agarwal
+  - Nam Sung Kim
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  date: '2025-10-18'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
