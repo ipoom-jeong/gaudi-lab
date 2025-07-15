@@ -242,6 +242,18 @@
 
 
 # manually provide all citation details  
+- title: "Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading"
+  authors:
+    - Houxiang Ji
+    - Yifan Yuan
+    - Yang Zhou
+    - Ipoom Jeong
+    - Ren Wang
+    - Saksham Agarwal
+    - Nam Sung Kim
+  publisher: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  date: 2025-10-18
+  
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
     - Taeyoun Kim
