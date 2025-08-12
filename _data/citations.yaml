@@ -111,10 +111,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
+  - CXL
   - System
   - Memory
-  - Interconnect
-  - Architecture
   - Security
   image: /images/publications/cxl.png
 - id: doi:10.1145/3627703.3629588
@@ -157,6 +156,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Register file
   image: /images/publications/gpu.png
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A Convertible Neural Processor Supporting Adaptive Quantization for Real-Time
@@ -175,7 +175,6 @@
   file: sources.yaml
   tags:
   - NPU
-  - Architecture
   - Accelerator
   image: /images/publications/acc.png
 - id: doi:10.1145/3613424.3614256
@@ -202,9 +201,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
+  - CXL
   - System
   - Memory
-  - Interconnect
   image: /images/publications/cxl.png
 - id: doi:10.1109/pact58117.2023.00033
   title: 'INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core'
@@ -224,6 +223,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Tensor Core
   image: /images/publications/gpu.png
 - id: doi:10.1109/LCA.2023.3290427
   title: 'LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads'
@@ -393,9 +393,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
+  - CXL
   - System
   - Memory
-  - Interconnect
   image: /images/publications/cxl.png
 - id: doi:10.1109/ISCA59077.2024.00051
   title: 'HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative
@@ -416,10 +416,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - System
   - Network
-  - Interconnect
-  - Architecture
+  - System
+  - CXL
   - Accelerator
   image: /images/publications/system.jpg
 - id: doi:10.1109/ISCA59077.2024.00066
@@ -443,9 +442,8 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - System
   - CPU
-  - Architecture
+  - System
   - Accelerator
   image: /images/publications/system.jpg
 - id: doi:10.1109/MICRO61859.2024.00110
@@ -469,10 +467,9 @@
   plugin: sources.py
   file: sources.yaml
   tags:
+  - CXL
   - System
-  - Memory
   - Accelerator
-  - Interconnect
   image: /images/publications/cxl.png
 - id: doi:10.1109/HPCA61900.2025.00106
   title: 'Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via
@@ -514,6 +511,26 @@
   - Microarchitecture
   - Virtual memory
   image: /images/publications/gpu.png
+- id: 10.1109/ISPASS64960.2025.00021
+  title: "Intel\xAE In-Memory Analytics Accelerator: Performance Characterization\
+    \ and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
+  authors:
+  - Jaeyoung Kang
+  - Qirong Xia
+  - Ipoom Jeong\*
+  - Yongjoo Park
+  - Nam Sung Kim
+  publisher: IEEE International Symposium on Performance Analysis of Systems and Software
+    (ISPASS)
+  date: '2025-05-11'
+  link: https://doi.org/g9wsnm
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - CPU
+  - System
+  - Accelerator
+  image: /images/publications/acc.png
 - title: 'Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading'
   authors:
   - Houxiang Ji
@@ -537,19 +554,6 @@
   publisher: IEIE International Technical Conference on Circuits/Systems, Computers
     and Communications (ITC-CSCC)
   date: '2025-07-07'
-  plugin: sources.py
-  file: sources.yaml
-- title: "Intel\xAE In-Memory Analytics Accelerator: Performance Characterization\
-    \ and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
-  authors:
-  - Jaeyoung Kang
-  - Qirong Xia
-  - Ipoom Jeong\*
-  - Yongjoo Park
-  - Nam Sung Kim
-  publisher: IEEE International Symposium on Performance Analysis of Systems and Software
-    (ISPASS)
-  date: '2025-05-11'
   plugin: sources.py
   file: sources.yaml
 - title: "\uCD5C\uC2E0 \uBC94\uC6A9 \uD504\uB85C\uC138\uC11C \uC5F0\uAD6C \uB3D9\uD5A5"
