@@ -13,6 +13,19 @@ nav:
 
 {% capture text %}
 
+### **AI Semiconductor Innovation Lab (Yonsei University) <br> (2025.07 - 2030.12)**
+
+- Institute for Information & communication Technology Planning & evaluation (IITP)
+- Cultivating global, innovative researchers in AI semiconductor technologies
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/ai_lab.png" flip=false text=text %}
+
+{% capture text %}
+
 ### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (2025.06 - 2028.05)**
 
 - National Research Foundation of Korea (NRF)
@@ -23,7 +36,6 @@ nav:
 {% endcapture %}
 
 {% include feature.html image="images/projects/brl.png" flip=true text=text %}
-
 
 {% capture text %}
 
