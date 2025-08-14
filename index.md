@@ -14,6 +14,8 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## News
 
+**[25.08]** **Suhyeok Oh** has joined our lab as an undergraduate research intern. Welcome aboard!
+
 **[25.07]** Our paper, *"Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading,"* has been accepted to the IEEE/ACM International Symposium on Microarchitecture **(MICRO, NRF BK21+ IF: 4)**. 
 
 **[25.07]** **Seonghun Jeong** has joined our lab as an undergraduate research intern. Welcome aboard!
