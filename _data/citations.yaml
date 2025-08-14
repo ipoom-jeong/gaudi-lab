@@ -21,7 +21,7 @@
   tags:
   - CPU
   - Microarchitecture
-  - Last-Level Cache
+  - Last-level cache
   - Data direct I/O
   image: /images/publications/cpu.png
 - id: doi:10.1145/3695053.3731005
@@ -61,6 +61,7 @@
   tags:
   - SSD
   - Modeling
+  - Machine learning
   image: /images/publications/ssd.jpg
 - id: doi:10.1145/3620665.3640401
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
@@ -85,7 +86,7 @@
   file: sources.yaml
   tags:
   - CPU
-  - Microarchitecture
+  - System
   - Accelerator
   image: /images/publications/acc.png
 - id: doi:10.1145/3620666.3651325
@@ -137,7 +138,7 @@
   tags:
   - SSD
   - OS
-  - Page Cache
+  - Page cache
   image: /images/publications/ssd.jpg
 - id: doi:10.1109/LES.2023.3307622
   title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
@@ -241,10 +242,10 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - System
-  - Storage
-  - Network
   - CPU
+  - Microarchitecture
+  - Last-level cache
+  - Data direct I/O
   image: /images/publications/system.jpg
 - id: doi:10.1109/LES.2022.3163749
   title: 'CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs'
@@ -262,6 +263,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Register file
   image: /images/publications/gpu.png
 - id: doi:10.1109/micro56248.2022.00023
   title: Reconstructing Out-of-Order Issue Queue
@@ -279,6 +281,7 @@
   tags:
   - CPU
   - Microarchitecture
+  - Dynamic scheduling
   image: /images/publications/cpu.png
 - id: doi:10.1109/ACCESS.2022.3196149
   title: 'TEA-RC: Thread Context-Aware Register Cache for GPUs'
@@ -296,6 +299,7 @@
   tags:
   - GPU
   - Microarchitecture
+  - Register file
   image: /images/publications/gpu.png
 - id: doi:10.1109/hpca47549.2020.00039
   title: 'CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
@@ -315,6 +319,8 @@
   tags:
   - CPU
   - Microarchitecture
+  - Dynamic scheduling
+  - Register renaming
   image: /images/publications/cpu.png
 - id: doi:10.1109/TC.2019.2936557
   title: 'OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming'
@@ -332,6 +338,8 @@
   tags:
   - CPU
   - Microarchitecture
+  - Dynamic scheduling
+  - Register renaming
   image: /images/publications/cpu.png
 - id: doi:10.1109/isocc.2017.8368829
   title: Parallel In-Order Execution Architecture for Low-Power Processor
@@ -348,6 +356,7 @@
   tags:
   - CPU
   - Microarchitecture
+  - Dynamic scheduling
   image: /images/publications/cpu.png
 - id: arXiv:2305.02480
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
@@ -367,7 +376,7 @@
   file: sources.yaml
   tags:
   - CPU
-  - Microarchitecture
+  - System
   - Accelerator
   image: /images/publications/acc.png
 - id: arXiv:2303.15375
@@ -418,8 +427,8 @@
   tags:
   - Network
   - System
-  - CXL
   - Accelerator
+  - CXL
   image: /images/publications/system.jpg
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
