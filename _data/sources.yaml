@@ -43,6 +43,7 @@
     - Data direct I/O
   image: /images/publications/cpu.png
 
+#Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines
 - id: 10.1109/ISPASS64960.2025.00021
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
