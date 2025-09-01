@@ -3,7 +3,9 @@ name: Jaehun Kim
 image: images/members/jaehun_kim.jpg
 role: current-undergrad
 links:
-  email: peterkim1130@naver.com
+  email: jaehun1310@yonsei.ac.kr
 ---
 
-Jaehun Kim is an undergraduate student in the Department of Electronic and Electrical Engineering at Hongik University, with an anticipated graduation in August 2025. His primary interests include microprocessors, particularly in branch predictor design and mechanisms for addressing prediction failures. He has joined GAUDI Lab as an undergraduate research intern since January 2025. Jaehun is dedicated to advancing his knowledge of computer architecture and honing his design skills through active involvement in cutting-edge research projects.
+Jaehun Kim is an integrated MS-PhD student in the Department of System Semiconductor Engineering at Yonsei University, starting in September 2025. His research interests focus on high-performance CPU microarchitectures, specifically improving branch prediction and prefetching techniques, as well as developing efficient heterogeneous systems for AI. He is a curious and passionate researcher, dedicated to turning innovative ideas into practical, feasible designs that are recognized both in academia and the market, with the aim of being applied in cutting-edge products.
+
+
