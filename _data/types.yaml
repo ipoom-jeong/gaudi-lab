@@ -14,6 +14,10 @@ current-phd-2025-1:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+current-phd-2025-2:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student
+
 current-ms:
   icon: fa-solid fa-graduation-cap
   description: MS Student
