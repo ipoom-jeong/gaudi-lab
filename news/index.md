@@ -5,10 +5,8 @@ nav:
   tooltip: News and updates
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Publications
+#  {% include icon.html icon="fa-solid fa-newspaper" %}News and Updates
 
 {% include section.html %}
-
-###  {% include icon.html icon="fa-solid fa-newspaper" %}News and Updates
 
 {% include list.html data="news" component="news" %}
