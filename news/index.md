@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 5
-  tooltip: News and updates
+  tooltip: What's new?
 ---
 
 #  {% include icon.html icon="fa-solid fa-newspaper" %}News and Updates
