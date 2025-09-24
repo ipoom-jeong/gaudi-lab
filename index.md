@@ -33,6 +33,8 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
     </div>
   </div>
 
+  {% endfor %}  
+
 <!--
 {%
   include button.html
