@@ -30,6 +30,15 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
     </div>
   </div>
 
+{%
+  include button.html
+  link="news"
+  text="Read all news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 <!--
 ## News
 
