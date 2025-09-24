@@ -14,9 +14,6 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## Latest news
 
-## News
-
-
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
     
@@ -47,6 +44,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 -->
 
 <!--
+## News
 **[25.09]** **Jaehun Kim** has joined our lab as a PhD student. Welcome aboard!
 
 **[25.08]** **Suhyeok Oh** has joined our lab as an undergraduate research intern. Welcome aboard!
