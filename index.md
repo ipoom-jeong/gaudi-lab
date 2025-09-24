@@ -36,7 +36,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 {%
   include button.html
   link="news"
-  text="Read all news"
+  text="View all news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -91,7 +91,6 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 {% include section.html %}
 
 ## Highlights
-
 
 {% capture text %}
 
