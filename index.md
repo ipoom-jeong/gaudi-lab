@@ -12,7 +12,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 {% include section.html %}
 
-## Latest news
+## Latest News
 
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
