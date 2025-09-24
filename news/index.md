@@ -9,4 +9,6 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+###  {% include icon.html icon="fa-solid fa-newspaper" %}News and Updates
+
+{% include list.html data="news" component="news" %}
