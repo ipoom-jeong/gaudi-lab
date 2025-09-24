@@ -1,15 +1,15 @@
 
-- title: Newcomer (PhD)
+- title: "Newcomer (PhD)"
   date: 2025-09-01
-  description: Jaehun Kim has joined our lab as a PhD student. Welcome aboard!
+  description: "Jaehun Kim has joined our lab as a PhD student. Welcome aboard!"
   url: 
 
-- title: Newcomer (Intern)
+- title: "Newcomer (Intern)"
   date: 2025-08-01
-  description: Suhyeok Oh has joined our lab as an undergraduate research intern. Welcome aboard!
+  description: "Suhyeok Oh has joined our lab as an undergraduate research intern. Welcome aboard!"
   url: 
 
-- title: New Publication (MICRO, NRF BK21+ IF: 4)
+- title: "New Publication (MICRO, NRF BK21+ IF: 4)"
   date: 2025-07-01
   description: "Our paper, <i>Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading</i>, has been accepted to the IEEE/ACM International Symposium on Microarchitecture."
   url: 
