@@ -16,6 +16,33 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## News
 
+
+  {% assign sorted_news = site.data.news | sort: "date" | reverse %}
+    {% for post in sorted_news limit:3 %}
+    
+  <div class="news-card">
+    <div class="news-header">
+        <span class="news-title">{{ post.title }}</span>
+        <span class="news-date">{% include icon.html icon="fa-regular fa-calendar" %} {{ post.date | date: "%B %d, %Y" }} </span>
+    </div>
+    <div class="news-description">
+        {{ post.description }} 
+            {% if post.url %}
+            <a href="{{ post.url }}" target="_blank">More...</a>
+            {% endif %}
+    </div>
+  </div>
+
+{%
+  include button.html
+  link="news"
+  text="Read all news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+<!--
 **[25.09]** **Jaehun Kim** has joined our lab as a PhD student. Welcome aboard!
 
 **[25.08]** **Suhyeok Oh** has joined our lab as an undergraduate research intern. Welcome aboard!
@@ -57,6 +84,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 **[24.03]** Our paper, *"HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**.
 
 **[24.03]** **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
+-->
 
 {% include section.html %}
 
