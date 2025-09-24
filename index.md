@@ -15,7 +15,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 ## Latest News
 
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
-    {% for post in sorted_news limit:3 %}
+    {% for post in sorted_news limit:7 %}
     
   <div class="news-card">
     <div class="news-header">
