@@ -16,7 +16,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
 ## News
 
-<!--
+
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
     {% for post in sorted_news limit:3 %}
     
@@ -32,8 +32,8 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
             {% endif %}
     </div>
   </div>
--->
 
+<!--
 {%
   include button.html
   link="news"
@@ -42,6 +42,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
   flip=true
   style="bare"
 %}
+-->
 
 <!--
 **[25.09]** **Jaehun Kim** has joined our lab as a PhD student. Welcome aboard!
