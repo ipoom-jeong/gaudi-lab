@@ -32,7 +32,6 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 
   {% endfor %}  
 
-<!--
 {%
   include button.html
   link="news"
@@ -41,7 +40,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
   flip=true
   style="bare"
 %}
--->
+
 
 <!--
 ## News
