@@ -5,7 +5,7 @@ nav:
   tooltip: What's new?
 ---
 
-#  {% include icon.html icon="fa-solid fa-newspaper" %}News and Updates
+#  {% include icon.html icon="fa-solid fa-newspaper" %}News
 
 {% include section.html %}
 
