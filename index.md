@@ -5,7 +5,6 @@
 
 GAUDI Lab is dedicated to exploring multi-directional innovations in **computer architectures and systems** through cutting-edge research and worldwide collaboration.
 
-{: style="text-align: right" }
 #### Join Us
 
 We are looking for **enthusiastic** and **highly self-motivated** Postdoctoral researchers, Ph.D. candidates, and M.S. students to join our dynamic research team. Multiple scholarships are available for qualified applicants.
@@ -18,7 +17,7 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
 ## Latest News
 
   {% assign sorted_news = site.data.news | sort: "date" | reverse %}
-    {% for post in sorted_news limit:5 %}
+    {% for post in sorted_news limit:7 %}
     
   <div class="news-card">
     <div class="news-header">
