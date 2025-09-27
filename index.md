@@ -12,6 +12,16 @@ Prospective students are strongly encouraged to contact us at least **six months
 
 If you're interested in becoming part of our lab, please reach out to us at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
 
+{%
+  include button.html
+  link="contact"
+  text="Contact information"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+
 {% include section.html %}
 
 ## Latest News
