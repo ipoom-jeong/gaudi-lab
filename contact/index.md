@@ -5,6 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
+# {% include icon.html icon="fa-regular fa-bell" %}Before You Contact
+
+{% include section.html %}
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 GAUDI Lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University. If you're interested in our lab, please contact us in advance at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
