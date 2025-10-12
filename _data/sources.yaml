@@ -264,6 +264,19 @@
 
 
 # manually provide all citation details  
+- title: "REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabric"
+  authors:
+    - Minjae Kim
+    - Jiwan Kim
+    - Won Hur
+    - Jiwon Lee
+    - Mingu Jung
+    - Cheolhwan Kim
+    - Ipoom Jeong\*
+    - Won Woo Ro\*
+  publisher: "IEEE Computer Architecture Letters (CAL)"
+  date: 2025-10-12
+  
 - title: "Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading"
   authors:
     - Houxiang Ji
