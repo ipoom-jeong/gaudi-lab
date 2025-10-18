@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3725843.3756102
+  title: 'Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading'
+  authors:
+  - Houxiang Ji
+  - Yifan Yuan
+  - Yang Zhou
+  - Ipoom Jeong
+  - Ren Wang
+  - Saksham Agarwal
+  - Nam Sung Kim
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  date: '2025-10-18'
+  link: https://doi.org/g9692x
+  orcid: 0000-0001-7513-2858
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - CXL
+  - System
+  - Accelerator
+  image: /images/publications/cxl.png
 - id: doi:10.1145/3695053.3731114
   title: 'A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging
     I/O Devices'
@@ -540,7 +561,8 @@
   - System
   - Accelerator
   image: /images/publications/acc.png
-- title: 'REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory
+- id: doi:10.1109/LCA.2025.3621612
+  title: 'REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory
     Fabric'
   authors:
   - Minjae Kim
@@ -552,22 +574,15 @@
   - Ipoom Jeong\*
   - Won Woo Ro\*
   publisher: IEEE Computer Architecture Letters (CAL)
-  date: '2025-10-12'
+  date: '2025-01-01'
+  link: https://doi.org/g9692z
   plugin: sources.py
   file: sources.yaml
-- title: 'Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading'
-  authors:
-  - Houxiang Ji
-  - Yifan Yuan
-  - Yang Zhou
-  - Ipoom Jeong
-  - Ren Wang
-  - Saksham Agarwal
-  - Nam Sung Kim
-  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
-  date: '2025-10-18'
-  plugin: sources.py
-  file: sources.yaml
+  tags:
+  - CXL
+  - System
+  - Memory
+  image: /images/publications/cxl.png
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
