@@ -9,6 +9,36 @@
 - id: 10.1109/ISPASS64960.2025.00021
 - id: doi:10.1145/3695053.3731005
 - id: doi:10.1145/3695053.3731114
+- id: doi:10.1145/3725843.3756102
+- id: doi:10.1109/LCA.2025.3621612
+
+
+#REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabri
+- id: doi:10.1109/LCA.2025.3621612
+  publisher: IEEE Computer Architecture Letters (CAL)
+  authors:
+    - Minjae Kim
+    - Jiwan Kim
+    - Won Hur
+    - Jiwon Lee
+    - Mingu Jung
+    - Cheolhwan Kim
+    - Ipoom Jeong\*
+    - Won Woo Ro\*
+  tags:
+    - CXL
+    - System
+    - Memory
+  image: /images/publications/cxl.png
+  
+# Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading
+- id: doi:10.1145/3725843.3756102
+  publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tags:
+    - CXL
+    - System
+    - Accelerator
+  image: /images/publications/cxl.png
 
 #Time Series Machine Learning Models for Precise SSD Access Latency Prediction
 - id: doi:10.1109/LCA.2025.3581580
@@ -263,32 +293,7 @@
   image: /images/publications/cpu.png
 
 
-# manually provide all citation details  
-- title: "REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabric"
-  authors:
-    - Minjae Kim
-    - Jiwan Kim
-    - Won Hur
-    - Jiwon Lee
-    - Mingu Jung
-    - Cheolhwan Kim
-    - Ipoom Jeong\*
-    - Won Woo Ro\*
-  publisher: "IEEE Computer Architecture Letters (CAL)"
-  date: 2025-10-12
-  
-- title: "Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading"
-  authors:
-    - Houxiang Ji
-    - Yifan Yuan
-    - Yang Zhou
-    - Ipoom Jeong
-    - Ren Wang
-    - Saksham Agarwal
-    - Nam Sung Kim
-  publisher: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
-  date: 2025-10-18
-  
+# manually provide all citation details    
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
     - Taeyoun Kim
