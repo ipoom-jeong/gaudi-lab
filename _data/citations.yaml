@@ -475,7 +475,7 @@
   - CPU
   - System
   - Accelerator
-  image: /images/publications/system.jpg
+  image: /images/publications/cpu.png
 - id: doi:10.1109/MICRO61859.2024.00110
   title: 'Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing
     Perspective'
