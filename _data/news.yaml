@@ -1,4 +1,9 @@
 
+- title: "Award"
+  date: 2025-11-01
+  description: "Eeyeon Goo and Yeonwoo Choi won first place at the 2025 Dreaming Star Poster Presentation held at Samsung Electronics. Their research, “Scalable Rename Width without Complexity Overhead,” introduces a scalable register renaming architecture that improves instruction-level parallelism while reducing power and circuit complexity using innovative designs based on Register Encoding Memory (REM) and STacked Architectural Registers (STAR)."
+  url: 
+  
 - title: "New Publication (CAL)"
   date: 2025-10-12
   description: "Our paper, <i>REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabric</i>, has been accepted to the IEEE Computer Architecture Letters (CAL, SCI(E) Q4)."
