@@ -21,6 +21,29 @@
   - System
   - Accelerator
   image: /images/publications/cxl.png
+- id: doi:10.1109/LCA.2025.3621612
+  title: 'REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory
+    Fabric'
+  authors:
+  - Minjae Kim
+  - Jiwan Kim
+  - Won Hur
+  - Jiwon Lee
+  - Mingu Jung
+  - Cheolhwan Kim
+  - Ipoom Jeong\*
+  - Won Woo Ro\*
+  publisher: IEEE Computer Architecture Letters (CAL)
+  date: '2025-01-01'
+  link: https://doi.org/g9692z
+  orcid: 0000-0001-7513-2858
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - CXL
+  - System
+  - Memory
+  image: /images/publications/cxl.png
 - id: doi:10.1145/3695053.3731114
   title: 'A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging
     I/O Devices'
@@ -561,28 +584,6 @@
   - System
   - Accelerator
   image: /images/publications/acc.png
-- id: doi:10.1109/LCA.2025.3621612
-  title: 'REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory
-    Fabric'
-  authors:
-  - Minjae Kim
-  - Jiwan Kim
-  - Won Hur
-  - Jiwon Lee
-  - Mingu Jung
-  - Cheolhwan Kim
-  - Ipoom Jeong\*
-  - Won Woo Ro\*
-  publisher: IEEE Computer Architecture Letters (CAL)
-  date: '2025-01-01'
-  link: https://doi.org/g9692z
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - CXL
-  - System
-  - Memory
-  image: /images/publications/cxl.png
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
