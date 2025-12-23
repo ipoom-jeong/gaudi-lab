@@ -52,6 +52,11 @@ alum-undergrad:
   icon: fa-solid fa-hand-spock
   description: Former Undergraduate Student
 
+# Old members
+old-member:
+  icon: fa-solid fa-hand-spock
+  description: Old member not alumni
+  
 # general
 
 link:
