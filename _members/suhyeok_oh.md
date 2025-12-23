@@ -1,7 +1,7 @@
 ---
 name: Suhyeok Oh
 image: images/members/suhyeok_oh.jpg
-role: current-undergrad
+role: old-member
 links:
   email: ohsuh0301@yonsei.ac.kr
 ---
