@@ -51,6 +51,11 @@ nav:
 {% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
 
 
+{% include section.html %}
+
+## Past Projects
+
+
 {% capture text %}
 
 ### **Development of PIM Software Architecture based on Data-Flow Computing <br> (2024.04 - 2025.12)**
@@ -64,9 +69,6 @@ nav:
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
 
-{% include section.html %}
-
-## Past Projects
 
 {% capture text %}
 
