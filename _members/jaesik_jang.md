@@ -1,6 +1,6 @@
 ---
 name: Jaesik Jang
-image: images/members/jaesik_jang.jpg
+image: images/members/jaesik_jang.png
 role: current-undergrad
 links:
   email: jseee@yonsei.ac.kr
