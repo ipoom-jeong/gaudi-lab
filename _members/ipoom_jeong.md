@@ -42,7 +42,26 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 #### **Lectures**
 
-**2024 Spring Semester**<br>
+[2026.03 - 2026.06] **2026 Spring Semester**<br>
+_[SYS3104, Undergraduate] Computer Architecture Theory_<br>
+_[SYS4208, Undergraduate] Special Topics in System Architectures_<br>
+_[SYS5284, Graduate] Advanced Topics in AI Semiconductor Design Innovation_<br>
+_[IIT6053, Graduate] Introduction to Intelligent Semiconductor_
+
+[2025.09 - 2025.12] **2025 Fall Semester**<br>
+_[SYS3203, Undergraduate] Microprocessors Designs_<br>
+_[SYS2102, Undergraduate] Analog Circuit Lab_<br>
+_[SYS6201, Graduate] Advanced Computer Architecture_
+
+[2025.03 - 2025.06] **2025 Spring Semester**<br>
+_[SYS4208, Undergraduate] Special Topics in System Architectures_<br>
+_[SYS6102, Graduate] Special Topics in Computer Systems_
+
+[2024.09 - 2024.12] **2024 Fall Semester**<br>
+_[SYS3203, Undergraduate] Microprocessors Designs_<br>
+_[SYS6201, Graduate] Advanced Computer Architecture_
+
+[2024.03 - 2024.06] **2024 Spring Semester**<br>
 _[SYS2106, Undergraduate] Introduction to SystemSemiconductor_<br>
 _[SYS6102, Graduate] Special Topics in Computer Systems_
 
