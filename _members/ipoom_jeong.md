@@ -42,7 +42,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 #### **Lectures**
 
-**2024, Spring** <br>
+**2024 Spring Semester** <br>
 _[SYS2106, Undergraduate] Introduction to SystemSemiconductor_<br>
 _[SYS6102, Graduate] Special Topics in Computer Systems_
 
