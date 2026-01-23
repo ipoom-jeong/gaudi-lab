@@ -43,26 +43,26 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 #### **Lectures**
 
 [2026.03 - 2026.06] &nbsp; **2026 Spring Semester**<br>
- &nbsp;&nbsp; _[SYS3104, Undergraduate] Computer Architecture Theory_<br>
- &nbsp;&nbsp; _[SYS4208, Undergraduate] Special Topics in System Architectures_<br>
- &nbsp;&nbsp; _[SYS5284, Graduate] Advanced Topics in AI Semiconductor Design Innovation_<br>
- &nbsp;&nbsp; _[IIT6053, Graduate] Introduction to Intelligent Semiconductor_
+ _(SYS3104, Undergraduate) &nbsp; Computer Architecture Theory_<br>
+ _(SYS4208, Undergraduate) &nbsp; Special Topics in System Architectures_<br>
+ _(SYS5284, Graduate) &nbsp; Advanced Topics in AI Semiconductor Design Innovation_<br>
+ _(IIT6053, Graduate) &nbsp; Introduction to Intelligent Semiconductor_
 
 [2025.09 - 2025.12] &nbsp; **2025 Fall Semester**<br>
- &nbsp;&nbsp; _[SYS2102, Undergraduate] &nbsp; Analog Circuit Lab_<br>
- &nbsp;&nbsp; _[SYS3203, Undergraduate] &nbsp; Microprocessors Designs_<br>
- &nbsp;&nbsp; _[SYS6201, Graduate] &nbsp; Advanced Computer Architecture_
+ _(SYS2102, Undergraduate) &nbsp; Analog Circuit Lab_<br>
+ _(SYS3203, Undergraduate) &nbsp; Microprocessors Designs_<br>
+ _(SYS6201, Graduate) &nbsp; Advanced Computer Architecture_
 
 [2025.03 - 2025.06] &nbsp; **2025 Spring Semester**<br>
-&nbsp;&nbsp; _[SYS4208, Undergraduate] &nbsp; Special Topics in System Architectures_<br>
-&nbsp;&nbsp; _[SYS6102, Graduate] &nbsp; Special Topics in Computer Systems_
+_(SYS4208, Undergraduate) &nbsp; Special Topics in System Architectures_<br>
+_(SYS6102, Graduate) &nbsp; Special Topics in Computer Systems_
 
 [2024.09 - 2024.12] &nbsp; **2024 Fall Semester**<br>
-&nbsp;&nbsp; _[SYS3203, Undergraduate] &nbsp; Microprocessors Designs_<br>
-&nbsp;&nbsp; _[SYS6201, Graduate] &nbsp; Advanced Computer Architecture_
+_(SYS3203, Undergraduate) &nbsp; Microprocessors Designs_<br>
+_(SYS6201, Graduate) &nbsp; Advanced Computer Architecture_
 
 [2024.03 - 2024.06] &nbsp; **2024 Spring Semester**<br>
-&nbsp;&nbsp; _[SYS2106, Undergraduate] &nbsp; Introduction to System Semiconductor_<br>
-&nbsp;&nbsp; _[SYS6102, Graduate] &nbsp; Special Topics in Computer Systems_
+_(SYS2106, Undergraduate) &nbsp; Introduction to System Semiconductor_<br>
+_(SYS6102, Graduate) &nbsp; Special Topics in Computer Systems_
 
 For additional details, please visit the personal homepage.
