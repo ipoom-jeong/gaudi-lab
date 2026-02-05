@@ -5,6 +5,16 @@
 
 GAUDI Lab is dedicated to exploring multi-directional innovations in **computer architectures and systems** through cutting-edge research and worldwide collaboration.
 
+{%
+  include button.html
+  link="research"
+  text="See our research topics"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+
 #### Join Us
 
 We are looking for **enthusiastic** and **highly self-motivated** Postdoctoral researchers, Ph.D. candidates, and M.S. students to join our dynamic research team. Multiple scholarships are available for qualified applicants.
@@ -130,15 +140,6 @@ Interested in meeting the faces behind our research? Click through and say hello
 {% capture text %}
 
 Discover what our lab is all about! Our research focuses on high-performance and energy-efficient CPU/GPU microarchitectures, computing system orchestration, near-data processing, emerging interconnect technologies, _etc_.
-
-{%
-  include button.html
-  link="research"
-  text="See our research topics"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
 
 {%
   include button.html
