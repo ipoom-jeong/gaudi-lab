@@ -31,8 +31,6 @@ GAUDI Lab is affiliated with [the Department of System Semiconductor Engineering
   link="https://www.google.com/maps/place/Yonsei+Engineering+Research+Park/data=!3m1!4b1!4m6!3m5!1s0x357c9913cd31e10d:0x2e862a8b6ba600ad!8m2!3d37.5608403!4d126.9354738!16s%2Fg%2F11p4frxt3k?entry=ttu"
 %}
 
-{% include section.html %}
-
 {% capture col1 %}
 
 {%
