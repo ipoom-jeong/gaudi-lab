@@ -584,6 +584,20 @@
   - System
   - Accelerator
   image: /images/publications/acc.png
+- title: Compiler and System Optimizations for Gem5 Simulator
+  authors:
+  - Haneul Park
+  - Siddharth Agarwal
+  - Pradyun Narkadamilli
+  - Kiung Jung
+  - Yongjun Park
+  - Ipoom Jeong
+  - Nam Sung Kim
+  publisher: IEEE International Symposium on Performance Analysis of Systems and Software
+    (ISPASS)
+  date: '2026-02-24'
+  plugin: sources.py
+  file: sources.yaml
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
