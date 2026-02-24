@@ -1,4 +1,8 @@
-
+- title: "New Publication (ISPASS 2026)"
+  date: 2026-02-24
+  description: "Our paper, <i>Compiler and System Optimizations for Gem5 Simulator</i>, has been accepted to the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS, NRF BK21+ IF: 1)."
+  url: 
+  
 - title: "Newcomer"
   date: 2026-01-05
   description: "Jaesik Jang has joined our lab as an undergraduate research intern. Welcome aboard!"
