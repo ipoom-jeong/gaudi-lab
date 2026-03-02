@@ -1,5 +1,5 @@
 ---
-name: AJunhwan Lee
+name: Junhwan Lee
 image: images/members/junhwan_lee.jpg
 role: current-ms-phd-2025-1
 links:
