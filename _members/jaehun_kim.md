@@ -1,7 +1,7 @@
 ---
 name: Jaehun Kim
 image: images/members/jaehun_kim.jpg
-role: current-phd-2025-2
+role: cur-msphd-2025-2
 links:
   email: jaehun1310@yonsei.ac.kr
 ---
