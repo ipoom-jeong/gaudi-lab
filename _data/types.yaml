@@ -14,15 +14,15 @@ current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-current-phd-2025-1:
+cur-msphd-2025-1:
   icon: fa-solid fa-graduation-cap
   description: Integrated MS–PhD student
   
-current-phd-2025-2:
+cur-msphd-2025-2:
   icon: fa-solid fa-graduation-cap
   description: Integrated MS–PhD student
 
-current-phd-2026-1:
+cur-msphd-2026-1:
   icon: fa-solid fa-graduation-cap
   description: Integrated MS–PhD student
   
