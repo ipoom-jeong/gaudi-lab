@@ -10,15 +10,23 @@ current-postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-current-phd-2025-1:
+current-phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
-
-current-phd-2025-2:
+  
+current-ms-phd-2026-1:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Integrated MS–PhD student
+  
+current-ms-phd-2025-2:
+  icon: fa-solid fa-graduation-cap
+  description: Integrated MS–PhD student
+  
+current-ms-phd-2025-1:
+  icon: fa-solid fa-graduation-cap
+  description: Integrated MS–PhD student
 
-current-ms:
+current-ms-2026-1:
   icon: fa-solid fa-graduation-cap
   description: MS Student
 
