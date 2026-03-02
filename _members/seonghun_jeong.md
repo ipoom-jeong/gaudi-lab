@@ -1,7 +1,7 @@
 ---
 name: Seonghun Jeong
 image: images/members/seonghun_jeong.jpg
-role: current-undergrad
+role: current-ms-2026-1
 links:
   email: heg2948@yonsei.ac.kr
 ---
