@@ -1,7 +1,7 @@
 ---
 name: Eeyeon Goo
 image: images/members/eeyeon_goo.jpg
-role: current-phd-2025-2
+role: cur-msphd-2026-1
 links:
   email: 92y29@yonsei.ac.kr
 ---
