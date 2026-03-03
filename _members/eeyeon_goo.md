@@ -6,4 +6,4 @@ links:
   email: 92y29@yonsei.ac.kr
 ---
 
-Eeyeon Goo is an undergraduate student in the Department of System Semiconductor Engineering at Yonsei University, set to graduate in February 2026. With a strong passion for computer architecture, she is currently an undergraduate research intern at GAUDI Lab, where she focuses on advancing the field. Eeyeon is eager to contribute to cutting-edge research in next-generation computing systems architecture, aiming to drive innovation and enhance both efficiency and performance in an increasingly digital world.
+Eeyeon Goo is an integrated MS-PhD student in the Department of Electrical and Electronic Engineering at Yonsei University, having joined the program in March 2026. She conducts research in CPU microarchitecture, with a primary focus on understanding and alleviating memory access latency in modern processors. Her work also encompasses microarchitectural mechanisms such as register renaming and other core-level architectural design considerations. Through systematic analysis and architectural exploration, she seeks to contribute to the development of more efficient and scalable computing systems.
