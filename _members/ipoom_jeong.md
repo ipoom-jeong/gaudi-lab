@@ -40,6 +40,18 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
+#### **Invited Talk/Lecture**
+
+_Intelligent Semiconductor IT Convergence Symposium 2026_<br>
+_Computer Architectures for Artificial Intelligence, Seoul National University 2025_<br>
+_IC Design Education Center (IDEC) Academy 2025_<br>
+_Institute of Electronics and Information Engineers (IEIE) SoC Conference 2025_<br>
+_Yonsei University AI Plus Forum 2025_<br>
+_Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference 2025_<br>
+_IC Design Education Center (IDEC) Academy 2024_<br>
+_Yonsei University EE Open Lab 2024_<br>
+_Institute of Electronics and Information Engineers (IEIE) SoC Conference 2024_
+
 #### **Lectures**
 
 [2026.03 - 2026.06] &nbsp; **2026 Spring Semester**<br>
