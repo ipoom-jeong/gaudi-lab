@@ -69,6 +69,11 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 **Project Period:** Apr. 2024 – Dec. 2026  
 **Funding Agency:** Korea Evaluation Institute of Industrial Technology (KEIT)
 **Program:** Public–Private Partnership Program for Training Advanced Semiconductor Professionals
+**Project Period:** Jul. 2025 – Dec. 2030  
+**Funding Agency:** Institute for Information & Communications Technology Planning & Evaluation (IITP)  
+**Program:** AI Semiconductor Innovation Lab
+
+
 
 **Description**  
 This project develops a CXL-based processing-near-memory (PNM) architecture and simulation platform to accelerate large language model (LLM) workloads. The research focuses on enabling efficient memory-centric acceleration by leveraging CXL-enabled memory expansion and near-memory computing techniques.
