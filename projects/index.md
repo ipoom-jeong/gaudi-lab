@@ -37,7 +37,7 @@ This project develops CPU microarchitecture and SoC-level resource management te
 **Program:** AI Semiconductor Innovation Lab
 
 **Description**  
-This project establishes the AI Semiconductor Innovation Lab at Yonsei University to foster globally competitive researchers in AI semiconductor technologies. The program supports advanced education and collaborative research on next-generation AI accelerators and semiconductor system architectures.
+This project establishes the [Chips and AI Innovation Center (CINC)](https://cinc.yonsei.ac.kr/) at Yonsei University to foster globally competitive researchers in AI semiconductor technologies. The program supports advanced education and collaborative research on next-generation AI accelerators and semiconductor system architectures.
 
 {% endcapture %}
 
