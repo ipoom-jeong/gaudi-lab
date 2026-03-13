@@ -15,11 +15,13 @@ nav:
 
 {% capture text %}
 
-**Project Period** <br> Mar. 2026 – Feb. 2030  
+**Project Period:** Mar. 2026 – Feb. 2030  
+**Funding Agency:** National Research Foundation of Korea (NRF)  
+**Program:** NRF Young Investigator Program (Type B)
 
-**Funding Agency** <br> National Research Foundation of Korea (NRF)  
+**Description**  
+This project develops interference-aware CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs in on-device AI systems. The goal is to enable ultra-low-latency AI inference on edge devices by dynamically coordinating shared hardware resources across heterogeneous compute units.
 
-**Program** <br> NRF Young Investigator Program (Type B)
 
 {% endcapture %}
 
