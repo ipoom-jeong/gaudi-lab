@@ -15,14 +15,11 @@ nav:
 
 {% capture text %}
 
-**Project Period**  
-Mar. 2026 – Feb. 2030  
+**Project Period** <br> Mar. 2026 – Feb. 2030  
 
-**Funding Agency**  
-National Research Foundation of Korea (NRF)  
+**Funding Agency** <br> National Research Foundation of Korea (NRF)  
 
-**Program**  
-NRF Young Investigator Program (Type B)
+**Program** <br> NRF Young Investigator Program (Type B)
 
 {% endcapture %}
 
