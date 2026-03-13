@@ -15,12 +15,11 @@ nav:
 
 {% capture text %}
 
--  (2026.03 - 2030.02)
+- 2026.03 - 2030.02
 - National Research Foundation of Korea (NRF)
 - 한국연구재단, 신진연구-유형B
 
 {% endcapture %}
-
 {% include feature.html image="images/projects/nrf_microarchitecture.png" flip=true text=text %}
 
 {% capture text %}
