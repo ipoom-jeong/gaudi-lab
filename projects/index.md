@@ -11,10 +11,11 @@ nav:
 
 ## On-going Projects
 
-<h3 style="margin-bottom:0px;">Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs <br> (2026.03 - 2030.02)</h3>
+<h3 style="margin-bottom:0px;">Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs</h3>
 
 {% capture text %}
 
+-  (2026.03 - 2030.02)
 - National Research Foundation of Korea (NRF)
 - 한국연구재단, 신진연구-유형B
 
