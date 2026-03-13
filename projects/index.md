@@ -26,7 +26,7 @@ NRF Young Investigator Program (Type B)
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/nrf_microarchitecture2.png" flip=true text=text %}
+{% include feature.html image="images/projects/nrf_microarchitecture.png" flip=true text=text %}
 
 {% capture text %}
 
