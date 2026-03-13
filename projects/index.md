@@ -73,10 +73,9 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 **Description**  
 This project develops a CXL-based processing-near-memory (PNM) architecture and simulation platform to accelerate large language model (LLM) workloads. The research focuses on enabling efficient memory-centric acceleration by leveraging CXL-enabled memory expansion and near-memory computing techniques.
 
-
 {% endcapture %}
 
-{% include feature.html image="images/projects/cxl_pnm.png" flip=false text=text %}
+{% include feature.html image="images/projects/keit_cxl_pnm.png" flip=false text=text %}
 
 
 {% include section.html %}
