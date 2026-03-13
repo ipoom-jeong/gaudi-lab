@@ -15,9 +15,15 @@ nav:
 
 {% capture text %}
 
-- Project Period: 2026.03.01 – 2030.02.28
-- Funding Agency: National Research Foundation of Korea (NRF)
-- Program: NRF Young Investigator Program (Type B)
+**Project Period**  
+Mar. 2026 – Feb. 2030  
+
+**Funding Agency**  
+National Research Foundation of Korea (NRF)  
+
+**Program**  
+NRF Young Investigator Program (Type B)
+
 
 {% endcapture %}
 
