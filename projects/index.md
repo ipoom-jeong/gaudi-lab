@@ -20,8 +20,7 @@ nav:
 **Program:** NRF Young Investigator Program (Type B)
 
 **Description**  
-This project develops interference-aware CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs in on-device AI systems. The goal is to enable ultra-low-latency AI inference on edge devices by dynamically coordinating shared hardware resources across heterogeneous compute units.
-
+This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems.
 
 {% endcapture %}
 
