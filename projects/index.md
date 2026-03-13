@@ -13,6 +13,19 @@ nav:
 
 {% capture text %}
 
+### **Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs <br> (2026.03 - 2030.02)**
+
+- National Research Foundation of Korea (NRF), 한국연구재단
+- 우수연구-신진연구-유형B
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/brl.png" flip=true text=text %}
+
+{% capture text %}
+
 ### **AI Semiconductor Innovation Lab (Yonsei University) <br> (2025.07 - 2030.12)**
 
 - Institute for Information & communication Technology Planning & evaluation (IITP)
