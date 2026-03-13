@@ -45,7 +45,7 @@ This project establishes the AI Semiconductor Innovation Lab at Yonsei Universit
 
 
 
-### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (2025.06 - 2028.05)**
+### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators**
 
 {% capture text %}
 
