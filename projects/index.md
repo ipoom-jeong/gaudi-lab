@@ -20,40 +20,59 @@ nav:
 **Program:** NRF Young Investigator Program (Type B)
 
 **Description**  
-This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems.
+This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems. The research aims to enable predictable and ultra-low-latency AI inference on heterogeneous AI SoCs.
 
 {% endcapture %}
 
 {% include feature.html image="images/projects/nrf_microarchitecture.png" flip=true text=text %}
 
+
+
+### **AI Semiconductor Innovation Lab (Yonsei University)**
+
 {% capture text %}
 
-### **AI Semiconductor Innovation Lab (Yonsei University) <br> (2025.07 - 2030.12)**
+**Project Period:** Jul. 2025 – Dec. 2030  
+**Funding Agency:** Institute for Information & Communications Technology Planning & Evaluation (IITP)  
+**Program:** AI Semiconductor Innovation Lab
 
-- Institute for Information & communication Technology Planning & evaluation (IITP)
-- Cultivating global, innovative researchers in AI semiconductor technologies
+**Description**  
+This project establishes the AI Semiconductor Innovation Lab at Yonsei University to foster globally competitive researchers in AI semiconductor technologies. The program supports advanced education and collaborative research on next-generation AI accelerators and semiconductor system architectures.
 
 {% endcapture %}
 
 {% include feature.html image="images/projects/ai_lab.png" flip=false text=text %}
 
-{% capture text %}
+
 
 ### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators <br> (2025.06 - 2028.05)**
 
-- National Research Foundation of Korea (NRF)
-- D﻿eveloping a heterogeneous acceleration platform for general-purpose multi-modal AI
+{% capture text %}
+
+**Project Period:** Jun. 2025 – May 2028  
+**Funding Agency:** National Research Foundation of Korea (NRF)  
+**Program:** Basic Research Laboratory (BRL)
+
+**Description**  
+This project develops a heterogeneous acceleration platform for energy-efficient, general-purpose multi-modal AI systems. By integrating diverse computing accelerators and system-level optimizations, the project aims to enable efficient processing of multi-modal AI workloads.
 
 {% endcapture %}
 
 {% include feature.html image="images/projects/brl.png" flip=true text=text %}
 
+
+
+### **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration**
+
 {% capture text %}
 
-### **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration <br> (2024.04 - 2026.12)**
+**Project Period:** Apr. 2024 – Dec. 2026  
+**Funding Agency:** Korea Evaluation Institute of Industrial Technology (KEIT)
+**Program:** Public–Private Partnership Program for Advanced Semiconductor Talent Development
 
-- Korea Evaluation Institute of Industrial Technology (KEIT)
-- Developing CXL-based PNM architecture and simulation platform
+**Description**  
+This project develops a CXL-based processing-near-memory (PNM) architecture and simulation platform to accelerate large language model (LLM) workloads. The research focuses on enabling efficient memory-centric acceleration by leveraging CXL-enabled memory expansion and near-memory computing techniques.
+
 
 {% endcapture %}
 
