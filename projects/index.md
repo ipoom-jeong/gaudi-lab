@@ -67,7 +67,7 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 {% capture text %}
 
 **Project Period:** Apr. 2024 – Dec. 2026  
-**Funding Agency:** Korea Evaluation Institute of Industrial Technology
+**Funding Agency:** Korea Evaluation Institute of Industrial Technology (KEIT)
 **Program:** Public–Private Partnership Program for Training Advanced Semiconductor Professionals
 
 **Description**  
