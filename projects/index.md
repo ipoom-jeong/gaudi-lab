@@ -16,7 +16,7 @@ nav:
 {% capture text %}
 
 - Research period: 2026.03.01 - 2030.02.28
-- National Research Foundation of Korea (NRF), 한국연구재단 (신진연구)
+- National Research Foundation of Korea (한국연구재단), 신진연구
 - In this project, we
 
 {% endcapture %}
