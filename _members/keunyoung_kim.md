@@ -1,6 +1,6 @@
 ---
 name: Keunyoung Kim
-image: images/members/keunyoung_kim.jpg
+image: images/members/keunyoung_kim.png
 role: current-undergrad
 links:
   email: guenyoung39@khu.ac.kr
