@@ -17,7 +17,7 @@ nav:
 
 **Project Period:** Mar. 2026 – Feb. 2030  
 **Funding Agency:** National Research Foundation of Korea (NRF)  
-**Program:** NRF Young Investigator Program (Type B)
+**Program:** Young Investigator Program (Type B)
 
 **Description**  
 This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems. The research aims to enable predictable and ultra-low-latency AI inference on heterogeneous AI SoCs.
