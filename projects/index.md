@@ -15,7 +15,7 @@ nav:
 
 {% capture text %}
 
-**Project Period:** Mar. 2026 – Feb. 2030  
+**Project Period:** 2026.03.01 — 2030.02.28  
 **Funding Agency:** 한국연구재단 (NRF)  
 **Program:** 우수연구—신진연구 (유형B)
 
