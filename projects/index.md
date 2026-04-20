@@ -49,8 +49,8 @@ This project establishes [the Chips and AI Innovation Center (CINC)](https://cin
 
 {% capture text %}
 
-**Project Period:** 2025.06.01 — 2028.05.31
-**Funding Agency:** 한국연구재단 (NRF)
+**Project Period:** 2025.06.01 — 2028.05.31  
+**Funding Agency:** 한국연구재단 (NRF)  
 **Program:** 집단연구—기초연구실
 
 **Description**  
@@ -67,7 +67,7 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 {% capture text %}
 
 **Project Period:** 2024.04.01 — 2026.12.31  
-**Funding Agency:** 한국산업기술기획평가원 (KEIT)
+**Funding Agency:** 한국산업기술기획평가원 (KEIT)  
 **Program:** 민관공동투자반도체고급인력양성
 
 **Description**  
