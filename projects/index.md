@@ -16,9 +16,7 @@ nav:
 {% capture text %}
 
 **Project Period:** 2026.03.01 — 2030.02.28  
-
 **Funding Agency:** 한국연구재단 (NRF)  
-
 **Program:** 개인연구—신진연구 (유형B)
 
 **Description**  
