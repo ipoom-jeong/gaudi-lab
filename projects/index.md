@@ -67,7 +67,7 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 {% capture text %}
 
 **Project Period:** 2024.04.01 — 2026.12.31  
-**Funding Agency:** 한국산업기술기획평가원(KEIT)
+**Funding Agency:** 한국산업기술기획평가원 (KEIT)
 **Program:** 민관공동투자반도체고급인력양성
 
 **Description**  
