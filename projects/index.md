@@ -11,7 +11,7 @@ nav:
 
 ## On-going Projects
 
-### **Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs**
+#### **Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs**
 초저지연 온디바이스 AI SoC에서의 CPU-NPU 간 성능 간섭 완화를 위한 간섭 인지형 마이크로아키텍처 및 SoC 자원 관리 연구
 
 {% capture text %}
