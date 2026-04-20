@@ -45,13 +45,13 @@ This project establishes [the Chips and AI Innovation Center (CINC)](https://cin
 
 
 
-### **Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators**
+#### **에너지 효율적 범용 멀티 모달 AI를 위한 복합 연산 가속기 기초 연구실 <small>— Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators</small>**
 
 {% capture text %}
 
-**Project Period:** Jun. 2025 – May 2028  
-**Funding Agency:** National Research Foundation of Korea (NRF)  
-**Program:** Basic Research Laboratory (BRL)
+**Project Period:** 2025.06.01 — 2028.05.31
+**Funding Agency:** 한국연구재단 (NRF)  
+**Program:** 집단연구—기초연구실
 
 **Description**  
 This project develops a heterogeneous acceleration platform for energy-efficient, general-purpose multi-modal AI systems. By integrating diverse computing accelerators and system-level optimizations, the project aims to enable efficient processing of multi-modal AI workloads.
