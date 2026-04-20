@@ -11,6 +11,23 @@ nav:
 
 ## On-going Projects
 
+
+#### **반도체핵심IP설계전문인력양성 (고성능 프로세서) <small>— Training Program for Semiconductor Core IP Design Specialists (High-Performance Processors)</small>**
+
+{% capture text %}
+
+**Project Period:** 2026.03.01 — 2031.02.28  
+**Funding Agency:** 한국산업기술진흥원 (KIAT)  
+**Program:** 산업혁신인재성장지원—교육훈련
+
+**Description**  
+This project aims to systematically cultivate industry-ready professionals capable of designing core IP for high-performance processors and AI semiconductors through an industry-driven curriculum integrated with collaborative academia–industry projects.
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/ai_lab.png" flip=false text=text %}
+
+
 #### **초저지연 온디바이스 AI SoC에서의 CPU-NPU 간 성능 간섭 완화를 위한 간섭 인지형 마이크로아키텍처 및 SoC 자원 관리 연구 <small>— Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs</small>**
 
 {% capture text %}
@@ -34,7 +51,7 @@ This project develops CPU microarchitecture and SoC-level resource management te
 
 **Project Period:** 2025.07.01 — 2030.12.31  
 **Funding Agency:** 정보통신기획평가원 (IITP)  
-**Program:** 산학연계 AI반도체 선도기술 인재양성
+**Program:** 디지털선도기술핵심인재양성—산학연계 AI반도체 선도기술 인재양성
 
 **Description**  
 This project establishes [the Chips and AI Innovation Center (CINC)](https://cinc.yonsei.ac.kr/) at Yonsei University to foster globally competitive researchers in AI semiconductor technologies. The program supports advanced education and collaborative research on next-generation AI accelerators and semiconductor system architectures.
