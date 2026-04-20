@@ -28,13 +28,13 @@ This project develops CPU microarchitecture and SoC-level resource management te
 
 
 
-### **AI Semiconductor Innovation Lab (Yonsei University)**
+#### **AI반도체혁신연구소 (연세대학교) <small>— AI Semiconductor Innovation Lab (Yonsei University)</small>**
 
 {% capture text %}
 
-**Project Period:** Jul. 2025 – Dec. 2030  
-**Funding Agency:** Institute for Information & Communications Technology Planning & Evaluation (IITP)  
-**Program:** AI Semiconductor Innovation Lab
+**Project Period:** 2025.07.01 — 2030.12.31  
+**Funding Agency:** 정보통신기획평가원 (IITP)  
+**Program:** 산학연계 AI반도체 선도기술 인재양성
 
 **Description**  
 This project establishes [the Chips and AI Innovation Center (CINC)](https://cinc.yonsei.ac.kr/) at Yonsei University to foster globally competitive researchers in AI semiconductor technologies. The program supports advanced education and collaborative research on next-generation AI accelerators and semiconductor system architectures.
@@ -62,13 +62,13 @@ This project develops a heterogeneous acceleration platform for energy-efficient
 
 
 
-### **Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration**
+#### **LLM 가속을 위한 CXL 기반 PNM 아키텍처 및 시뮬레이션 플랫폼 개발 <small>— Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration</small>**
 
 {% capture text %}
 
-**Project Period:** Apr. 2024 – Dec. 2026  
-**Funding Agency:** Korea Evaluation Institute of Industrial Technology  
-**Program:** Public–Private Partnership Program for Training Advanced Semiconductor Professionals
+**Project Period:** 2024.04.01 — 2026.12.31  
+**Funding Agency:** 한국산업기술기획평가원(KEIT)
+**Program:** 민관공동투자반도체고급인력양성
 
 **Description**  
 This project develops a CXL-based processing-near-memory (PNM) architecture and simulation platform to accelerate large language model (LLM) workloads. The research focuses on enabling efficient memory-centric acceleration by leveraging CXL-enabled memory expansion and near-memory computing techniques.
