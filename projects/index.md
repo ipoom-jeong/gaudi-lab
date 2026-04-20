@@ -21,7 +21,7 @@ nav:
 **Program:** 산업혁신인재성장지원
 
 **Description**  
-This project aims to systematically cultivate industry-ready professionals capable of designing core IP for high-performance processors and AI semiconductors through an industry-driven curriculum integrated with collaborative academia–industry projects..
+This project aims to systematically cultivate industry-ready professionals capable of designing core IP for high-performance processors and AI semiconductors through an industry-driven curriculum integrated with collaborative academia–industry projects.
 
 {% endcapture %}
 
