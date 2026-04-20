@@ -50,7 +50,7 @@ This project establishes [the Chips and AI Innovation Center (CINC)](https://cin
 {% capture text %}
 
 **Project Period:** 2025.06.01 — 2028.05.31
-**Funding Agency:** 한국연구재단 (NRF)  
+**Funding Agency:** 한국연구재단 (NRF)
 **Program:** 집단연구—기초연구실
 
 **Description**  
