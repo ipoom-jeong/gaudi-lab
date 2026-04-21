@@ -88,10 +88,9 @@ Please review the **RESEARCH** section and specify:
 
 Applicants must apply through one of the following programs:
 
-- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)  
-  <small>(Samsung Electronics–contracted graduate program)</small>  
-  
-- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)  
+- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)
+  <small>(Samsung Electronics–contracted graduate program)</small> 
+- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)
 
 <small>Please clearly indicate your selected track in your email.</small>
 
@@ -101,8 +100,8 @@ Applicants must apply through one of the following programs:
 
 Once prepared, send an email including:
 
-- Your **CV**  
-- A concise statement of your **research interests**  
+- Your **CV**
+- A concise statement of your **research interests**
 - Your **selected application track**
 
 ---
