@@ -33,12 +33,11 @@ Please review the **RESEARCH** section and specify:
 
 Applicants must apply through one of the following graduate programs:
 
-- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)  
-  <small>(Samsung Electronics–contracted graduate program)</small>  
+- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php) <small>(시스템반도체공학과, 삼성전자 대학원 계약학과)</small>  
   This program is jointly established with Samsung Electronics to cultivate world-class system semiconductor engineers.  
   It provides comprehensive education spanning semiconductor devices, circuits, architecture, and system software, covering the full stack from device-level fundamentals to system-level design.   
 
-- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)  
+- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3) <small>(지능형디스플레이공학과, 첨단산업 특성화대학원)</small>  
   This program focuses on next-generation display technologies and interdisciplinary design across devices, materials, circuits, and optics.  
   It emphasizes project-based learning and strong industry collaboration (e.g., LG Display) to train engineers capable of solving real-world problems in emerging display and interface technologies.
   
