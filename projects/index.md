@@ -11,6 +11,22 @@ nav:
 
 ## On-going Projects
 
+#### **초저지연 온디바이스 AI SoC에서의 CPU-NPU 간 성능 간섭 완화를 위한 간섭 인지형 마이크로아키텍처 및 SoC 자원 관리 연구 <small>— Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs</small>**
+
+{% capture text %}
+
+**Project Period:** 2026.03.01 — 2030.02.28  
+**Funding Agency:** 한국연구재단 (NRF)  
+**Program:** 개인연구—신진연구 (유형B)
+
+**Description**  
+This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems. The research aims to enable predictable and ultra-low-latency AI inference on heterogeneous AI SoCs.
+
+{% endcapture %}
+
+{% include feature.html image="images/projects/nrf_microarchitecture.png" flip=false text=text %}
+
+
 
 #### **반도체핵심IP설계전문인력양성 (고성능 프로세서) <small>— Training Program for Semiconductor Core IP Design Specialists (High-Performance Processors)</small>**
 
@@ -25,23 +41,7 @@ This project aims to systematically cultivate industry-ready professionals capab
 
 {% endcapture %}
 
-{% include feature.html image="images/projects/kiat_core_ip.png" flip=false text=text %}
-
-
-#### **초저지연 온디바이스 AI SoC에서의 CPU-NPU 간 성능 간섭 완화를 위한 간섭 인지형 마이크로아키텍처 및 SoC 자원 관리 연구 <small>— Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs</small>**
-
-{% capture text %}
-
-**Project Period:** 2026.03.01 — 2030.02.28  
-**Funding Agency:** 한국연구재단 (NRF)  
-**Program:** 개인연구—신진연구 (유형B)
-
-**Description**  
-This project develops CPU microarchitecture and SoC-level resource management techniques to mitigate contention between CPUs and NPUs over shared on-chip resources in on-device AI systems. The research aims to enable predictable and ultra-low-latency AI inference on heterogeneous AI SoCs.
-
-{% endcapture %}
-
-{% include feature.html image="images/projects/nrf_microarchitecture.png" flip=true text=text %}
+{% include feature.html image="images/projects/kiat_core_ip.png" flip=true text=text %}
 
 
 
