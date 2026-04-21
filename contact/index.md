@@ -61,16 +61,21 @@ If you're interested in our lab, please contact us in advance at [_ipoom@yonsei.
 
 # {% include icon.html icon="fa-regular fa-bell" %}Before You Contact
 
-Thank you for your interest in **GAUDI Lab**.  
-Please carefully review the following guidelines before reaching out.  
-Emails that do not follow these instructions may not receive a response.
+<div style="padding: 28px; border-radius: 14px; background: linear-gradient(135deg, #0b1f3a, #123c6b); color: #ffffff;">
+
+<h2 style="margin-top: 0; margin-bottom: 8px;">📩 Before You Contact</h2>
+<p style="margin: 0; opacity: 0.9;">
+Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out.
+</p>
+
+</div>
 
 ---
 
 #### 1. Define Your Research Interests
 
 You must clearly articulate your research interests before contacting the PI.  
-Please review the **RESEARCH** section of this website and specify:
+Please review the **RESEARCH** section and specify:
 
 - The topics you are interested in  
 - Your motivation for pursuing them  
@@ -82,20 +87,22 @@ Please review the **RESEARCH** section of this website and specify:
 
 #### 2. Select Your Application Track
 
-Applicants must apply through one of the following graduate programs:
+Applicants must apply through one of the following programs:
 
-- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)  
-  <small>(Samsung Electronics–contracted graduate program)</small>      
+- **Department of System Semiconductor Engineering**  
+  <small>(Samsung Electronics–contracted graduate program)</small>  
+  https://system.yonsei.ac.kr/sub2_2_a.php  
 
-- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)  
-  
+- **Department of Intelligent Display Engineering**  
+  https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3  
+
 <small>Please clearly indicate your selected track in your email.</small>
 
 ---
 
 #### 3. Contact the PI
 
-Once prepared, send an email to the PI including:
+Once prepared, send an email including:
 
 - Your **CV**  
 - A concise statement of your **research interests**  
@@ -107,6 +114,3 @@ Once prepared, send an email to the PI including:
 <strong>Important:</strong> Only well-prepared inquiries demonstrating clear research alignment will be considered.  
 Applicants are expected to show initiative and a strong understanding of the lab’s research directions.
 </small>
-
-
-
