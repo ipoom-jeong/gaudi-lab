@@ -59,7 +59,6 @@ If you're interested in our lab, please contact us in advance at [_ipoom@yonsei.
 {% include section.html %}
 
 
-# {% include icon.html icon="fa-regular fa-bell" %}Before You Contact
 
 <div style="padding: 28px; border-radius: 14px; background: linear-gradient(135deg, #0b1f3a, #123c6b); color: #ffffff;">
 
@@ -89,12 +88,10 @@ Please review the **RESEARCH** section and specify:
 
 Applicants must apply through one of the following programs:
 
-- **Department of System Semiconductor Engineering**  
+- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)  
   <small>(Samsung Electronics–contracted graduate program)</small>  
-  https://system.yonsei.ac.kr/sub2_2_a.php  
-
-- **Department of Intelligent Display Engineering**  
-  https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3  
+  
+- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)  
 
 <small>Please clearly indicate your selected track in your email.</small>
 
