@@ -61,4 +61,52 @@ If you're interested in our lab, please contact us in advance at [_ipoom@yonsei.
 
 # {% include icon.html icon="fa-regular fa-bell" %}Before You Contact
 
+Thank you for your interest in **GAUDI Lab**.  
+Please carefully review the following guidelines before reaching out.  
+Emails that do not follow these instructions may not receive a response.
+
+---
+
+#### 1. Define Your Research Interests
+
+You must clearly articulate your research interests before contacting the PI.  
+Please review the **RESEARCH** section of this website and specify:
+
+- The topics you are interested in  
+- Your motivation for pursuing them  
+- How you plan to extend or contribute to the field  
+
+<small>Generic or vague statements will not be considered.</small>
+
+---
+
+#### 2. Select Your Application Track
+
+Applicants must apply through one of the following graduate programs:
+
+- [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php)  
+  <small>(Samsung Electronics–contracted graduate program)</small>      
+
+- [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)  
+  
+<small>Please clearly indicate your selected track in your email.</small>
+
+---
+
+#### 3. Contact the PI
+
+Once prepared, send an email to the PI including:
+
+- Your **CV**  
+- A concise statement of your **research interests**  
+- Your **selected application track**
+
+---
+
+<small>
+<strong>Important:</strong> Only well-prepared inquiries demonstrating clear research alignment will be considered.  
+Applicants are expected to show initiative and a strong understanding of the lab’s research directions.
+</small>
+
+
 
