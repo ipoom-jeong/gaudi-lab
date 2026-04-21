@@ -65,7 +65,7 @@ Applicants are expected to show initiative and a strong understanding of the lab
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact Information
 
-GAUDI Lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University. 
+<!-- GAUDI Lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University. -->
 
 **GAUDI Lab:** Room D506, Engineering Building IV, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea <br>
 **PI Office:** Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
