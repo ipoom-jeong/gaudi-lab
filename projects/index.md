@@ -28,7 +28,7 @@ This project develops CPU microarchitecture and SoC-level resource management te
 
 
 
-#### **반도체핵심IP설계전문인력양성 (고성능 프로세서) <small>— Training Program for Semiconductor Core IP Design Specialists (High-Performance Processors)</small>**
+#### **반도체 핵심 IP 설계 전문 인력 양성 (고성능 프로세서) <small>— Training Program for Semiconductor Core IP Design Specialists (High-Performance Processors)</small>**
 
 {% capture text %}
 
@@ -45,7 +45,7 @@ This project aims to systematically cultivate industry-ready professionals capab
 
 
 
-#### **AI반도체혁신연구소 (연세대학교) <small>— AI Semiconductor Innovation Lab (Yonsei University)</small>**
+#### **AI 반도체 혁신 연구소 (연세대학교) <small>— AI Semiconductor Innovation Lab (Yonsei University)</small>**
 
 {% capture text %}
 
