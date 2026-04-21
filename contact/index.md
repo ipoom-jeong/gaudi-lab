@@ -80,7 +80,7 @@ Please review the **RESEARCH** section and specify:
 - Your motivation for pursuing them
 - How you plan to extend or contribute to the field
 
-<small>Generic or vague statements will not be considered.</small>
+*Generic or vague statements will not be considered.*
 
 ---
 
@@ -92,7 +92,7 @@ Applicants must apply through one of the following programs:
   <small>(Samsung Electronics–contracted graduate program)</small> 
 - [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3)
 
-<small>Please clearly indicate your selected track in your email.</small>
+*Please clearly indicate your selected track in your email.*
 
 ---
 
@@ -106,7 +106,6 @@ Once prepared, send an email including:
 
 ---
 
-<small>
-<strong>Important:</strong> Only well-prepared inquiries demonstrating clear research alignment will be considered.  
-Applicants are expected to show initiative and a strong understanding of the lab’s research directions.
-</small>
+*<strong>Important:</strong> Only well-prepared inquiries demonstrating clear research alignment will be considered.  
+Applicants are expected to show initiative and a strong understanding of the lab’s research directions.*
+
