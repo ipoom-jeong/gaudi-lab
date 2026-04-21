@@ -63,6 +63,8 @@ Once prepared, send an email including:
 Applicants are expected to show initiative and a strong understanding of the lab’s research directions.*
 
 
+{% include section.html %}
+
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact Information
 
 GAUDI Lab is affiliated with [the Department of System Semiconductor Engineering](https://system.yonsei.ac.kr/index.php) at Yonsei University. 
