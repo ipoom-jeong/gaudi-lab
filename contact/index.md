@@ -39,7 +39,7 @@ Applicants must apply through one of the following graduate programs:
 
 - [**Department of Intelligent Display Engineering**](https://displai.yonsei.ac.kr/index.php?module=Html&action=SiteComp&sSubNo=3) <small>(지능형디스플레이공학과, 첨단산업 특성화대학원)</small>  
   This program focuses on next-generation display technologies and interdisciplinary design across devices, materials, circuits, and optics.  
-  It emphasizes project-based learning and strong industry collaboration (e.g., LG Display) to train engineers capable of solving real-world problems in emerging display and interface technologies.
+  It emphasizes project-based learning and strong industry collaboration to train engineers capable of solving real-world problems in emerging display and interface technologies.
   
 
 *Please clearly indicate your selected track in your email.*
