@@ -76,9 +76,9 @@ Join <strong>GAUDI Lab</strong> — please follow the guidelines below before re
 You must clearly articulate your research interests before contacting the PI.  
 Please review the **RESEARCH** section and specify:
 
-- The topics you are interested in  
-- Your motivation for pursuing them  
-- How you plan to extend or contribute to the field  
+- The topics you are interested in
+- Your motivation for pursuing them
+- How you plan to extend or contribute to the field
 
 <small>Generic or vague statements will not be considered.</small>
 
