@@ -50,8 +50,7 @@ Applicants must apply through one of the following graduate programs:
 
 Once prepared, send an email including:
 
-- Your **CV**
-- Your **GPA** (attach an unofficial transcript if available)
+- Your **CV** and **GPA**
 - A concise statement of your **research interests**
 - Your **selected application track**
 
