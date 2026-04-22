@@ -5,14 +5,9 @@ nav:
   tooltip: Email, address, and location
 ---
 
-<div style="padding: 28px; border-radius: 14px; background: linear-gradient(135deg, #0b1f3a, #123c6b); color: #ffffff;">
+# {% include icon.html icon="fa-regular fa-check" %}Before You Contact
 
-<h2 style="margin-top: 0; margin-bottom: 8px;">📩 Before You Contact</h2>
-<p style="margin: 0; opacity: 0.9;">
 Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out.
-</p>
-
-</div>
 
 ---
 
