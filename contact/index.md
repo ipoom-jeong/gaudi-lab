@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-check" %}Before You Contact
+# {% include icon.html icon="fa-solid fa-check" %}Before You Contact
 
 Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out.
 
