@@ -95,21 +95,33 @@ This project develops a CXL-based processing-near-memory (PNM) architecture and 
 {% include feature.html image="images/projects/keit_cxl_pnm.png" flip=false text=text %}
 
 
+
 {% include section.html %}
 
 ## Past Projects
 
+### **데이터 플로우 구조 기반 PIM의 실행 및 프로그래밍 모델 개발 <small>— Development of PIM Software Architecture based on Data-Flow Computing</small>**
 
 {% capture text %}
 
-### **Development of PIM Software Architecture based on Data-Flow Computing <br> (2024.04 - 2025.12)**
+**Project Period:** 2024.04.01 — 2025.12.31  
+**Funding Agency:** 정보통신기획평가원 (IITP)  
+**Program:** PIM인공지능반도체핵심기술개발
 
-- Institute for Information & communication Technology Planning & evaluation (IITP)
-- D﻿eveloping software architecture for data-flow-based PIM devices
+**Description**  
+This project develops software architecture for data-flow-based PIM devices
+
+This project develops core computing architectures and software technologies for PIM-based main memory and heterogeneous accelerator platforms, including dataflow-driven programming and execution models, compilers, development tools, operating systems (drivers, memory management, scheduling), runtimes, and application-specific libraries for AI and diverse workloads.
 
 {% endcapture %}
 
 {% include feature.html image="images/projects/pim.png" flip=true text=text %}
+
+
+
+{% include section.html %}
+
+## Past Projects (Before Joining Yonsei SSE)
 
 
 {% capture text %}
