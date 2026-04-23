@@ -109,8 +109,6 @@ This project develops a CXL-based processing-near-memory (PNM) architecture and 
 **Program:** PIM인공지능반도체핵심기술개발
 
 **Description**  
-This project develops software architecture for data-flow-based PIM devices
-
 This project develops core computing architectures and software technologies for PIM-based main memory and heterogeneous accelerator platforms, including dataflow-driven programming and execution models, compilers, development tools, operating systems (drivers, memory management, scheduling), runtimes, and application-specific libraries for AI and diverse workloads.
 
 {% endcapture %}
@@ -122,7 +120,6 @@ This project develops core computing architectures and software technologies for
 {% include section.html %}
 
 ## Past Projects (Before Joining Yonsei SSE)
-
 
 {% capture text %}
 
