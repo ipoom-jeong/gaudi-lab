@@ -81,7 +81,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
-**Representative papers**
+#### **Representative publications**
 
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="" %}
 
