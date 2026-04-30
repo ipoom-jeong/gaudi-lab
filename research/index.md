@@ -13,9 +13,10 @@ nav:
 
 Our research topics include, _but are not limited to_, the following areas:
 
-{% capture text %}
 
 ### **Computer System Architectures and Resource Orchestration**
+
+{% capture text %}
 
 Modern computer systems have become larger and more complex, underscoring the need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and Last-Level Cache (LLC). We are investigating cutting-edge systems and exploring diverse solutions to improve system-wide processing efficiency.
 
@@ -26,9 +27,10 @@ Modern computer systems have become larger and more complex, underscoring the ne
 {% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
 
-{% capture text %}
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
+
+{% capture text %}
 
 The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
 
@@ -39,9 +41,10 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
 
-{% capture text %}
 
 ### **GPGPU and Accelerator Architectures**
+
+{% capture text %}
 
 Emerging applications with diverse computation patterns have driven the development of specialized hardware designed to deliver optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs). In addition, we are investigating various use cases for on-chip accelerators, which can offload specific tasks from the CPU to specialized hardware units to alleviate datacenter/system taxes.
 
@@ -52,9 +55,10 @@ Emerging applications with diverse computation patterns have driven the developm
 {% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
 
-{% capture text %}
 
 ### **Near-Data Processing**
+
+{% capture text %}
 
 Data-centric applications encounter significant bottlenecks in transferring large volumes of data between processors and memory, storage, or networks. To address these challenges, we are investigating efficient near-data processing techniques at various system layers. This includes Processing-In-Memory (PIM), integrating processing capabilities directly into memory; In-Storage Processing (ISP), enabling data processing within storage devices; and In-Network Computing (INC), performing computations within the network infrastructure.
 
@@ -65,9 +69,10 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
 
 
-{% capture text %}
 
 ### **Emerging Interconnect Technologies**
+
+{% capture text %}
 
 Compute Express Link (CXL) is an open standard for high-speed, efficient interconnects between CPUs and other devices such as memory, accelerators (e.g., GPUs, FPGAs), and SmartNICs (Network Interface Cards). It is designed to enhance performance and resource sharing in data centers, particularly in large-scale computing. We are exploring various use cases for CXL technology, including its potential to enable more flexible memory expansion, improve accelerator integration, and optimize data flow between heterogeneous computing components in next-generation data center architectures.
 
