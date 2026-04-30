@@ -13,6 +13,7 @@ nav:
 
 Our research topics include, _but are not limited to_, the following areas:
 
+{% include section.html %}
 
 ### **Computer System Architectures and Resource Orchestration**
 
@@ -26,7 +27,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
-
+{% include section.html %}
 
 ### **CPU Core Microarchitectures and Multi-core Architectures**
 
@@ -40,7 +41,7 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
-
+{% include section.html %}
 
 ### **GPGPU and Accelerator Architectures**
 
@@ -54,7 +55,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 {% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
-
+{% include section.html %}
 
 ### **Near-Data Processing**
 
@@ -68,7 +69,7 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
 
-
+{% include section.html %}
 
 ### **Emerging Interconnect Technologies**
 
