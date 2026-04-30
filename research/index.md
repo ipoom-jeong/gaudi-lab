@@ -20,8 +20,6 @@ Our research topics include, _but are not limited to_, the following areas:
 
 The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
 
-{% include button.html flip=true style="bare" %}
-
 {% endcapture %}
 
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
@@ -30,7 +28,27 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 
 {% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="" %}
 
-{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="rich" %}
+{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="" %}
+
+
+{% include section.html %}
+
+### **GPGPU and Accelerator Architectures**
+
+{% capture text %}
+
+Emerging applications with diverse computation patterns have driven the development of specialized hardware designed to deliver optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs). In addition, we are investigating various use cases for on-chip accelerators, which can offload specific tasks from the CPU to specialized hardware units to alleviate datacenter/system taxes.
+
+{% endcapture %}
+
+{% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
+
+#### **Representative papers**
+
+{% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="" %}
+
+{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="" %}
+
 
 {% include section.html %}
 
@@ -50,19 +68,6 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include citation.html lookup="Intel® In-Memory Analytics Accelerator" style="rich" %}
 
-{% include section.html %}
-
-### **GPGPU and Accelerator Architectures**
-
-{% capture text %}
-
-Emerging applications with diverse computation patterns have driven the development of specialized hardware designed to deliver optimal performance per watt for these tasks. We are exploring energy-efficient architectures for General-Purpose Graphics Processing Units (GPGPUs) and Neural Processing Units (NPUs). In addition, we are investigating various use cases for on-chip accelerators, which can offload specific tasks from the CPU to specialized hardware units to alleviate datacenter/system taxes.
-
-{% include button.html flip=true style="bare" %}
-
-{% endcapture %}
-
-{% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
 {% include section.html %}
 
@@ -77,6 +82,7 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 {% endcapture %}
 
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
+
 
 {% include section.html %}
 
