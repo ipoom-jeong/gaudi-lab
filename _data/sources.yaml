@@ -1,5 +1,3 @@
-- id: arXiv:2305.02480
-- id: arXiv:2303.15375
 - id: doi:10.1016/j.sysarc.2023.103025
 - id: doi:10.1109/ISCA59077.2024.00051
 - id: doi:10.1109/ISCA59077.2024.00066
@@ -186,14 +184,6 @@
     - Page cache
   image: /images/publications/ssd.jpg
 
-# A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
-- id: arXiv:2305.02480
-  tags:
-    - CPU
-    - System
-    - Accelerator
-  image: /images/publications/acc.png
-
 # A convertible neural processor supporting adaptive quantization for real-time neural networks
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A Convertible Neural Processor Supporting Adaptive Quantization for Real-Time Neural Networks
@@ -220,14 +210,6 @@
     - Microarchitecture
     - Tensor Core
   image: /images/publications/gpu.png
-
-# Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
-- id: arXiv:2303.15375
-  tags:
-    - CXL
-    - System
-    - Memory
-  image: /images/publications/cxl.png
   
 # LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads
 - id: doi:10.1109/LCA.2023.3290427
