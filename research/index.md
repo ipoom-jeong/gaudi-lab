@@ -83,9 +83,9 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 **Representative papers**
 
-{% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
+{% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="" %}
 
-{% include citation.html lookup="Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product" style="rich" %}
+{% include citation.html lookup="Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product" style="" %}
 
 
 {% include section.html %}
