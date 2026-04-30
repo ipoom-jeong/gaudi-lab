@@ -23,13 +23,13 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% endcapture %}
 
+{% include feature.html image="images/research/computer_system.png" flip=false text=text %}
+
 **Representative papers**
 
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
 {% include citation.html lookup="Intel® In-Memory Analytics Accelerator" style="rich" %}
-
-{% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
 {% include section.html %}
 
