@@ -21,11 +21,13 @@ Our research topics include, _but are not limited to_, the following areas:
 
 Modern computer systems have become larger and more complex, underscoring the need for designing highly efficient system architectures and effectively orchestrating shared resources, such as memory and Last-Level Cache (LLC). We are investigating cutting-edge systems and exploring diverse solutions to improve system-wide processing efficiency.
 
+{% endcapture %}
+
 **Representative papers**
 
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
-{% endcapture %}
+{% include citation.html lookup="Intel® In-Memory Analytics Accelerator" style="rich" %}
 
 {% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
