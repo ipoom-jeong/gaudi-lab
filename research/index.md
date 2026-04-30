@@ -64,7 +64,7 @@ Compute Express Link (CXL) is an open standard for high-speed, efficient interco
 
 #### **Representative publications**
 
-{% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="" %}
+{% include citation.html lookup="Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective" style="" %}
 
 {% include citation.html lookup="Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices" style="" %}
 
@@ -85,7 +85,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
-{% include citation.html lookup="Intel® In-Memory Analytics Accelerator" style="rich" %}
+{% include citation.html lookup="Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product" style="rich" %}
 
 
 {% include section.html %}
@@ -96,15 +96,19 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 Data-centric applications encounter significant bottlenecks in transferring large volumes of data between processors and memory, storage, or networks. To address these challenges, we are investigating efficient near-data processing techniques at various system layers. This includes Processing-In-Memory (PIM), integrating processing capabilities directly into memory; In-Storage Processing (ISP), enabling data processing within storage devices; and In-Network Computing (INC), performing computations within the network infrastructure.
 
-{% include button.html flip=true style="bare" %}
-
 {% endcapture %}
 
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
 
+#### **Representative publications**
+
+{% include citation.html lookup="UPP: Universal Predicate Pushdown to Smart Storage" style="" %}
+
+{% include citation.html lookup="HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing" style="" %}
+
+
 
 {% include section.html %}
-
 
 ## Collaboration
 
