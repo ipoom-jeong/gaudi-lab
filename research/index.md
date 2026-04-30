@@ -14,6 +14,25 @@ nav:
 Our research topics include, _but are not limited to_, the following areas:
 
 
+### **CPU Core Microarchitectures and Multi-core Architectures**
+
+{% capture text %}
+
+The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
+
+{% include button.html flip=true style="bare" %}
+
+{% endcapture %}
+
+{% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
+
+**Representative papers**
+
+{% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="rich" %}
+
+{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="rich" %}
+
+{% include section.html %}
 
 ### **Computer System Architectures and Resource Orchestration**
 
@@ -30,20 +49,6 @@ Modern computer systems have become larger and more complex, underscoring the ne
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
 {% include citation.html lookup="Intel® In-Memory Analytics Accelerator" style="rich" %}
-
-{% include section.html %}
-
-### **CPU Core Microarchitectures and Multi-core Architectures**
-
-{% capture text %}
-
-The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
-
-{% include button.html flip=true style="bare" %}
-
-{% endcapture %}
-
-{% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
 {% include section.html %}
 
