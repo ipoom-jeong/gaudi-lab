@@ -24,7 +24,7 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
-#### **Representative papers**
+#### **Representative publications**
 
 {% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="" %}
 
@@ -43,11 +43,30 @@ Emerging applications with diverse computation patterns have driven the developm
 
 {% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
-#### **Representative papers**
+#### **Representative publications**
 
-{% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="" %}
+{% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="" %}
 
-{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="" %}
+{% include citation.html lookup="Warped-Compaction: Maximizing GPU Register File" style="" %}
+
+
+{% include section.html %}
+
+### **Emerging Interconnect Technologies**
+
+{% capture text %}
+
+Compute Express Link (CXL) is an open standard for high-speed, efficient interconnects between CPUs and other devices such as memory, accelerators (e.g., GPUs, FPGAs), and SmartNICs (Network Interface Cards). It is designed to enhance performance and resource sharing in data centers, particularly in large-scale computing. We are exploring various use cases for CXL technology, including its potential to enable more flexible memory expansion, improve accelerator integration, and optimize data flow between heterogeneous computing components in next-generation data center architectures.
+
+{% endcapture %}
+
+{% include feature.html image="images/research/cxl_research.png" flip=false text=text %}
+
+#### **Representative publications**
+
+{% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="" %}
+
+{% include citation.html lookup="Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices" style="" %}
 
 
 {% include section.html %}
@@ -82,21 +101,6 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 {% endcapture %}
 
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
-
-
-{% include section.html %}
-
-### **Emerging Interconnect Technologies**
-
-{% capture text %}
-
-Compute Express Link (CXL) is an open standard for high-speed, efficient interconnects between CPUs and other devices such as memory, accelerators (e.g., GPUs, FPGAs), and SmartNICs (Network Interface Cards). It is designed to enhance performance and resource sharing in data centers, particularly in large-scale computing. We are exploring various use cases for CXL technology, including its potential to enable more flexible memory expansion, improve accelerator integration, and optimize data flow between heterogeneous computing components in next-generation data center architectures.
-
-{% include button.html flip=true style="bare" %}
-
-{% endcapture %}
-
-{% include feature.html image="images/research/cxl_research.png" flip=false text=text %}
 
 
 {% include section.html %}
