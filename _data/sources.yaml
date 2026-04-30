@@ -10,7 +10,6 @@
 - id: doi:10.1145/3725843.3756102
 - id: doi:10.1109/LCA.2025.3621612
 
-
 #REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabri
 - id: doi:10.1109/LCA.2025.3621612
   publisher: IEEE Computer Architecture Letters (CAL)
@@ -286,7 +285,7 @@
     - Ipoom Jeong
     - Nam Sung Kim
   publisher: "IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)"
-  date: 2026-02-24
+  date: 2026-04-27
   
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
