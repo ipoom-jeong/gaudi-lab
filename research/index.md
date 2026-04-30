@@ -26,7 +26,7 @@ The Central Processing Unit (CPU) plays a vital role in a system by running appl
 
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
-**Representative papers**
+#### **Representative papers**
 
 {% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="rich" %}
 
