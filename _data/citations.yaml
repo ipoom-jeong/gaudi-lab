@@ -536,7 +536,7 @@
   - System
   - Accelerator
   image: /images/publications/acc.png
-- title: Compiler and System Optimizations for Gem5 Simulator
+- title: Compiler and System Optimizations for Gem5 Simulator <br> [Best Paper Nomination]
   authors:
   - Haneul Park
   - Siddharth Agarwal
