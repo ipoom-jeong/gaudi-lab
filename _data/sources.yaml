@@ -49,7 +49,7 @@
     - SSD
     - Modeling
     - Machine learning
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
  
 #A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
 - id: doi:10.1145/3695053.3731114
@@ -93,7 +93,7 @@
     - SSD
     - In-Storage Processing
     - Database
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
   
 # Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
 - id: doi:10.1109/HPCA61900.2025.00123
@@ -135,7 +135,7 @@
     - System
     - Accelerator
     - CXL    
-  image: /images/publications/system.jpg
+  image: /images/publications/system.png
   
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
@@ -181,7 +181,7 @@
     - SSD
     - OS
     - Page cache
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
 
 # A convertible neural processor supporting adaptive quantization for real-time neural networks
 - id: doi:10.1016/j.sysarc.2023.103025
@@ -217,7 +217,7 @@
     - Microarchitecture
     - Last-level cache
     - Data direct I/O
-  image: /images/publications/system.jpg
+  image: /images/publications/system.png
   
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
