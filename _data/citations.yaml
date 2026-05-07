@@ -67,7 +67,7 @@
   - Microarchitecture
   - Last-level cache
   - Data direct I/O
-  image: /images/publications/cpu.png
+  image: /images/publications/system.png
 - id: doi:10.1145/3695053.3731005
   title: 'UPP: Universal Predicate Pushdown to Smart Storage'
   authors:
