@@ -14,7 +14,7 @@ nav:
 Our research topics include, _but are not limited to_, the following areas:
 
 
-### **CPU Core Microarchitectures and Multi-core Architectures**
+### **CPU Microarchitectures and Multi-core Architectures**
 
 {% capture text %}
 
@@ -71,7 +71,7 @@ Compute Express Link (CXL) is an open standard for high-speed, efficient interco
 
 {% include section.html %}
 
-### **Computer System Architectures and Resource Orchestration**
+### **System Architectures and Resource Orchestration**
 
 {% capture text %}
 
