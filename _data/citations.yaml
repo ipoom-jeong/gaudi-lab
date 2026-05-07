@@ -88,7 +88,7 @@
   - SSD
   - In-Storage Processing
   - Database
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
 - id: doi:10.1109/LCA.2025.3581580
   title: Time Series Machine Learning Models for Precise SSD Access Latency Prediction
   authors:
@@ -106,7 +106,7 @@
   - SSD
   - Modeling
   - Machine learning
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
 - id: doi:10.1145/3620665.3640401
   title: A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern
     Intel Xeon Scalable Processors
@@ -183,7 +183,7 @@
   - SSD
   - OS
   - Page cache
-  image: /images/publications/ssd.jpg
+  image: /images/publications/ssd.png
 - id: doi:10.1109/LES.2023.3307622
   title: 'Triple-A: Early Operand Collector Allocation for Maximizing GPU Register
     Bank Utilization'
@@ -290,7 +290,7 @@
   - Microarchitecture
   - Last-level cache
   - Data direct I/O
-  image: /images/publications/system.jpg
+  image: /images/publications/system.png
 - id: doi:10.1109/LES.2022.3163749
   title: 'CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs'
   authors:
@@ -425,7 +425,7 @@
   - System
   - Accelerator
   - CXL
-  image: /images/publications/system.jpg
+  image: /images/publications/system.png
 - id: doi:10.1109/ISCA59077.2024.00066
   title: 'Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product'
   authors:
