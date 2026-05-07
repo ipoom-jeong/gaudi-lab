@@ -217,7 +217,7 @@
     - Microarchitecture
     - Last-level cache
     - Data direct I/O
-  image: /images/publications/system.png
+  image: /images/publications/cpu.png
   
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
