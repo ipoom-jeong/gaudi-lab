@@ -68,7 +68,7 @@
     - Microarchitecture
     - Last-level cache
     - Data direct I/O
-  image: /images/publications/cpu.png
+  image: /images/publications/system.png
 
 #Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines
 - id: 10.1109/ISPASS64960.2025.00021
@@ -217,7 +217,7 @@
     - Microarchitecture
     - Last-level cache
     - Data direct I/O
-  image: /images/publications/cpu.png
+  image: /images/publications/system.png
   
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
