@@ -18,7 +18,7 @@ Our research topics include, _but are not limited to_, the following areas:
 
 {% capture text %}
 
-The Central Processing Unit (CPU) plays a vital role in a system by running applications and system software, managing system resources, interacting with I/O devices, _etc_. We are exploring advanced microarchitectural techniques, such as dynamic scheduling and speculation, as well as innovative multi-core architectures like heterogeneous multi-core and simultaneous multi-threading, to enhance the CPU's performance and energy efficiency.
+The Central Processing Unit (CPU) serves as the foundation of modern computing systems by executing applications and system software, managing hardware resources, and coordinating interactions with memory and I/O devices. Our research explores advanced CPU microarchitectural techniques—including speculative execution, dynamic scheduling, and early resource reclamation—as well as emerging multi-core architectures such as heterogeneous multi-core systems and Simultaneous Multithreading (SMT), with the goal of improving performance, scalability, and energy efficiency.
 
 {% endcapture %}
 
