@@ -45,9 +45,9 @@ Emerging applications with diverse computation patterns have driven the developm
 
 #### **Representative Publications**
 
-{% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="" %}
+{% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="rich" %}
 
-{% include citation.html lookup="Warped-Compaction: Maximizing GPU Register File" style="" %}
+{% include citation.html lookup="Warped-Compaction: Maximizing GPU Register File" style="rich" %}
 
 
 {% include section.html %}
@@ -64,9 +64,9 @@ Compute Express Link (CXL) is an open standard for high-speed, efficient interco
 
 #### **Representative Publications**
 
-{% include citation.html lookup="Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective" style="" %}
+{% include citation.html lookup="Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective" style="rich" %}
 
-{% include citation.html lookup="Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices" style="" %}
+{% include citation.html lookup="Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices" style="rich" %}
 
 
 {% include section.html %}
@@ -83,9 +83,9 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 #### **Representative Publications**
 
-{% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="" %}
+{% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
-{% include citation.html lookup="Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product" style="" %}
+{% include citation.html lookup="Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product" style="rich" %}
 
 
 {% include section.html %}
@@ -102,9 +102,9 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 
 #### **Representative Publications**
 
-{% include citation.html lookup="UPP: Universal Predicate Pushdown to Smart Storage" style="" %}
+{% include citation.html lookup="UPP: Universal Predicate Pushdown to Smart Storage" style="rich" %}
 
-{% include citation.html lookup="HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing" style="" %}
+{% include citation.html lookup="HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing" style="rich" %}
 
 
 
