@@ -26,9 +26,9 @@ The Central Processing Unit (CPU) serves as the foundation of modern computing s
 
 #### **Representative Publications**
 
-{% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="" %}
+{% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="rich" %}
 
-{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="" %}
+{% include citation.html lookup="CASINO Core Microarchitecture: Generating Out-of-Order Schedules" style="rich" %}
 
 
 {% include section.html %}
