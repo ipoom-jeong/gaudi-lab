@@ -42,6 +42,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 #### **Invited Talk/Lectures**
 
+_Software for Artificial Intelligence, Ewha Womans University 2026_<br>
 _Yonsei University Intelligent Semiconductor IT Convergence Symposium 2026_<br>
 _Computer Architectures for Artificial Intelligence, Seoul National University 2025_<br>
 _IC Design Education Center (IDEC) Academy 2025_<br>
