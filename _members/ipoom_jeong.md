@@ -1,5 +1,5 @@
 ---
-name: Ipoom Jeong
+name: Ipoom Jeong (정이품)
 image: images/members/ipoom_jeong.jpg
 role: pi
 aliases:
