@@ -1,5 +1,5 @@
 ---
-name: Jaehun Kim
+name: Jaehun Kim (김재훈)
 image: images/members/jaehun_kim.jpg
 role: current-msphd-2025-2
 links:
