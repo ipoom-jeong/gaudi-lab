@@ -16,6 +16,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CXL
   - System
