@@ -76,6 +76,11 @@
   letter-spacing: 0.3px;
 }
 
+.citation-tier.top-tier {
+  background: #b91c1c;
+  color: white;
+}
+
 .citation-description {
   color: var(--gray);
 }
