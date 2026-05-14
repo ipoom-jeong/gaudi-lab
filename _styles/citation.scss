@@ -72,6 +72,17 @@ $wrap: 800px;
   text-transform: capitalize;
 }
 
+.citation-tier {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
 .citation-description {
   color: var(--gray);
 }
