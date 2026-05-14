@@ -63,6 +63,13 @@
         <span class="citation-publisher">
           {{- citation.publisher | default: "[no publisher info]" -}}
         </span>
+        
+        {% if citation.tier %}
+          <span class="citation-tier {{ citation.tier }}">
+            {{ citation.tier }}
+          </span>
+        {% endif %}
+        
         &nbsp;·&nbsp;
         <span class="citation-date">
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
