@@ -1,5 +1,5 @@
 ---
-name: Seonghun Jeong
+name: Seonghun Jeong (정성훈)
 image: images/members/seonghun_jeong.jpg
 role: current-ms-2026-1
 links:
