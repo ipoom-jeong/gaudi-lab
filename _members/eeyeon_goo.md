@@ -1,5 +1,5 @@
 ---
-name: Eeyeon Goo
+name: Eeyeon Goo (구이연)
 image: images/members/eeyeon_goo.jpg
 role: current-msphd-2026-1
 links:
