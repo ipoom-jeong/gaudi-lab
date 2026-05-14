@@ -1,5 +1,5 @@
 ---
-name: Keunyoung Kim
+name: Keunyoung Kim (김근영)
 image: images/members/keunyoung_kim.png
 role: current-undergrad
 links:
