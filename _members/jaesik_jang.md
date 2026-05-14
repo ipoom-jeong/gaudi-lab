@@ -1,5 +1,5 @@
 ---
-name: Jaesik Jang
+name: Jaesik Jang (장재식)
 image: images/members/jaesik_jang.png
 role: current-undergrad
 links:
