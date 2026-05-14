@@ -1,5 +1,5 @@
 ---
-name: Yeonwoo Choi
+name: Yeonwoo Choi (최연우)
 image: images/members/yeonwoo_choi.jpg
 role: current-ms-2026-1
 links:
