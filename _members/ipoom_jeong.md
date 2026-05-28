@@ -56,10 +56,10 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 ### Teaching
 
 #### 2026
-- [SYS3104] &nbsp; Computer Architecture Theory &nbsp; (Spring, undergraduate)
-- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
-- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Spring, graduate)
-- [IIT6053] &nbsp; Introduction to Intelligent Semiconductor &nbsp; (Spring, graduate)
+- [SYS3104] &nbsp; **Computer Architecture Theory** &nbsp; (Spring, undergraduate)
+- [SYS4208] &nbsp; **Special Topics in System Architectures** &nbsp; (Spring, undergraduate)
+- [SYS5284] &nbsp; **Advanced Topics in AI Semiconductor Design Innovation** &nbsp; (Spring, graduate)
+- [IIT6053] &nbsp; **Introduction to Intelligent Semiconductor** &nbsp; (Spring, graduate)
 
 #### 2025
 - [SYS2102] &nbsp; **Analog Circuit Lab** &nbsp; (Fall, undergraduate)
