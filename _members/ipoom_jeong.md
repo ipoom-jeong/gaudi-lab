@@ -70,12 +70,10 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - [SYS4208, Undergraduate] &nbsp; Special Topics in System Architectures
 - [SYS6102, Graduate] &nbsp; Special Topics in Computer Systems
 
-#### 2024 Fall 
-- [SYS3203, Undergraduate] &nbsp; Microprocessors Designs
-- [SYS6201, Graduate] &nbsp; Advanced Computer Architecture
-
-#### 2024 Spring
-- [SYS2106, Undergraduate] &nbsp; Introduction to System Semiconductor
+#### 2024 
+- [SYS3203] &nbsp; Microprocessors Designs (Fall, undergraduate)
+- [SYS6201] &nbsp; Advanced Computer Architecture (Fall, graduate)
+- [SYS2106, Spring, Undergraduate] &nbsp; Introduction to System Semiconductor
 - [SYS6102, Graduate] &nbsp; Special Topics in Computer Systems
   
 For additional details, please visit the personal homepage.
