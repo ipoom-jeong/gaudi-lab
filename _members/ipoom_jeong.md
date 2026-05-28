@@ -53,13 +53,13 @@ _IC Design Education Center (IDEC) Academy, Korea University, 2024_<br>
 _EE Open Lab, Yonsei University, 2024_<br>
 _SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024_
 
-#### **Lectures**
+## **Teaching**
 
-[2026.03 - 2026.06] &nbsp; **2026 Spring Semester**<br>
- _(SYS3104, Undergraduate) &nbsp; Computer Architecture Theory_<br>
- _(SYS4208, Undergraduate) &nbsp; Special Topics in System Architectures_<br>
- _(SYS5284, Graduate) &nbsp; Advanced Topics in AI Semiconductor Design Innovation_<br>
- _(IIT6053, Graduate) &nbsp; Introduction to Intelligent Semiconductor_
+### 2026 Spring 
+- SYS3104 — Computer Architecture Theory
+- SYS4208 — Special Topics in System Architectures
+- SYS5284 — Advanced Topics in AI Semiconductor Design Innovation
+- IIT6053 — Introduction to Intelligent Semiconductor
 
 [2025.09 - 2025.12] &nbsp; **2025 Fall Semester**<br>
  _(SYS2102, Undergraduate) &nbsp; Analog Circuit Lab_<br>
