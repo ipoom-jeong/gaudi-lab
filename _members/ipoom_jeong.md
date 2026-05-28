@@ -55,10 +55,10 @@ _SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 
 ## **Teaching**
 
-### 2026 Spring 
-- [SYS3104, Undergraduate] Computer Architecture Theory
-- [SYS4208, Undergraduate] Special Topics in System Architectures
-- [SYS5284, Graduate] Advanced Topics in AI Semiconductor Design Innovation
+#### 2026 Spring 
+- [SYS3104, Undergraduate] &nbsp; Computer Architecture Theory
+- [SYS4208, Undergraduate] &nbsp; Special Topics in System Architectures
+- [SYS5284, Graduate] &nbsp; Advanced Topics in AI Semiconductor Design Innovation
 - [IIT6053, Graduate] &nbsp; Introduction to Intelligent Semiconductor
 
 [2025.09 - 2025.12] &nbsp; **2025 Fall Semester**<br>
