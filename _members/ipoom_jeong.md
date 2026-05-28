@@ -20,25 +20,25 @@ He earned his Ph.D. degree from the Department of Electrical and Electronic Engi
 
 ### Experience
 
-[2024.03 - Present] &nbsp; **Assistant Professor**<br>
-_Department of System Semiconductor Engineering, Yonsei University, Korea_
+**Assistant Professor**<br>
+_[2024.03 - Present] &nbsp; Department of System Semiconductor Engineering, Yonsei University, Korea_
 
-[2022.09 - 2024.02] &nbsp; **Postdoctoral Research Associate**<br>
-_Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA &nbsp; (PI: Professor Nam Sung Kim)_
+**Postdoctoral Research Associate**<br>
+_[2022.09 - 2024.02] &nbsp; Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA &nbsp; (PI: Professor Nam Sung Kim)_
 
-[2021.09 - 2022.08] &nbsp; **Research Professor**<br>
-_BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea_
+**Research Professor**<br>
+_[2021.09 - 2022.08] &nbsp; BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea_
 
-[2020.03 - 2021.08] &nbsp; **Engineer/Staff Engineer**<br>
-_Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea_
+**Engineer/Staff Engineer**<br>
+_[2020.03 - 2021.08] &nbsp; Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea_
 
 ### Education
 
-[2014.03 - 2020.02] &nbsp; **Doctor of Philosophy**<br>
-_Department of Electrical and Electronic Engineering, Yonsei University, Korea &nbsp; (Advisor: Professor Won Woo Ro)_
+**Ph.D. in Electrical and Electronic Engineering**<br>
+_[2014.03 - 2020.02] &nbsp; Yonsei University, Korea &nbsp; (Advisor: Professor Won Woo Ro)_
 
-[2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
-_School of Electrical and Electronic Engineering, Yonsei University, Korea_
+**B.S. in Electrical and Electronic Engineering**<br>
+_[2010.03 - 2014.02] &nbsp; Yonsei University, Korea_
 
 ### Invited Talks/Lectures
 
