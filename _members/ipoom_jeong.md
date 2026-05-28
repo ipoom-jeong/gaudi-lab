@@ -42,6 +42,34 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 ### Activities
 
+#### Program Committee
+- IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027
+- IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026
+
+#### Organizing Committee
+- Local chair: SCA/HPCAsia, 2027
+- Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference, 2026
+- Excursion chair: IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
+- Publication chair: Korean Institute of Information Scientists and Engineers (KIISE) CSS Conference, 2025
+  
+#### External Review Committee
+- IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
+- IEEE Transactions on Emerging Topics in Computing (TETC)
+- IEEE Transactions on Computers (TC)
+- ACM Transactions on Storage (TOS)
+- IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)
+- IEEE Computer Architecture Letters (CAL)
+- ACM Transactions on Architecture and Code Optimization (TACO)
+- Microprocessors and Microsystems
+
+#### Session Chair
+- IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2026
+- Korea Computer Congress (KCC), 2025
+- Artificial Intelligence Circuits and Systems (AICAS), 2022
+
+#### Tutorial Organizer
+- On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future! (ISCA, 2023)
+
 #### Invited Talks/Lectures
 - Software for Artificial Intelligence, Ewha Womans University, 2026
 - Intelligent Semiconductor IT Convergence Symposium, Yonsei University, 2026
