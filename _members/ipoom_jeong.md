@@ -27,7 +27,7 @@ _[2024.03 - Present] &nbsp; Department of System Semiconductor Engineering, Yons
 _[2022.09 - 2024.02] &nbsp; Coordinated Science Lab (CSL), University of Illinois Urbana-Champaign, USA &nbsp; (PI: Professor Nam Sung Kim)_
 
 **Research Professor**<br>
-_[2021.09 - 2022.08] &nbsp; BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering, Yonsei University, Korea_
+_[2021.09 - 2022.08] &nbsp; BK21 Y-BASE R&E Institute, Yonsei University, Korea_
 
 **Engineer/Staff Engineer**<br>
 _[2020.03 - 2021.08] &nbsp; Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea_
