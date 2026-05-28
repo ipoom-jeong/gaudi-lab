@@ -40,8 +40,9 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
-### Invited Talks/Lectures
+### Activities
 
+#### Invited Talks/Lectures
 - Software for Artificial Intelligence, Ewha Womans University, 2026
 - Intelligent Semiconductor IT Convergence Symposium, Yonsei University, 2026
 - Architectures for Artificial Intelligence, Seoul National University, 2025
