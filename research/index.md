@@ -14,7 +14,7 @@ nav:
 Our research topics include, _but are not limited to_, the following areas:
 
 
-### **CPU Microarchitectures and Multi-core Architectures**
+## **CPU Microarchitectures and Multi-core Architectures**
 
 {% capture text %}
 
@@ -33,7 +33,7 @@ The Central Processing Unit (CPU) serves as the foundation of modern computing s
 
 {% include section.html %}
 
-### **GPGPU and Accelerator Architectures**
+## **GPGPU and Accelerator Architectures**
 
 {% capture text %}
 
@@ -52,7 +52,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 {% include section.html %}
 
-### **Emerging Interconnect Technologies**
+## **Emerging Interconnect Technologies**
 
 {% capture text %}
 
@@ -71,7 +71,7 @@ Compute Express Link (CXL) is an open standard for high-speed, efficient interco
 
 {% include section.html %}
 
-### **System Architectures and Resource Orchestration**
+## **System Architectures and Resource Orchestration**
 
 {% capture text %}
 
@@ -90,7 +90,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include section.html %}
 
-### **Near-Data Processing**
+## **Near-Data Processing**
 
 {% capture text %}
 
