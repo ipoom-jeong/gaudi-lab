@@ -32,7 +32,7 @@ _BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering,
 [2020.03 - 2021.08] &nbsp; **Engineer/Staff Engineer**<br>
 _Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea_
 
-### Education
+## Education
 
 [2014.03 - 2020.02] &nbsp; **Doctor of Philosophy**<br>
 _Department of Electrical and Electronic Engineering, Yonsei University, Korea &nbsp; (Advisor: Professor Won Woo Ro)_
@@ -40,7 +40,7 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
-### Activities
+## Activities
 
 #### Program Committee
 - IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027
@@ -82,7 +82,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - EE Open Lab, Yonsei University, 2024
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 
-### Teaching
+## Teaching
 
 #### 2026
 - [SYS3104] &nbsp; **Computer Architecture Theory** &nbsp; (Spring, undergraduate)
