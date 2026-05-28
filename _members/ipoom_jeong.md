@@ -18,7 +18,7 @@ Ipoom Jeong is an Assistant Professor in the Department of System Semiconductor 
 He earned his Ph.D. degree from the Department of Electrical and Electronic Engineering at Yonsei University in 2020. His research expertise encompasses roles such as a Hardware Engineer in the Memory Business division at Samsung Electronics (2020-2021), a Research Professor in the School of Electrical and Electronic Engineering at Yonsei University (2021-2022), and a Postdoctoral Research Associate at the University of Illinois Urbana-Champaign (2022-2024).
 -->
 
-#### **Experience**
+## Experience
 
 [2024.03 - Present] &nbsp; **Assistant Professor**<br>
 _Department of System Semiconductor Engineering, Yonsei University, Korea_
@@ -32,7 +32,7 @@ _BK21 Y-BASE R&E Institute, Department of Electrical and Electronic Engineering,
 [2020.03 - 2021.08] &nbsp; **Engineer/Staff Engineer**<br>
 _Advanced Solution Development Team, Memory Business, Samsung Electronics, Korea_
 
-#### **Education**
+## Education
 
 [2014.03 - 2020.02] &nbsp; **Doctor of Philosophy**<br>
 _Department of Electrical and Electronic Engineering, Yonsei University, Korea &nbsp; (Advisor: Professor Won Woo Ro)_
@@ -40,20 +40,20 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
-#### **Invited Talk/Lectures**
+## Invited Talks/Lectures
 
-_Software for Artificial Intelligence, Ewha Womans University, 2026_<br>
-_Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026_<br>
-_Computer Architectures for Artificial Intelligence, Seoul National University, 2025_<br>
-_IC Design Education Center (IDEC) Academy, Korea University, 2025_<br>
-_SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2025_<br>
-_AI Plus Forum, Yonsei University, 2025_<br>
-_CSS Conference, Korean Institute of Information Scientists and Engineers (KIISE), 2025_<br>
-_IC Design Education Center (IDEC) Academy, Korea University, 2024_<br>
-_EE Open Lab, Yonsei University, 2024_<br>
-_SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024_
+- Software for Artificial Intelligence, Ewha Womans University, 2026
+- Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026
+- Architectures for Artificial Intelligence, Seoul National University, 2025
+- IC Design Education Center (IDEC) Academy, Korea University, 2025
+- SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2025
+- AI Plus Forum, Yonsei University, 2025
+- CSS Conference, Korean Institute of Information Scientists and Engineers (KIISE), 2025
+- IC Design Education Center (IDEC) Academy, Korea University, 2024
+- EE Open Lab, Yonsei University, 2024
+- SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 
-## **Teaching**
+## Teaching
 
 #### 2026 Spring 
 - [SYS3104, Undergraduate] &nbsp; Computer Architecture Theory
@@ -61,21 +61,21 @@ _SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 - [SYS5284, Graduate] &nbsp; Advanced Topics in AI Semiconductor Design Innovation
 - [IIT6053, Graduate] &nbsp; Introduction to Intelligent Semiconductor
 
-[2025.09 - 2025.12] &nbsp; **2025 Fall Semester**<br>
- _(SYS2102, Undergraduate) &nbsp; Analog Circuit Lab_<br>
- _(SYS3203, Undergraduate) &nbsp; Microprocessors Designs_<br>
- _(SYS6201, Graduate) &nbsp; Advanced Computer Architecture_
+#### 2025 Fall 
+- [SYS2102, Undergraduate] &nbsp; Analog Circuit Lab
+- [SYS3203, Undergraduate] &nbsp; Microprocessors Designs
+- [SYS6201, Graduate] &nbsp; Advanced Computer Architecture
 
-[2025.03 - 2025.06] &nbsp; **2025 Spring Semester**<br>
-_(SYS4208, Undergraduate) &nbsp; Special Topics in System Architectures_<br>
-_(SYS6102, Graduate) &nbsp; Special Topics in Computer Systems_
+#### 2025 Spring 
+- [SYS4208, Undergraduate] &nbsp; Special Topics in System Architectures
+- [SYS6102, Graduate] &nbsp; Special Topics in Computer Systems
 
-[2024.09 - 2024.12] &nbsp; **2024 Fall Semester**<br>
-_(SYS3203, Undergraduate) &nbsp; Microprocessors Designs_<br>
-_(SYS6201, Graduate) &nbsp; Advanced Computer Architecture_
+#### 2024 Fall 
+- [SYS3203, Undergraduate] &nbsp; Microprocessors Designs
+- [SYS6201, Graduate] &nbsp; Advanced Computer Architecture
 
-[2024.03 - 2024.06] &nbsp; **2024 Spring Semester**<br>
-_(SYS2106, Undergraduate) &nbsp; Introduction to System Semiconductor_<br>
-_(SYS6102, Graduate) &nbsp; Special Topics in Computer Systems_
-
+#### 2024 Spring
+- [SYS2106, Undergraduate] &nbsp; Introduction to System Semiconductor
+- [SYS6102, Graduate] &nbsp; Special Topics in Computer Systems
+  
 For additional details, please visit the personal homepage.
