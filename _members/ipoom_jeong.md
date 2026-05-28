@@ -56,12 +56,10 @@ _SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 ## **Teaching**
 
 ### 2026 Spring 
-<ul style="margin-top:0; margin-bottom:0; line-height:1.2;"> 
-  <li>SYS3104 — Computer Architecture Theory</li> 
-  <li>SYS4208 — Special Topics in System Architectures</li> 
-  <li>SYS5284 — Advanced Topics in AI Semiconductor Design Innovation</li> 
-  <li>IIT6053 — Introduction to Intelligent Semiconductor</li> 
-</ul>
+- SYS3104 — Computer Architecture Theory
+- SYS4208 — Special Topics in System Architectures
+- SYS5284 — Advanced Topics in AI Semiconductor Design Innovation
+- IIT6053 — Introduction to Intelligent Semiconductor
 
 [2025.09 - 2025.12] &nbsp; **2025 Fall Semester**<br>
  _(SYS2102, Undergraduate) &nbsp; Analog Circuit Lab_<br>
