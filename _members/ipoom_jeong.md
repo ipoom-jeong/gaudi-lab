@@ -43,7 +43,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 ## Invited Talks/Lectures
 
 - Software for Artificial Intelligence, Ewha Womans University, 2026
-- Yonsei University Intelligent Semiconductor IT Convergence Symposium, 2026
+- Intelligent Semiconductor IT Convergence Symposium, Yonsei University, 2026
 - Architectures for Artificial Intelligence, Seoul National University, 2025
 - IC Design Education Center (IDEC) Academy, Korea University, 2025
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2025
@@ -61,7 +61,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - [SYS5284, Graduate] &nbsp; Advanced Topics in AI Semiconductor Design Innovation
 - [IIT6053, Graduate] &nbsp; Introduction to Intelligent Semiconductor
 
-#### 2025 Fall 
+**2025 Fall**<br>
 - [SYS2102, Undergraduate] &nbsp; Analog Circuit Lab
 - [SYS3203, Undergraduate] &nbsp; Microprocessors Designs
 - [SYS6201, Graduate] &nbsp; Advanced Computer Architecture
