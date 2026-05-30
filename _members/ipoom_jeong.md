@@ -85,6 +85,27 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - EE Open Lab, Yonsei University, 2024
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
 
+
+{% include section.html %}
+
+## **Scholarships and Awards**
+
+[2021.11] &nbsp; **Encouragement Prize at the Outstanding Patent Award (SK Hynix)**<br>
+_Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same_
+_US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)_
+
+[2020.02] &nbsp; **Bronze Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
+_CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows_
+
+[2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
+_Department of Electrical and Electronic Engineering_
+
+[2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
+_Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
+
+[2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**
+
+
 {% include section.html %}
 
 ## **Teaching**
