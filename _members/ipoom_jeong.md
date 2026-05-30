@@ -101,7 +101,7 @@ _CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded
 _Department of Electrical and Electronic Engineering_
 
 [2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
-_Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
+&nbsp; _Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
 
 [2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**
 
