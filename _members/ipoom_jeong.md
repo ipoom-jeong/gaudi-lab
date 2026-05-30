@@ -98,7 +98,6 @@ _US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no
 _CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows_
 
 [2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
-_Department of Electrical and Electronic Engineering_
 
 [2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
 _Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
