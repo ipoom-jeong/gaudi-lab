@@ -87,22 +87,22 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 ## **Teaching**
 
 #### 2026
-- [SYS3104] &nbsp; **Computer Architecture Theory** &nbsp; (Spring, undergraduate)
-- [SYS4208] &nbsp; **Special Topics in System Architectures** &nbsp; (Spring, undergraduate)
-- [SYS5284] &nbsp; **Advanced Topics in AI Semiconductor Design Innovation** &nbsp; (Spring, graduate)
-- [IIT6053] &nbsp; **Introduction to Intelligent Semiconductor** &nbsp; (Spring, graduate)
+- [SYS3104] &nbsp; Computer Architecture Theory &nbsp; (Spring, undergraduate)
+- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
+- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Spring, graduate)
+- [IIT6053] &nbsp; Introduction to Intelligent Semiconductor &nbsp; (Spring, graduate)
 
 #### 2025
-- [SYS2102] &nbsp; **Analog Circuit Lab** &nbsp; (Fall, undergraduate)
-- [SYS3203] &nbsp; **Microprocessors Designs** &nbsp; (Fall, undergraduate)
-- [SYS6201] &nbsp; **Advanced Computer Architecture** &nbsp; (Fall, graduate)
-- [SYS4208] &nbsp; **Special Topics in System Architectures** &nbsp; (Spring, undergraduate)
-- [SYS6102] &nbsp; **Special Topics in Computer Systems** &nbsp; (Spring, graduate)
+- [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
+- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
+- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
+- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
+- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
 
 #### 2024 
-- [SYS3203] &nbsp; **Microprocessors Designs** &nbsp; (Fall, undergraduate)
-- [SYS6201] &nbsp; **Advanced Computer Architecture** &nbsp; (Fall, graduate)
-- [SYS2106] &nbsp; **Introduction to System Semiconductor** &nbsp; (Spring, undergraduate)
-- [SYS6102] &nbsp; **Special Topics in Computer Systems** &nbsp; (Spring, graduate)
+- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
+- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
+- [SYS2106] &nbsp; Introduction to System Semiconductor &nbsp; (Spring, undergraduate)
+- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
   
 For additional details, please visit the personal homepage.
