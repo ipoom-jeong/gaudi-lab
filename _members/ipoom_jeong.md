@@ -41,6 +41,7 @@ _Department of Electrical and Electronic Engineering, Yonsei University, Korea &
 [2010.03 - 2014.02] &nbsp; **Bachelor’s Degree**<br>
 _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
+{% include section.html %}
 
 ## **Activities**
 
@@ -83,6 +84,8 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - IC Design Education Center (IDEC) Academy, Korea University, 2024
 - EE Open Lab, Yonsei University, 2024
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
+
+{% include section.html %}
 
 ## **Teaching**
 
