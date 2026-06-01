@@ -537,7 +537,8 @@
   - System
   - Accelerator
   image: /images/publications/acc.png
-- title: Compiler and System Optimizations for Gem5 Simulator <br> [Best Paper Nomination]
+- id: doi:10.1109/ISPASS69572.2026.00024
+  title: Compiler and System Optimizations for Gem5 Simulator
   authors:
   - Haneul Park
   - Siddharth Agarwal
@@ -548,9 +549,15 @@
   - Nam Sung Kim
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software
     (ISPASS)
-  date: '2026-04-27'
+  date: '2026-04-26'
+  link: https://doi.org/hb58jg
   plugin: sources.py
   file: sources.yaml
+  tags:
+  - Simulation
+  - Profile-guided optimization
+  - Chiplet
+  image: /images/publications/simulation.png
 - title: 'DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures'
   authors:
   - Taeyoun Kim
