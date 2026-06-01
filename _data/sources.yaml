@@ -14,6 +14,7 @@
 #Compiler and System Optimizations for Gem5 Simulator
 - id: doi:10.1109/ISPASS69572.2026.00024
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
+  title: "Compiler and System Optimizations for Gem5 Simulator <br> [Best Paper Nomination]"
   authors:
     - Haneul Park
     - Siddharth Agarwal
