@@ -63,52 +63,6 @@ If you're interested in becoming part of our lab, please reach out to us at [_ip
   style="bare"
 %}
 
-
-<!--
-## News
-**[25.09]** **Jaehun Kim** has joined our lab as a PhD student. Welcome aboard!
-
-**[25.08]** **Suhyeok Oh** has joined our lab as an undergraduate research intern. Welcome aboard!
-
-**[25.07]** Our paper, *"Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading,"* has been accepted to the IEEE/ACM International Symposium on Microarchitecture **(MICRO, NRF BK21+ IF: 4)**. 
-
-**[25.07]** **Seonghun Jeong** has joined our lab as an undergraduate research intern. Welcome aboard!
-
-**[24.06]** Our paper, *"Time Series Machine Learning Models for Precise SSD Access Latency Prediction,"* has been accepted to the IEEE Computer Architecture Letters **(CAL, SCI(E) Q4)**. 
-
-**[24.05]** Our research proposal, *"AI Semiconductor Innovation Lab (Yonsei University),"* has been accepted by the Institute for Information & communication Technology Planning & evaluation **(IITP)**.
-
-**[24.05]** Our research proposal, *"Basic Research Laboratory for Energy-Efficient, General-Purpose Multi-Modal AI with Heterogeneous Computing Accelerators,"* has been accepted by the National Research Foundation of Korea **(NRF)**.
-
-**[25.03]** Our paper, *"A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
-
-**[25.03]** Our paper, *"UPP: Universal Predicate Pushdown to Smart Storage,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
-
-**[25.03]** **Yeonwoo Choi** has joined our lab as an undergraduate research intern. Welcome aboard!
-
-**[25.03]** Our paper, *"Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines,"* has been accepted to the IEEE International Symposium on Performance Analysis of Systems and Software **(ISPASS, NRF BK21+ IF: 1)** and nominated for **the Best Paper award**. 
-
-**[25.03]** **Junhwan Lee** has joined our lab as a PhD student. Welcome aboard!
-
-**[25.01]** **Jaehun Kim**, **Seongjun Hong**, **Eeyeon Goo** have joined our lab as undergraduate research interns. Welcome aboard!
-
-**[24.11]** Our paper, *"Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput,"* has been accepted to the IEEE International Symposium on High-Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
-
-**[24.11]** Our paper, *"Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction,"* has been accepted to the IEEE International Symposium on High-Performance Computer Architecture **(HPCA, NRF BK21+ IF: 4)**. 
-
-**[24.07]** Our paper, *"Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective,"* has been accepted to the IEEE/ACM International Symposium on Microarchitecture **(MICRO, NRF BK21+ IF: 4)**. 
-
-**[24.07]** **Junhwan Lee** has joined our lab as an undergraduate research intern. Welcome aboard!
-
-**[24.04]** Our research proposal, *"Development of CXL-based PNM Architecture and Simulation Platform for LLM Acceleration,"* has been accepted by the Korea Evaluation Institute of Industrial Technology **(KEIT)**.
-
-**[24.03]** Our paper, *"Intel Accelerators Ecosystem: An SoC-Oriented Perspective : Industry Product,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**. 
-
-**[24.03]** Our paper, *"HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing,"* has been accepted to the ACM/IEEE International Symposium on Computer Architecture **(ISCA, NRF BK21+ IF: 4)**.
-
-**[24.03]** **Dr. Ipoom Jeong** has joined the Department of System Semiconductor Engineering as an Assistant Professor, and **GAUDI Lab** is embarking on an exciting journey to explore innovative and intriguing computer architectures and systems!
--->
-
 {% include section.html %}
 
 ## Who We Are
@@ -154,7 +108,7 @@ Discover what our lab is all about! Our research focuses on high-performance and
 
 {%
   include feature.html
-  image="images/main/our_research.jpg"
+  image="images/main/our_research.png"
   link="research"
   title="Our Research"
   flip=true
