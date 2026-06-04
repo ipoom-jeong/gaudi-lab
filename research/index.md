@@ -9,9 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Research Topics
-
-Our research topics include, _but are not limited to_, the following areas:
+#### Our research topics include, _but are not limited to_, the following areas:
 
 
 ## **CPU Microarchitectures and Multi-core Architectures**
