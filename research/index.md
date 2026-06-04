@@ -24,7 +24,7 @@ The Central Processing Unit (CPU) serves as the foundation of modern computing s
 
 {% include feature.html image="images/research/cpu_research.png" flip=true text=text %}
 
-#### **Representative Publications**
+#### Representative Publications
 
 {% include citation.html lookup="Reconstructing Out-of-Order Issue Queue" style="rich" %}
 
@@ -43,7 +43,7 @@ Emerging applications with diverse computation patterns have driven the developm
 
 {% include feature.html image="images/research/gpu_research.png" flip=false text=text %}
 
-#### **Representative Publications**
+#### Representative Publications
 
 {% include citation.html lookup="Marching Page Walks: Batching and Concurrent Page" style="rich" %}
 
@@ -62,7 +62,7 @@ Compute Express Link (CXL) is an open standard for high-speed, efficient interco
 
 {% include feature.html image="images/research/cxl_research.png" flip=false text=text %}
 
-#### **Representative Publications**
+#### Representative Publications
 
 {% include citation.html lookup="Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective" style="rich" %}
 
@@ -81,7 +81,7 @@ Modern computer systems have become larger and more complex, underscoring the ne
 
 {% include feature.html image="images/research/computer_system.png" flip=false text=text %}
 
-#### **Representative Publications**
+#### Representative Publications
 
 {% include citation.html lookup="A4: Microarchitecture-Aware LLC Management" style="rich" %}
 
@@ -100,7 +100,7 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 
 {% include feature.html image="images/research/smart_ssd.png" flip=true text=text %}
 
-#### **Representative Publications**
+#### Representative Publications
 
 {% include citation.html lookup="UPP: Universal Predicate Pushdown to Smart Storage" style="rich" %}
 
