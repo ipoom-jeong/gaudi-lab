@@ -28,11 +28,6 @@
   description: "Our paper, <i>Compiler and System Optimizations for Gem5 Simulator</i>, has been accepted to the IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS, NRF BK21+ IF: 1) and nominated for the Best Paper award."
   url: 
   
-- title: "Newcomer"
-  date: 2026-01-05
-  description: "Jaesik Jang has joined our lab as an undergraduate research intern. Welcome aboard!"
-  url: 
-  
 - title: "Award (2025 Samsung Dreaming Star)"
   date: 2025-11-01
   description: "Eeyeon Goo and Yeonwoo Choi won first place at the 2025 Samsung Dreaming Star (group poster presentation) for their study, <i>Scalable Rename Width without Complexity Overhead</i>. Big congratulations!"
@@ -105,7 +100,7 @@
 
 - title: "Newcomers"
   date: 2025-01-01
-  description: "Jaehun Kim, Seongjun Hong, Eeyeon Goo have joined our lab as undergraduate research interns. Welcome aboard!"
+  description: "Jaehun Kim and Eeyeon Goo have joined our lab as undergraduate research interns. Welcome aboard!"
   url: 
 
 - title: "New Publication (HPCA 2025)"
