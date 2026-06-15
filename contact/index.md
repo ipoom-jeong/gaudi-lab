@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-check" %}Before You Contact
 
-Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out.
+Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out ([GAUDI Framework](/images/GAUDI_Framework.pdf)).
 
 ---
 
