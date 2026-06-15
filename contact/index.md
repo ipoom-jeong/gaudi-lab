@@ -10,7 +10,7 @@ nav:
 Join <strong>GAUDI Lab</strong> — please follow the guidelines below before reaching out.
 
 {% include button.html
-  text="GAUDI Framework"
+  text="GAUDI Framework (by Yeonwoo Choi, Teacher's Day, 2026)"
   link="/images/GAUDI_Framework.pdf"
   icon="fa-solid fa-file-pdf"
   style="bare"
