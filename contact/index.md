@@ -33,7 +33,7 @@ Please review the **RESEARCH** section and specify:
 
 #### 2. Select Your Application Track
 
-Applicants must apply through one of the following graduate programs:
+Applicants must apply through one of the following graduate programs (MS, PhD, and Integrated MS-PhD):
 
 - [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php) <small>(시스템반도체공학과, 삼성전자 대학원 계약학과)</small>  
   This program is jointly established with Samsung Electronics to cultivate world-class system semiconductor engineers.  
