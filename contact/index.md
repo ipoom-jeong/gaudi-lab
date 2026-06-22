@@ -35,6 +35,10 @@ Please review the **RESEARCH** section and specify:
 
 Applicants must apply through one of the following graduate programs (MS, PhD, and Integrated MS-PhD):
 
+- [**Department of AX Semiconductor Engineering**] <small>(AX반도체공학과, 일반대학원)</small>  
+  This program is established to cultivate AX semiconductor professionals capable of applying artificial intelligence across the entire semiconductor lifecycle, from design and manufacturing to system optimization.
+  It provides integrated education in AI, data analytics, semiconductor devices, circuits, architecture, and manufacturing, combined with industry-driven projects and entrepreneurship training to foster future leaders in the AI-powered semiconductor industry.
+  
 - [**Department of System Semiconductor Engineering**](https://system.yonsei.ac.kr/sub2_2_a.php) <small>(시스템반도체공학과, 삼성전자 대학원 계약학과)</small>  
   This program is jointly established with Samsung Electronics to cultivate world-class system semiconductor engineers.  
   It provides comprehensive education spanning semiconductor devices, circuits, architecture, and system software, covering the full stack from device-level fundamentals to system-level design.   
