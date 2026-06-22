@@ -35,7 +35,7 @@ Please review the **RESEARCH** section and specify:
 
 Applicants must apply through one of the following graduate programs (MS, PhD, and Integrated MS-PhD):
 
-- [**Department of AX Semiconductor Engineering**] <small>(AX반도체공학과, 일반대학원)</small>  
+- **Department of AX Semiconductor Engineering** <small>(AX반도체공학과, 일반대학원)</small>  
   This program is established to cultivate AX semiconductor professionals capable of applying artificial intelligence across the entire semiconductor lifecycle, from design and manufacturing to system optimization.
   It provides integrated education in AI, data analytics, semiconductor devices, circuits, architecture, and manufacturing, combined with industry-driven projects and entrepreneurship training to foster future leaders in the AI-powered semiconductor industry.
   
