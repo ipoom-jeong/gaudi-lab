@@ -65,7 +65,7 @@
         </span>
         
         {% if citation.tier %}
-          <span class="citation-tier {{ citation.tier }}">
+          <span class="citation-tier {{ citation.tier | downcase }}">
             {{ citation.tier }}
           </span>
         {% endif %}
