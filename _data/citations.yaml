@@ -40,7 +40,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - CXL
   - System
@@ -106,7 +106,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - SSD
   - Modeling
@@ -206,7 +206,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - GPU
   - Microarchitecture
@@ -227,7 +227,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - NPU
   - Accelerator
@@ -297,7 +297,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - CPU
   - Microarchitecture
@@ -317,7 +317,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - GPU
   - Microarchitecture
@@ -355,7 +355,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - GPU
   - Microarchitecture
@@ -396,7 +396,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
-  tier: sci
+  tier: scie
   tags:
   - CPU
   - Microarchitecture
