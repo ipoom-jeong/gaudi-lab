@@ -133,7 +133,7 @@ Explore detailed descriptions of the cutting-edge research and innovative initia
 
 {%
   include feature.html
-  image="images/main/our_projects.jpg"
+  image="images/main/our_projects.png"
   link="projects"
   title="Our Projects"
   style="bare"
