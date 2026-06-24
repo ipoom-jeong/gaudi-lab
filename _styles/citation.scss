@@ -74,18 +74,27 @@ $wrap: 800px;
 
 .citation-tier {
   display: inline-block;
-  margin-left: 8px;
-  padding: 2px 8px;
+  margin-left: 6px;
+  padding: 2px 7px;
   border-radius: 999px;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 700;
+  line-height: 1.2;
   text-transform: uppercase;
   letter-spacing: 0.3px;
+  color: white;
 }
 
 .citation-tier.top-tier {
   background: #b91c1c;
-  color: white;
+}
+
+.citation-tier.major {
+  background: #1d4ed8;
+}
+
+.citation-tier.sci {
+  background: #047857;
 }
 
 .citation-description {
