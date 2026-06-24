@@ -15,6 +15,7 @@
 - id: doi:10.1109/ISPASS69572.2026.00024
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   title: "Compiler and System Optimizations for Gem5 Simulator <br> [Best Paper Nomination]"
+  tier: major
   authors:
     - Haneul Park
     - Siddharth Agarwal
@@ -32,6 +33,7 @@
 #REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabri
 - id: doi:10.1109/LCA.2025.3621612
   publisher: IEEE Computer Architecture Letters (CAL)
+  tier: sci
   authors:
     - Minjae Kim
     - Jiwan Kim
@@ -60,6 +62,7 @@
 #Time Series Machine Learning Models for Precise SSD Access Latency Prediction
 - id: doi:10.1109/LCA.2025.3581580
   publisher: IEEE Computer Architecture Letters (CAL)
+  tier: sci
   authors:
     - Bikrant Das Sharma
     - Houxiang Ji
@@ -74,6 +77,7 @@
 #A4: Microarchitecture-Aware LLC Management for Datacenter Servers with Emerging I/O Devices
 - id: doi:10.1145/3695053.3731114
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tier: top-tier
   authors:
     - Haneul Park
     - Jiaqi Lou
@@ -94,6 +98,7 @@
 - id: 10.1109/ISPASS64960.2025.00021
   publisher: IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)
   title: "Intel® In-Memory Analytics Accelerator: Performance Characterization and Guidelines <br> [Best Paper Honorable Mention | Distinguished Artifact Award]"
+  tier: major
   authors:
     - Jaeyoung Kang
     - Qirong Xia
@@ -109,6 +114,7 @@
 #UPP: Universal Predicate Pushdown to Smart Storage
 - id: doi:10.1145/3695053.3731005
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tier: top-tier
   tags:
     - SSD
     - In-Storage Processing
@@ -118,6 +124,7 @@
 # Marching Page Walks: Batching and Concurrent Page Table Walks for Enhancing GPU Throughput
 - id: doi:10.1109/HPCA61900.2025.00123
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  tier: top-tier
   tags:
     - GPU
     - Microarchitecture
@@ -127,6 +134,7 @@
 # Warped-Compaction: Maximizing GPU Register File Bandwidth Utilization via Operand Compaction
 - id: doi:10.1109/HPCA61900.2025.00106
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  tier: top-tier
   authors:
     - Eunbi Jeong
     - Ipoom Jeong\*
@@ -141,6 +149,7 @@
 # Demystifying a CXL Type-2 Device: A Heterogeneous Cooperative Computing Perspective
 - id: doi:10.1109/MICRO61859.2024.00110
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tier: top-tier
   tags:
     - CXL
     - System
@@ -150,6 +159,7 @@
 # HAL: Hardware-assisted Load Balancing for Energy-efficient SNIC-Host Cooperative Computing
 - id: doi:10.1109/ISCA59077.2024.00051
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tier: top-tier
   tags:
     - Network
     - System
@@ -160,6 +170,7 @@
 # Intel Accelerators Ecosystem: An SoC-Oriented Perspective: Industry Product
 - id: doi:10.1109/ISCA59077.2024.00066
   publisher: ACM/IEEE International Symposium on Computer Architecture (ISCA)
+  tier: top-tier
   tags:
     - CPU
     - System
@@ -169,6 +180,7 @@
 # Triple-A: Early Operand Collector Allocation for Maximizing GPU Register Bank Utilization
 - id: doi:10.1109/LES.2023.3307622
   publisher: IEEE Embedded Systems Letters
+  tier: sci
   tags:
     - GPU
     - Microarchitecture
@@ -178,6 +190,7 @@
 # TAROT: A CXL SmartNIC-Based Defense Against Multi-bit Errors by Row-Hammer Attacks
 - id: doi:10.1145/3620666.3651325
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  tier: top-tier
   tags:
     - CXL
     - System
@@ -188,6 +201,7 @@
 # A Quantitative Analysis and Guidelines of Data Streaming Accelerator in Modern Intel Xeon Scalable Processors
 - id: doi:10.1145/3620665.3640401
   publisher: ACM Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)
+  tier: top-tier
   tags:
     - CPU
     - System
@@ -197,6 +211,7 @@
 # ScaleCache: A Scalable Page Cache for Multiple Solid-State Drives
 - id: doi:10.1145/3627703.3629588
   publisher: ACM SIGOPS European Conference on Computer Systems (EuroSys)
+  tier: major
   tags:
     - SSD
     - OS
@@ -207,6 +222,7 @@
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A Convertible Neural Processor Supporting Adaptive Quantization for Real-Time Neural Networks
   publisher: Journal of Systems Architecture
+  tier: sci
   tags:
     - NPU
     - Accelerator
@@ -215,6 +231,7 @@
 # Demystifying CXL Memory with Genuine CXL-Ready Systems and Devices
 - id: doi:10.1145/3613424.3614256
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tier: top-tier
   tags:
     - CXL
     - System
@@ -224,6 +241,7 @@
 # INTERPRET: Inter-Warp Register Reuse for GPU Tensor Core
 - id: doi:10.1109/pact58117.2023.00033
   publisher: ACM International Conference on Parallel Architectures And Compilation Techniques (PACT)
+  tier: top-tier
   tags:
     - GPU
     - Microarchitecture
@@ -232,6 +250,7 @@
   
 # LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads
 - id: doi:10.1109/LCA.2023.3290427
+  tier: sci
   tags:
     - CPU
     - Microarchitecture
@@ -241,6 +260,7 @@
   
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
+  tier: sci
   tags:
     - GPU
     - Microarchitecture
@@ -250,6 +270,7 @@
 # Reconstructing Out-of-Order Issue Queue
 - id: doi:10.1109/micro56248.2022.00023
   publisher: IEEE/ACM International Symposium on Microarchitecture (MICRO)
+  tier: top-tier
   tags:
     - CPU
     - Microarchitecture
@@ -258,6 +279,7 @@
 
 # TEA-RC: Thread Context-Aware Register Cache for GPUs
 - id: doi:10.1109/ACCESS.2022.3196149
+  tier: sci
   tags:
     - GPU
     - Microarchitecture
@@ -267,6 +289,7 @@
 # CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows
 - id: doi:10.1109/hpca47549.2020.00039
   publisher: IEEE International Symposium on High-Performance Computer Architecture (HPCA)
+  tier: top-tier
   tags:
     - CPU
     - Microarchitecture
@@ -276,6 +299,7 @@
 
 # OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming
 - id: doi:10.1109/TC.2019.2936557
+  tier: sci
   tags:
     - CPU
     - Microarchitecture
