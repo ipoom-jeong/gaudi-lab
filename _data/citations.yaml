@@ -40,6 +40,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - CXL
   - System
@@ -63,6 +64,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CPU
   - Microarchitecture
@@ -85,6 +87,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - SSD
   - In-Storage Processing
@@ -103,6 +106,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - SSD
   - Modeling
@@ -129,6 +133,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CPU
   - System
@@ -156,6 +161,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CXL
   - System
@@ -180,6 +186,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: major
   tags:
   - SSD
   - OS
@@ -199,6 +206,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - GPU
   - Microarchitecture
@@ -219,6 +227,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - NPU
   - Accelerator
@@ -246,6 +255,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CXL
   - System
@@ -266,6 +276,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - GPU
   - Microarchitecture
@@ -286,6 +297,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - CPU
   - Microarchitecture
@@ -305,6 +317,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - GPU
   - Microarchitecture
@@ -323,6 +336,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CPU
   - Microarchitecture
@@ -341,6 +355,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - GPU
   - Microarchitecture
@@ -361,6 +376,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CPU
   - Microarchitecture
@@ -380,6 +396,7 @@
   orcid: 0000-0001-7513-2858
   plugin: sources.py
   file: sources.yaml
+  tier: sci
   tags:
   - CPU
   - Microarchitecture
@@ -421,6 +438,7 @@
   link: https://doi.org/gt6m8t
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - Network
   - System
@@ -447,6 +465,7 @@
   link: https://doi.org/gt6m8v
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CPU
   - System
@@ -472,6 +491,7 @@
   link: https://doi.org/g8t3wn
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - CXL
   - System
@@ -491,6 +511,7 @@
   link: https://doi.org/g9fbzf
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - GPU
   - Microarchitecture
@@ -512,6 +533,7 @@
   link: https://doi.org/g9fcv5
   plugin: sources.py
   file: sources.yaml
+  tier: top-tier
   tags:
   - GPU
   - Microarchitecture
@@ -532,6 +554,7 @@
   link: https://doi.org/g9wsnm
   plugin: sources.py
   file: sources.yaml
+  tier: major
   tags:
   - CPU
   - System
@@ -553,6 +576,7 @@
   link: https://doi.org/hb58jg
   plugin: sources.py
   file: sources.yaml
+  tier: major
   tags:
   - Simulation
   - Profile-guided optimization
