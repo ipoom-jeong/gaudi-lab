@@ -33,7 +33,7 @@
 #REDIT: Redirection-Enabled Memory-Side Directory Architecture for CXL Memory Fabri
 - id: doi:10.1109/LCA.2025.3621612
   publisher: IEEE Computer Architecture Letters (CAL)
-  tier: sci
+  tier: scie
   authors:
     - Minjae Kim
     - Jiwan Kim
@@ -62,7 +62,7 @@
 #Time Series Machine Learning Models for Precise SSD Access Latency Prediction
 - id: doi:10.1109/LCA.2025.3581580
   publisher: IEEE Computer Architecture Letters (CAL)
-  tier: sci
+  tier: scie
   authors:
     - Bikrant Das Sharma
     - Houxiang Ji
@@ -180,7 +180,7 @@
 # Triple-A: Early Operand Collector Allocation for Maximizing GPU Register Bank Utilization
 - id: doi:10.1109/LES.2023.3307622
   publisher: IEEE Embedded Systems Letters
-  tier: sci
+  tier: scie
   tags:
     - GPU
     - Microarchitecture
@@ -222,7 +222,7 @@
 - id: doi:10.1016/j.sysarc.2023.103025
   title: A Convertible Neural Processor Supporting Adaptive Quantization for Real-Time Neural Networks
   publisher: Journal of Systems Architecture
-  tier: sci
+  tier: scie
   tags:
     - NPU
     - Accelerator
@@ -250,7 +250,7 @@
   
 # LADIO: Leakage-Aware Direct I/O for I/O-Intensive Workloads
 - id: doi:10.1109/LCA.2023.3290427
-  tier: sci
+  tier: scie
   tags:
     - CPU
     - Microarchitecture
@@ -260,7 +260,7 @@
   
 # CASH-RF: A Compiler-Assisted Hierarchical Register File in GPUs
 - id: doi:10.1109/LES.2022.3163749
-  tier: sci
+  tier: scie
   tags:
     - GPU
     - Microarchitecture
@@ -279,7 +279,7 @@
 
 # TEA-RC: Thread Context-Aware Register Cache for GPUs
 - id: doi:10.1109/ACCESS.2022.3196149
-  tier: sci
+  tier: scie
   tags:
     - GPU
     - Microarchitecture
@@ -299,7 +299,7 @@
 
 # OverCome: Coarse-Grained Instruction Commit with Handover Register Renaming
 - id: doi:10.1109/TC.2019.2936557
-  tier: sci
+  tier: scie
   tags:
     - CPU
     - Microarchitecture
