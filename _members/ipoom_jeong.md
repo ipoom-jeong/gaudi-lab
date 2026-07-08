@@ -74,6 +74,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - On-chip Accelerators in 4th Gen Intel® Xeon® Scalable Processors: Features, Performance, Use Cases, and Future! (ISCA, 2023)
 
 #### Invited Talks/Lectures
+- IC Design Education Center (IDEC) Academy, Korea University, 2026
 - Software for Artificial Intelligence, Ewha Womans University, 2026
 - Intelligent Semiconductor IT Convergence Symposium, Yonsei University, 2026
 - Architectures for Artificial Intelligence, Seoul National University, 2025
