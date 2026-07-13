@@ -47,6 +47,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 #### Program Committee
 - IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027
+- Workshop on Low-Power Nanoelectronics and Integration Technology, IEIE, 2026
 - IEEE/ACM International Symposium on Computer Architecture (ISCA), 2026
 
 #### Organizing Committee
