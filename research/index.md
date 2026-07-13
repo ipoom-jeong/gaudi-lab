@@ -108,7 +108,7 @@ Data-centric applications encounter significant bottlenecks in transferring larg
 
 {% include section.html %}
 
-## Collaboration
+## **Collaboration**
 
 {%
   include figure.html
