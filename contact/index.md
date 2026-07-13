@@ -76,7 +76,7 @@ Applicants are expected to show initiative and a strong understanding of the lab
 **GAUDI Lab:** Room D506, Engineering Building IV, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea <br>
 **PI Office:** Room B171B-2, Engineering Research Park, Yonsei University, 50, Yonsei-ro, Seodaemun-gu, Seoul, Republic of Korea
 
-If you're interested in our lab, please contact us in advance at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
+If you're interested in becoming part of our lab, please reach out to us at [_ipoom@yonsei.ac.kr_](mailto:ipoom@yonsei.ac.kr).
 
 {%
   include button.html
