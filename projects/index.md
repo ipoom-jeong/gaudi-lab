@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## On-going Projects
+## **On-going Projects**
 
 #### **초저지연 온디바이스 AI SoC에서의 CPU-NPU 간 성능 간섭 완화를 위한 간섭 인지형 마이크로아키텍처 및 SoC 자원 관리 연구 <small>— Interference-Aware Microarchitecture and SoC-Level Resource Management for Mitigating CPU-NPU Contention in Ultra-Low-Latency On-Device AI SoCs</small>**
 
@@ -98,7 +98,7 @@ This project develops a CXL-based processing-near-memory (PNM) architecture and 
 
 {% include section.html %}
 
-## Past Projects
+## **Past Projects**
 
 ### **데이터 플로우 구조 기반 PIM의 실행 및 프로그래밍 모델 개발 <small>— Development of PIM Software Architecture based on Data-Flow Computing</small>**
 
@@ -119,7 +119,7 @@ This project develops core computing architectures and software technologies for
 
 {% include section.html %}
 
-## Past Projects (Before Joining Yonsei SSE)
+## **Past Projects (Before Joining Yonsei SSE)**
 
 {% capture text %}
 
