@@ -9,7 +9,7 @@ nav:
 
 {% include section.html %}
 
-## Current Members
+## **Current Members**
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html  data="members"  component="portrait"  filters="role: current-postdoc" %}
@@ -25,7 +25,7 @@ nav:
 
 {% include section.html %}
 
-## Alumni
+## **Alumni**
 
 {% include list.html  data="members"  component="portrait"  filters="role: alum-postdoc" %}
 {% include list.html  data="members"  component="portrait"  filters="role: alum-phd" %}
