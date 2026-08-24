@@ -318,7 +318,18 @@
   image: /images/publications/cpu.png
 
 
-# manually provide all citation details      
+# manually provide all citation details     
+- title: "Non-Speculative Redundant Load Elimination"
+  authors:
+    - Minchan Kim
+    - Ho Je Lee
+    - Jaewon Kwon
+    - Mingu Jung
+    - Ipoom Jeong
+    - Won Woo Ro
+  publisher: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
+  date: 2026-10-31
+
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
     - Taeyoun Kim
