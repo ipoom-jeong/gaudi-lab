@@ -329,6 +329,11 @@
     - Won Woo Ro
   publisher: "IEEE/ACM International Symposium on Microarchitecture (MICRO)"
   date: 2026-10-31
+  tier: top-tier
+  tags:
+    - CPU
+    - Microarchitecture
+  image: /images/publications/cpu.png
 
 - title: "DART: Dynamic Resource-Aware Tiling for Multi-PIM Architectures"
   authors:
