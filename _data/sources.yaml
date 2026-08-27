@@ -354,6 +354,11 @@
     - 정이품\*
   publisher: 정보과학회 학회지, 제 43권, 제 4호, pp.29-36
   date: 2025-04-01
+  tags:
+    - CPU
+    - Microarchitecture
+    - Survey
+  image: /images/publications/cpu.png
   
 - title: A Multi-DNN Acceleration Architecture for Balanced QoS and Throughput
   authors:
@@ -365,6 +370,11 @@
     - Won Woo Ro
   publisher: International Conference on Electronics, Information, and Communication (ICEIC)
   date: 2024-01-28
+  tags:
+    - NPU
+    - Accelerator
+    - Task scheduling
+  image: /images/publications/acc.png
 
 - title: Constructing Resilient Region in Dynamic Optimization Systems via Dynamic Adjustment of Bias Thresholds
   authors:
@@ -372,6 +382,11 @@
     - Won Woo Ro
   publisher: IEEE International Conference on Consumer Electronics Asia (ICCE-ASIA)
   date: 2018-06-01
+  tags:
+    - CPU
+    - Microarchitecture
+    - Dynamic optimization
+  image: /images/publications/cpu.png
 
 - title: Dynamic Warp Scheduler Selection Policy Using Linear Regression for GPUs
   authors:
@@ -382,6 +397,11 @@
     - Won Woo Ro
   publisher: International Conference on Electronics, Information, and Communication (ICEIC)
   date: 2017-01-01
+  tags:
+    - GPU
+    - Microarchitecture
+    - Warp scheduling
+  image: /images/publications/gpu.png
 
 - title: Heterogeneous Core Microarchitecture with Functional Unit Gating for High Energy Efficiency
   authors:
@@ -390,6 +410,11 @@
     - Won Woo Ro
   publisher: Annual Summer Conference of IEIE
   date: 2016-06-01
+  tags:
+    - CPU
+    - Microarchitecture
+    - Dynamic scheduling
+  image: /images/publications/cpu.png
 
 - title: Analyzing Development Trends and Performance/Power Characteristics of Multi-Core Processors
   authors:
@@ -397,6 +422,11 @@
     - Won Woo Ro
   publisher: Annual Summer Conference of IEIE
   date: 2016-06-01
+  tags:
+    - CPU
+    - Microarchitecture
+    - Survey
+  image: /images/publications/cpu.png
 
 - title: Exploiting Back-End Fusion in Multi-Core Processors
   authors:
@@ -405,3 +435,8 @@
     - Won Woo Ro
   publisher: Annual Fall Conference of KIPS
   date: 2014-11-01
+  tags:
+    - CPU
+    - Microarchitecture
+    - Dynamic scheduling
+  image: /images/publications/cpu.png
