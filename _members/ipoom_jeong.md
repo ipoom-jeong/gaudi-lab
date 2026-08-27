@@ -113,7 +113,6 @@ _Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
 
 #### 2026
 - [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
-- [SYS3108] &nbsp; Digital Design Experiment &nbsp; (Fall, undergraduate)
 - [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
 - [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Fall, graduate)
 - [SYS6284] &nbsp; Advanced SoC-Based On-Device AI System Design &nbsp; (Fall, graduate)
