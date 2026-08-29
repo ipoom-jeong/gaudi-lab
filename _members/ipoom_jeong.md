@@ -97,17 +97,17 @@ _Memory Device Including a Plurality of Area Having Different Refresh Periods, M
 _US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)_
 
 [2020.02] &nbsp; **Bronze Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
-_Ipoom Jeong, Seihoon Park_<br>
 _CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows_
+_Ipoom Jeong, Seihoon Park_<br>
 
 [2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
 _Department of Electrical and Electronic Engineering_
 
 [2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
-_Ipoom Jeong, Changmin Lee_<br>
 _Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
+_Ipoom Jeong, Changmin Lee_<br>
 
-[2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**
+[2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**<br>
 _Korea Student Aid Foundation_
 
 {% include section.html %}
