@@ -93,7 +93,7 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 ## **Scholarships and Awards**
 
 [2021.11] &nbsp; **Encouragement Prize at the Outstanding Patent Award (SK Hynix)**<br>
-_Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same_
+_Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same_<br>
 _US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)_
 
 [2020.02] &nbsp; **Bronze Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
