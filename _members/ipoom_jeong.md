@@ -43,7 +43,59 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 {% include section.html %}
 
-## **Activities**
+
+
+
+{% include section.html %}
+
+## **Scholarships and Awards**
+
+[2021.11] &nbsp; **Encouragement Prize at the Outstanding Patent Award (SK Hynix)**<br>
+_Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same_<br>
+_US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)_
+
+[2020.02] &nbsp; **Bronze Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
+_CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows_
+_Ipoom Jeong, Seihoon Park_<br>
+
+[2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
+_Department of Electrical and Electronic Engineering_
+
+[2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
+_Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
+_Ipoom Jeong, Changmin Lee_<br>
+
+[2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**<br>
+_Korea Student Aid Foundation_
+
+{% include section.html %}
+
+## **Teaching**
+
+#### 2026 Spring and Fall Semesters
+- [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
+- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
+- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Fall, graduate)
+- [SYS6284] &nbsp; Advanced SoC-Based On-Device AI System Design &nbsp; (Fall, graduate)
+- [SYS3104] &nbsp; Computer Architecture Theory &nbsp; (Spring, undergraduate)
+- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
+- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Spring, graduate)
+- [IIT6053] &nbsp; Introduction to Intelligent Semiconductor &nbsp; (Spring, graduate)
+
+#### 2025 Spring and Fall Semesters
+- [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
+- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
+- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
+- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
+- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
+
+#### 2024 Spring and Fall Semesters
+- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
+- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
+- [SYS2106] &nbsp; Introduction to System Semiconductor &nbsp; (Spring, undergraduate)
+- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
+
+## **Professional Service**
 
 #### Program Committee
 - IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2027
@@ -86,55 +138,3 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 - IC Design Education Center (IDEC) Academy, Korea University, 2024
 - EE Open Lab, Yonsei University, 2024
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
-
-
-{% include section.html %}
-
-## **Scholarships and Awards**
-
-[2021.11] &nbsp; **Encouragement Prize at the Outstanding Patent Award (SK Hynix)**<br>
-_Memory Device Including a Plurality of Area Having Different Refresh Periods, Memory Controller Controlling the Same and Memory System Including the Same_<br>
-_US patent, Registered in 2022.03.15 (Application no: 16/988478, Registration no: 11276452)_
-
-[2020.02] &nbsp; **Bronze Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
-_CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows_
-_Ipoom Jeong, Seihoon Park_<br>
-
-[2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
-_Department of Electrical and Electronic Engineering_
-
-[2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
-_Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
-_Ipoom Jeong, Changmin Lee_<br>
-
-[2010.03 - 2014.02] &nbsp; **National Scholarship for Science and Engineering (KOSAF)**<br>
-_Korea Student Aid Foundation_
-
-{% include section.html %}
-
-## **Teaching**
-
-#### 2026
-- [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
-- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
-- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Fall, graduate)
-- [SYS6284] &nbsp; Advanced SoC-Based On-Device AI System Design &nbsp; (Fall, graduate)
-- [SYS3104] &nbsp; Computer Architecture Theory &nbsp; (Spring, undergraduate)
-- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
-- [SYS5284] &nbsp; Advanced Topics in AI Semiconductor Design Innovation &nbsp; (Spring, graduate)
-- [IIT6053] &nbsp; Introduction to Intelligent Semiconductor &nbsp; (Spring, graduate)
-
-#### 2025
-- [SYS2102] &nbsp; Analog Circuit Lab &nbsp; (Fall, undergraduate)
-- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
-- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
-- [SYS4208] &nbsp; Special Topics in System Architectures &nbsp; (Spring, undergraduate)
-- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
-
-#### 2024 
-- [SYS3203] &nbsp; Microprocessors Designs &nbsp; (Fall, undergraduate)
-- [SYS6201] &nbsp; Advanced Computer Architecture &nbsp; (Fall, graduate)
-- [SYS2106] &nbsp; Introduction to System Semiconductor &nbsp; (Spring, undergraduate)
-- [SYS6102] &nbsp; Special Topics in Computer Systems &nbsp; (Spring, graduate)
-  
-For additional details, please visit the personal homepage.
