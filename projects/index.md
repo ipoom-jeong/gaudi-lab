@@ -139,7 +139,7 @@ This project develops core computing architectures and software technologies for
 ### **Developing CXL-Based Accelerator and Memory Expansion Device <br> (2020.03 - 2020.08)**
 
 - Research and development project at Samsung Electronics
-- D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
+- D﻿eveloping CXL (Compute Express Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
 
 {% endcapture %}
 
@@ -151,7 +151,7 @@ This project develops core computing architectures and software technologies for
 ### **Developing CPU-GPU Heterogeneous Computing Simulation Framework <br> (2020.03 - 2020.08)**
 
 - Research project at Yonsei University joint with SK Hynix 
-- Developing a simulation framework for CPU-GPU heterogeneous computing that supports processing of the state-of-the-art deep learning algorithms
+- Developing a simulation framework for CPU-GPU heterogeneous computing for deep learning applications
 
 {% endcapture %}
 
@@ -187,7 +187,7 @@ This project develops core computing architectures and software technologies for
 ### **Constructing a Verification Environment for Data Plane Acceleration and Performance Analysis <br> (2015.07 - 2015.12)**
 
 - Research project at Yonsei University joint with ETRI 
-- Developing and verifying optimization techniques for improving data plane acceleration in a virtualized network environment
+- Developing and verifying optimization techniques for data plane acceleration in a virtualized network environment
 
 {% endcapture %}
 
@@ -199,7 +199,7 @@ This project develops core computing architectures and software technologies for
 ### **Developing Low-Power Mobile Computing Platform <br> (2014.07 - 2017.11)**
 
 - Research project at Yonsei University joint with LG Electronics 
-- Inter- and Intra-core optimization techniques for higher energy efficiency of mobile APs (Application Processors)
+- Developing inter- and intra-core optimization techniques for higher energy efficiency of mobile APs (Application Processors)
 
 {% endcapture %}
 
