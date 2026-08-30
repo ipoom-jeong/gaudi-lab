@@ -43,11 +43,6 @@ _School of Electrical and Electronic Engineering, Yonsei University, Korea_
 
 {% include section.html %}
 
-
-
-
-{% include section.html %}
-
 ## **Scholarships and Awards**
 
 [2021.11] &nbsp; **Encouragement Prize at the Outstanding Patent Award (SK Hynix)**<br>
@@ -138,3 +133,5 @@ _Korea Student Aid Foundation_
 - IC Design Education Center (IDEC) Academy, Korea University, 2024
 - EE Open Lab, Yonsei University, 2024
 - SoC Conference, Institute of Electronics and Information Engineers (IEIE), 2024
+
+{% include section.html %}
