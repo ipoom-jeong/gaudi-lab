@@ -150,8 +150,8 @@ This project develops core computing architectures and software technologies for
 
 ### **Developing CPU-GPU Heterogeneous Computing Simulation Framework <br> (2020.03 - 2020.08)**
 
-- Research and development project at Samsung Electronics 
-- D﻿eveloping CXL (Compute eXpress Link) Type 2 accelerator and Type 3 memory expansion device by leveraging NAND flash
+- Research project at Yonsei University joint with SK Hynix 
+- Developing a simulation framework for CPU-GPU heterogeneous computing that supports processing of the state-of-the-art deep learning algorithms
 
 {% endcapture %}
 
