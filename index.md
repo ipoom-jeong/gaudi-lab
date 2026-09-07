@@ -6,18 +6,17 @@
     <div class="home-hero__copy">
       <p class="home-eyebrow">GAUDI LAB · YONSEI UNIVERSITY</p>
       <h1>Architecting the future<br>of intelligent computing.</h1>
+      <p class="home-fullname">General-Purpose Architectures with Unleashed Design Innovations</p>
       <p class="home-lead">We build high-performance, energy-efficient computer architectures—from CPU and GPU microarchitecture to heterogeneous AI systems, CXL, and near-data processing.</p>
       <div class="home-actions">
         <a class="home-button home-button--primary" href="{{ 'research' | relative_url }}">Explore our research <span aria-hidden="true">→</span></a>
         <a class="home-button" href="{{ 'blogs' | relative_url }}">View publications</a>
       </div>
     </div>
-    <div class="home-hero__visual" aria-label="GAUDI Lab research spectrum">
-      <div class="research-orbit research-orbit--cpu"><span>CPU</span><small>Microarchitecture</small></div>
-      <div class="research-orbit research-orbit--gpu"><span>GPU</span><small>Acceleration</small></div>
-      <div class="research-orbit research-orbit--system"><span>Systems</span><small>Orchestration</small></div>
-      <div class="research-orbit research-orbit--memory"><span>Memory</span><small>CXL · PIM</small></div>
-      <div class="research-core"><strong>GAUDI</strong><small>Architecture × Systems</small></div>
+    <div class="home-brandmark" aria-label="GAUDI Lab logo">
+      <div class="home-brandmark__halo"></div>
+      <img src="{{ 'images/GAUDI_logo.svg' | relative_url }}" alt="GAUDI Lab logo combining Antoni Gaudí's profile with computer circuit traces">
+      <div class="home-brandmark__caption"><strong>Art × Architecture × Computing</strong><span>Organic imagination, engineered systems</span></div>
     </div>
   </div>
 </div>
