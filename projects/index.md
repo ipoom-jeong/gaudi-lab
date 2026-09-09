@@ -148,7 +148,7 @@ This project develops core computing architectures and software technologies for
 
 {% capture text %}
 
-### **Developing CPU-GPU Heterogeneous Computing Simulation Framework <br> (2020.03 - 2020.08)**
+### **Developing CPU-GPU Heterogeneous Computing Simulation Framework <br> (2019.02 - 2020.02)**
 
 - Research project at Yonsei University joint with SK Hynix 
 - Developing a simulation framework for CPU-GPU heterogeneous computing for deep learning applications
