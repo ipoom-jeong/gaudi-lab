@@ -56,7 +56,7 @@ _Ipoom Jeong, Seihoon Park_<br>
 [2019.11] &nbsp; **Excellent Graduate Researcher Scholarship (Yonsei University)**<br>
 _Department of Electrical and Electronic Engineering_
 
-[2018.02] &nbsp; **Encouragement Prize at the 26th Samsung Humantech Paper Award (Samsung Electronics)**<br>
+[2018.02] &nbsp; **Encouragement Prize at the 24th Samsung Humantech Paper Award (Samsung Electronics)**<br>
 _Cg-CMT: Expanding Instruction Window via Coarse-Grained Instruction Commit_
 _Ipoom Jeong, Changmin Lee_<br>
 
