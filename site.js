@@ -1,0 +1,3 @@
+const query=document.getElementById('publication-search');
+const year=document.getElementById('publication-year');
+if(query&&year){const rows=[...document.querySelectorAll('.filter-item')];function filter(){const terms=query.value.toLowerCase().trim().split(/\s+/).filter(Boolean);let count=0;for(const row of rows){row.hidden=!terms.every(t=>row.dataset.search.includes(t))||(year.value!==''&&row.dataset.year!==year.value);if(!row.hidden)count++;}document.getElementById('results').textContent=`${count} publication${count===1?'':'s'}`;document.getElementById('empty').hidden=count!==0;}query.addEventListener('input',filter);year.addEventListener('change',filter);}
