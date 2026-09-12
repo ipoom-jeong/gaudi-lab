@@ -96,7 +96,15 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 .research-content h4+.publication{padding-top:16px}
 
 /* The publication index ends cleanly without a trailing divider. */
-#publication-list>.publication:last-child{border-bottom:0}
+#publication-list>.publication:last-child,#publication-list>.publication.last-visible{border-bottom:0}
+
+/* Publication views share the same search and year filters. */
+.publication-tabs{display:flex;gap:28px;border-bottom:1px solid var(--line);margin:0 0 28px}
+.publication-tabs [role=tab]{display:flex;align-items:center;justify-content:center;min-height:48px;padding:12px 2px;margin-bottom:-1px;border-bottom:3px solid transparent;text-decoration:none;font:400 17px/1.4 Arial,sans-serif;color:var(--muted);text-align:center}
+.publication-tabs [role=tab]:hover{color:#0875a6}
+.publication-tabs [aria-selected=true]{border-bottom-color:#0875a6;color:#0875a6}
+.publication-tabs [role=tab]:focus-visible{outline:3px solid #0795d9;outline-offset:4px}
+@media(max-width:480px){.publication-tabs{gap:16px}.publication-tabs [role=tab]{flex:1;min-width:0;font-size:16px}}
 
 /* Research descriptions use compact labels and scannable technical topic lists. */
 .research-content .feature h5{margin:0 0 8px;color:#0875a6;font-size:14px;font-weight:700;letter-spacing:.08em;line-height:1.4;text-transform:uppercase}
