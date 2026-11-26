@@ -58,18 +58,30 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 @media(max-width:420px){.member-grid{grid-template-columns:1fr}}
 .projects-content .feature figure{position:relative;width:100%;aspect-ratio:4/3;padding:0;overflow:hidden;background:#fff}
 .projects-content .feature figure img{position:absolute;inset:0;width:100%;height:100%;max-height:none;padding:18px;object-fit:contain;object-position:center}
-.framework-link{margin:0 0 48px}.photo-album{margin-bottom:56px}.album-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:28px}.album-heading h3{margin:0;font-family:Arial,sans-serif;font-size:23px;font-weight:600;letter-spacing:-.01em;line-height:1.4}.album-heading time{color:var(--muted);white-space:nowrap;font-size:14px}.album-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}.album-grid figure{margin:0}.album-grid .album-image{display:block;background:var(--soft);border-radius:12px;overflow:hidden}.album-grid img{display:block;width:100%;aspect-ratio:4/3;object-fit:contain}.album-grid figcaption{margin-top:12px;color:var(--muted);font-size:14px}
-@media(max-width:700px){.album-heading{align-items:flex-start;flex-direction:column;gap:12px}.album-grid{grid-template-columns:1fr}}
-.album-grid{grid-template-columns:repeat(3,minmax(0,1fr));align-items:stretch}.album-grid .album-image{height:100%}.album-grid img{height:100%;aspect-ratio:4/3;object-fit:cover}
-.album-meta{display:flex;align-items:center;flex-wrap:wrap;column-gap:16px;row-gap:6px;color:var(--muted);font-size:14px;line-height:1.6}
-.album-location{white-space:nowrap}
-.album-grid--portraits{grid-template-columns:repeat(4,minmax(0,1fr))}
-.album-grid--landscapes{grid-template-columns:repeat(4,minmax(0,1fr))}
-.album-grid--landscapes img{object-fit:contain}
-.album-grid--portraits .album-image{position:relative;aspect-ratio:3/4}
-.album-grid--portraits img{width:100%;height:100%;aspect-ratio:3/4;object-fit:contain}
-.album-grid--portraits .photo-rotate-clockwise{position:absolute;left:50%;top:50%;width:75%;height:auto;transform:translate(-50%,-50%) rotate(90deg)}
+/* Photos share a row height, while each width follows the original image ratio. */
+.framework-link{margin:0 0 48px}
+.photo-album{margin-bottom:56px}
+.album-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:24px;margin-bottom:28px}
+.album-heading h3{margin:0;font-family:Arial,sans-serif;font-size:23px;font-weight:600;letter-spacing:-.01em;line-height:1.4}
+.album-heading time{color:var(--muted);white-space:nowrap;font-size:14px}
+.album-meta{display:flex;justify-content:flex-end;align-items:center;flex-wrap:wrap;column-gap:16px;row-gap:6px;color:var(--muted);font-size:14px;line-height:1.6}
+.album-location{white-space:normal}
+.album-grid{display:flex;align-items:flex-start;gap:20px}
+.album-grid figure{flex:var(--photo-ratio,1) 1 0%;min-width:0;margin:0}
+.album-grid .album-image{display:block;height:auto;overflow:hidden;border-radius:12px;background:transparent}
+.album-grid img{display:block;width:100%;height:auto;aspect-ratio:auto}
+.album-grid figcaption{margin-top:12px;color:var(--muted);font-size:14px}
+.album-grid .photo-rotated .album-image{position:relative;aspect-ratio:var(--photo-ratio)}
+.album-grid .photo-rotate-clockwise{position:absolute;left:50%;top:50%;width:calc(100% / var(--photo-ratio));height:auto;max-width:none;transform:translate(-50%,-50%) rotate(90deg)}
 .album-grid:focus-visible{outline:3px solid #0795d9;outline-offset:4px}
+@media(max-width:700px){
+.album-heading{align-items:flex-start;flex-direction:column;gap:12px}
+.album-meta{justify-content:flex-start}
+.album-grid{--album-mobile-height:min(360px,calc((100vw - 56px) / var(--album-widest-ratio,1.5)));gap:16px;overflow-x:auto;scroll-snap-type:x proximity;scroll-padding-inline:4px;padding:0 4px 12px;margin-inline:-4px;-webkit-overflow-scrolling:touch}
+.album-grid figure{flex:0 0 calc(var(--photo-ratio,1) * var(--album-mobile-height));scroll-snap-align:start}
+.album-grid::-webkit-scrollbar{height:6px}
+.album-grid::-webkit-scrollbar-thumb{background:var(--line);border-radius:999px}
+}
 .contact-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:24px 0 36px}.contact-actions .button{width:100%;margin:0;text-decoration:none}
 .contact-content .join-guidance{font-size:17px;font-weight:400;letter-spacing:0;line-height:1.5;color:#526275}
 .contact-content h2:has(.join-guidance){display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
@@ -83,9 +95,7 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 .research-content .feature figure{position:relative;width:100%;aspect-ratio:4/3;padding:0;overflow:hidden;background:#172126;border-color:#4a514d}
 .research-content .feature figure img{position:absolute;inset:0;width:100%;height:100%;max-height:none;padding:0;object-fit:cover;object-position:center}
 @media(max-width:600px){.contact-actions{grid-template-columns:1fr}}
-@media(max-width:700px){.album-grid{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-padding-inline:4px;padding:0 4px 12px;margin-inline:-4px;-webkit-overflow-scrolling:touch}.album-grid figure{flex:0 0 min(86vw,420px);scroll-snap-align:start}.album-grid .album-image{height:auto}.album-grid img{height:auto;aspect-ratio:4/3}.album-grid::-webkit-scrollbar{height:6px}.album-grid::-webkit-scrollbar-thumb{background:var(--line);border-radius:999px}}
 
-.album-grid--portraits img{aspect-ratio:3/4}
 .research-content .feature{grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:32px}
 @media(max-width:900px){.research-content .feature{grid-template-columns:1fr;gap:24px}}
 
@@ -157,20 +167,6 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 .news .news-story-link{display:inline-block;margin-top:14px}
 .event-links{display:flex;flex-wrap:wrap;gap:10px 24px}
 .event-link-note{font-size:14px;font-weight:400}
-.engineers-day-album .album-heading{align-items:flex-start}
-.engineers-day-album .album-meta{justify-content:flex-end}
-.engineers-day-album .album-location{white-space:normal}
 .engineers-day-album .album-story{max-width:900px;margin:-8px 0 28px;color:var(--muted)}
 .engineers-day-album .album-story p{margin:0 0 12px}
-.engineers-day-album .album-grid .album-image{height:auto;aspect-ratio:4/3}
-.engineers-day-album .album-grid img{width:100%;height:100%;object-fit:contain}
-@media(max-width:700px){.engineers-day-album .album-meta{justify-content:flex-start}.engineers-day-album .album-story{margin-top:0}}
-
-
-/* Keep workshop and conference photos fully visible, including portrait posters and badges. */
-.conference-album .album-heading{align-items:flex-start}
-.conference-album .album-meta{justify-content:flex-end}
-.conference-album .album-location{white-space:normal}
-.conference-album .album-grid .album-image{height:auto;aspect-ratio:4/3}
-.conference-album .album-grid img{width:100%;height:100%;object-fit:contain}
-@media(max-width:700px){.conference-album .album-meta{justify-content:flex-start}}
+@media(max-width:700px){.engineers-day-album .album-story{margin-top:0}}
