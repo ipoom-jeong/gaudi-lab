@@ -166,3 +166,11 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 .engineers-day-album .album-grid img{width:100%;height:100%;object-fit:contain}
 @media(max-width:700px){.engineers-day-album .album-meta{justify-content:flex-start}.engineers-day-album .album-story{margin-top:0}}
 
+
+/* Keep workshop and conference photos fully visible, including portrait posters and badges. */
+.conference-album .album-heading{align-items:flex-start}
+.conference-album .album-meta{justify-content:flex-end}
+.conference-album .album-location{white-space:normal}
+.conference-album .album-grid .album-image{height:auto;aspect-ratio:4/3}
+.conference-album .album-grid img{width:100%;height:100%;object-fit:contain}
+@media(max-width:700px){.conference-album .album-meta{justify-content:flex-start}}
