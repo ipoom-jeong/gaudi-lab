@@ -151,3 +151,18 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 
 /* Never leave a decorative divider below the final content of an internal page. */
 .page-content .prose>hr:last-child{display:none}
+
+
+/* Engineers’ Day story: preserve full photographs and connect the three news views. */
+.news .news-story-link{display:inline-block;margin-top:14px}
+.event-links{display:flex;flex-wrap:wrap;gap:10px 24px}
+.event-link-note{font-size:14px;font-weight:400}
+.engineers-day-album .album-heading{align-items:flex-start}
+.engineers-day-album .album-meta{justify-content:flex-end}
+.engineers-day-album .album-location{white-space:normal}
+.engineers-day-album .album-story{max-width:900px;margin:-8px 0 28px;color:var(--muted)}
+.engineers-day-album .album-story p{margin:0 0 12px}
+.engineers-day-album .album-grid .album-image{height:auto;aspect-ratio:4/3}
+.engineers-day-album .album-grid img{width:100%;height:100%;object-fit:contain}
+@media(max-width:700px){.engineers-day-album .album-meta{justify-content:flex-start}.engineers-day-album .album-story{margin-top:0}}
+
