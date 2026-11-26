@@ -68,7 +68,7 @@ html{scroll-behavior:smooth;scroll-padding-top:120px}a:focus-visible,summary:foc
 .album-location{white-space:normal}
 .album-grid{display:flex;align-items:flex-start;gap:20px}
 .album-grid figure{flex:var(--photo-ratio,1) 1 0%;min-width:0;margin:0}
-.album-grid .album-image{display:block;height:auto;overflow:hidden;border-radius:12px;background:transparent}
+.album-grid .album-image{display:block;aspect-ratio:var(--photo-ratio);height:auto;overflow:hidden;border-radius:12px;background:transparent}
 .album-grid img{display:block;width:100%;height:auto;aspect-ratio:auto}
 .album-grid figcaption{margin-top:12px;color:var(--muted);font-size:14px}
 .album-grid .photo-rotated .album-image{position:relative;aspect-ratio:var(--photo-ratio)}
